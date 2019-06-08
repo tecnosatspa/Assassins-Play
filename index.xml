@@ -5,13 +5,13 @@
 <thumbnail>http://ignoreme</thumbnail>
 <fanart>http://ignoreme</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/peliculas.xml</externallink>
+<externallink>http://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/peliculas.xml</externallink>
 </item>
 
 <item>
 <title>Series</title>
-<urlsolve>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/series/Games%20of%20Thrones.xml</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://ignoreme</thumbnail>
+<fanart>http://ignoreme</fanart>
+<link>http://ignoreme</link>
+<externallink>http://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/series/Series.xml</externallink>
 </item>
-
