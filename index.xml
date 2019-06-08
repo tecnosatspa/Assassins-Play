@@ -8,3 +8,10 @@
 <externallink>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/peliculas.xml</externallink>
 </item>
 
+<item>
+<title>Series</title>
+<urlsolve>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/series/Games%20of%20Thrones.xml</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
