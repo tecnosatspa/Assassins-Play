@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>Series</title>
-<urlsolve>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/series/Games%20of%20Thrones.xml</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>Games of Thtones</title>
+<thumbnail>http://ignoreme</thumbnail>
+<fanart>http://ignoreme</fanart>
+<link>http://ignoreme</link>
+<externallink>http://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/series/Games%20of%20Thrones.xml</externallink>
 </item>
