@@ -1,0 +1,4 @@
+<dir>
+    <title>Action</title>
+    <trakt>http://api.trakt.tv/users/movistapp/lists/action?sort=rank,asc/items</trakt>
+</dir>
