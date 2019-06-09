@@ -1,5 +1,5 @@
 <dir>
-    <title>Action</title>
+    <title>Peliculas</title>
     <trakt>http://api.trakt.tv/users/movistapp/lists/action?sort=rank,asc/items</trakt>
 	<thumbnail>http://</thumbnail>
 </dir>
