@@ -2,20 +2,14 @@
 
 
 <item>
-<title>TEST</title>
-<urlsolve>https://openload.co/f/Lpp9uwPpSYg/La_leyenda_del_gigante_de_la_monta%C3%B1a.mp4#</urlsolve>
-<thumbnail>https://i.postimg.cc/767zWsT8/thumbnail-Capitana-Marvel.jpg</thumbnail>
-<fanart>https://i.postimg.cc/WzTdf2vg/fanart-Capitana-Marvel.jpg</fanart>
+<title>The Ring (2002)</title>
+<urlsolve>https://openload.co/f/38W-qAelYOE/The.Ring.1080p.bluray.x265.latino.mkv#</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
 <title>Pokémon Detective Pikachu (2019)</title>
-  <meta>
-    <content>pelicula</content>
-    <imdb>tt5884052</imdb>
-    <tittle>Pokémon Detective Pikachu</tittle>
-    <year>2019</year>
-  </meta>
 <urlsolve>https://docs.google.com/file/d/1Po2XoP7F5mrx9r3IjVTztfCCGOiC9MpX/preview</urlsolve>
 <thumbnail>http://i.postimg.cc/pLs6cQmk/thumbnail-Pok-mon-Detective-Pikachu.jpg</thumbnail>
 <fanart>http://i.postimg.cc/5tjkhHvJ/fanart-Pok-mon-Detective-Pikachu.jpg</fanart>
@@ -23,7 +17,10 @@
 
 <item>
 <title>Capitana Marvel (2019)</title>
-<urlsolve>http://docs.google.com/file/d/1mLI-9E-mYRG0oWskXP323vVo5WVkkm4y/preview</urlsolve>
+<link>
+  <sublink>http://docs.google.com/file/d/1mLI-9E-mYRG0oWskXP323vVo5WVkkm4y/preview</sublink>
+  <sublink>https://docs.google.com/file/d/10Csh-eQu8_ezAR_VxCntUfPpq46_nMSv/preview</sublink>
+</link>
 <thumbnail>https://i.postimg.cc/767zWsT8/thumbnail-Capitana-Marvel.jpg</thumbnail>
 <fanart>https://i.postimg.cc/WzTdf2vg/fanart-Capitana-Marvel.jpg</fanart>
 </item>
