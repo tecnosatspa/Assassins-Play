@@ -1,0 +1,4 @@
+<dir>
+    <title>Peliculas</title>
+    <trakt>https://api.trakt.tv/users/giladg/lists/latest-releases?sort=added,asc/items</trakt>
+</dir>
