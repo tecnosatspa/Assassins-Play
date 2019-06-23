@@ -41,8 +41,22 @@ http://34.210.107.160:80/live/cyx-3ABEF41742F6b4bf681424B4E0B9.ts
 http://52.34.141.171:80/live/cyx-682B471E48CFa784A6D668313170.ts
 #EXTINF:-1 tvg-id="FOX SPORTS HD CENTRAL" tvg-name="FOX SPORTS HD CENTRAL" tvg-logo="" group-title="DEPORTES", FOX SPORTS HD CENTRAL
 http://52.36.95.136:80/live/cyx-09949DFE46B58db1FD511770C89A.ts
-#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM HD ARG" tvg-name="FOX SPORTS PREMIUM HD ARG" tvg-logo="" group-title="DEPORTED", FOX SPORTS PREMIUM HD ARG
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM HD ARG" tvg-name="FOX SPORTS PREMIUM HD ARG" tvg-logo="" group-title="DEPORTES", FOX SPORTS PREMIUM HD ARG
 http://34.209.120.237:80/live/cyx-6A5BD66F4D688bc8335D2C445D23.ts
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="" group-title="", ESPN HD
+http://54.203.129.245:80/live/cyx-5526D76F418Dadaa12075D684403.ts
+#EXTINF:-1 tvg-id="ESPN HD CENTRAL" tvg-name="ESPN HD CENTRAL" tvg-logo="" group-title="", ESPN HD CENTRAL
+http://54.203.129.245:80/live/cyx-cndm2wh9OdhFWR75Sc7KzpwLkM1u.ts
+#EXTINF:-1 tvg-id="ESPN + HD" tvg-name="ESPN + HD" tvg-logo="" group-title="", ESPN + HD
+http://52.34.141.171:80/live/cyx-cndm2wh9OdhFWR75Sc7KzpwLkM1u.ts
+#EXTINF:-1 tvg-id="ESPN + HD CENTRAL" tvg-name="ESPN + HD CENTRAL" tvg-logo="" group-title="", ESPN + HD CENTRAL
+http://34.210.107.160:80/live/cyx-82AA096548B7bdc40409351DBA52.ts
+#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 2 HD" tvg-logo="" group-title="", ESPN 2 HD
+http://34.210.107.160:80/live/cyx-9A00459B4CFAba10FC93719718F1.ts
+#EXTINF:-1 tvg-id="ESPN 2 HD CENTRAL" tvg-name="ESPN 2 HD CENTRAL" tvg-logo="" group-title="", ESPN 2 HD CENTRAL
+http://52.36.95.136:80/live/cyx-FB6E252E4B7480b682A6C30101DD.ts
+#EXTINF:-1 tvg-id="ESPN 3 HD" tvg-name="ESPN 3 HD" tvg-logo="" group-title="",ESPN 3 HD
+http://52.36.95.136:80/live/cyx-5E609FF8444Eb95b572A9B300767.ts
 #EXTINF:-1 tvg-id="CHV HD" tvg-name="CHV HD" tvg-logo="https://i.postimg.cc/FzDfP1q0/CHV-SD.jpg" group-title="CHILE", CHV HD
 http://34.209.120.237:80/live/cyx-D517F2C442A48e92C9CBB379A4C8.ts
 #EXTINF:-1 tvg-id="CANAL 13 HD" tvg-name="CANAL 13 HD" tvg-logo="https://i.postimg.cc/T1Qg5tJj/CANAL-13-SD.jpg" group-title="CHILE", CANAL 13 HD
