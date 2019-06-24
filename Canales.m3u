@@ -63,6 +63,20 @@ http://52.34.141.171:80/live/cyx-682B471E48CFa784A6D668313170.ts
 http://52.36.95.136:80/live/cyx-09949DFE46B58db1FD511770C89A.ts
 #EXTINF:-1 tvg-id="FOX SPORTS PREMIUM HD ARG" tvg-name="FOX SPORTS PREMIUM HD ARG" tvg-logo="" group-title="DEPORTES", FOX SPORTS PREMIUM HD ARG
 http://34.209.120.237:80/live/cyx-6A5BD66F4D688bc8335D2C445D23.ts
+#EXTINF:-1 tvg-id="BEIN SPORTS Ñ HD" tvg-name="BEIN SPORTS Ñ HD" tvg-logo="" group-title="DEPORTES", BEIN SPORTS Ñ HD
+http://52.34.141.171/live/cyx-14CB0DEB4A178f5e5BA329C9A625.ts
+#EXTINF:-1 tvg-id="GOL TV ECUADOR HD" tvg-name="GOL TV ECUADOR HD" tvg-logo="" group-title="DEPORTES", GOL TV ECUADOR HD
+http://34.209.120.237/live/cyx-6CD7CF4E4E519d3e9AF7E66C2695.ts
+#EXTINF:-1 tvg-id="MOVISTAR DEPORTES HD" tvg-name="MOVISTAR DEPORTES HD" tvg-logo="" group-title="DEPORTES", MOVISTAR DEPORTES HD
+http://34.209.120.237/live/cyx-AD6412F44CA79ffe29A4CA4CA6CD.ts
+#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="" group-title="DEPORTES", NBA TV
+http://52.34.141.171/live/cyx-NAB1IJO4Y2Qcy5NytlyWKAELtq3wKu1D.ts
+#EXTINF:-1 tvg-id="TNT SPORTS ARGENTINA HD" tvg-name="TNT SPORTS ARGENTINA HD" tvg-logo="" group-title="DEPORTES", TNT SPORTS ARGENTINA HD
+http://52.36.95.136/live/cyx-8A79F3224CACabc2B6427DF21E48.ts
+#EXTINF:-1 tvg-id="TyC SPORTS HD" tvg-name="TyC SPORTS HD" tvg-logo="" group-title="DEPORTES", TyC SPORTS HD
+http://34.210.107.160/live/cyx-4024403E46E7afde33D0C369FE4D.ts
+#EXTINF:-1 tvg-id="WIN SPORTS HD" tvg-name="WIN SPORTS HD" tvg-logo="" group-title="DEPORTES", WIN SPORTS HD
+http://54.203.129.245/live/cyx-B7CAB2C64BD1aab37EA8B1FEC1C2.ts
 #EXTINF:-1 tvg-id="CHV HD" tvg-name="CHV HD" tvg-logo="https://i.postimg.cc/FzDfP1q0/CHV-SD.jpg" group-title="CHILE", CHV HD
 http://34.209.120.237:80/live/cyx-D517F2C442A48e92C9CBB379A4C8.ts
 #EXTINF:-1 tvg-id="CANAL 13 HD" tvg-name="CANAL 13 HD" tvg-logo="https://i.postimg.cc/T1Qg5tJj/CANAL-13-SD.jpg" group-title="CHILE", CANAL 13 HD
