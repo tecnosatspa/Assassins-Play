@@ -77,7 +77,17 @@ http://52.36.95.136/live/cyx-8A79F3224CACabc2B6427DF21E48.ts
 http://34.210.107.160/live/cyx-4024403E46E7afde33D0C369FE4D.ts
 #EXTINF:-1 tvg-id="WIN SPORTS HD" tvg-name="WIN SPORTS HD" tvg-logo="" group-title="DEPORTES", WIN SPORTS HD
 http://54.203.129.245/live/cyx-B7CAB2C64BD1aab37EA8B1FEC1C2.ts
-#EXTINF:-1 tvg-id="CHV HD" tvg-name="CHV HD" tvg-logo="https://i.postimg.cc/FzDfP1q0/CHV-SD.jpg" group-title="CHILE", CHV HD
-http://34.209.120.237:80/live/cyx-D517F2C442A48e92C9CBB379A4C8.ts
 #EXTINF:-1 tvg-id="CANAL 13 HD" tvg-name="CANAL 13 HD" tvg-logo="https://i.postimg.cc/T1Qg5tJj/CANAL-13-SD.jpg" group-title="CHILE", CANAL 13 HD
 http://34.209.120.237/live/cyx-F5133D8044D9973521BEC9909FAF.ts
+#EXTINF:-1 tvg-id="CHV HD" tvg-name="CHV HD" tvg-logo="https://i.postimg.cc/FzDfP1q0/CHV-SD.jpg" group-title="CHILE", CHV HD
+http://34.209.120.237:80/live/cyx-D517F2C442A48e92C9CBB379A4C8.ts
+#EXTINF:-1 tvg-id="MEGA HD" tvg-name="MEGA HD" tvg-logo="" group-title="CHILE", MEGA HD
+http://54.203.129.245/live/cyx-4C73048D477Eb9ba07F5BF09ADC4.ts
+#EXTINF:-1 tvg-id="TVN HD" tvg-name="TVN HD" tvg-logo="" group-title="CHILE", TVN HD
+http://52.34.141.171/live/cyx-5E0BF5F947728f3e46A9A317C41F.ts
+#EXTINF:-1 tvg-id="LA RED HD" tvg-name="LA RED HD" tvg-logo="" group-title="CHILE", LA RED HD
+http://52.34.141.171/live/cyx-1F3251F9425197449B94E006D8EB.ts
+#EXTINF:-1 tvg-id="CNN CHILE HD" tvg-name="CNN CHILE HD" tvg-logo="" group-title="CHILE", CNN CHILE HD
+http://34.210.107.160/live/cyx-7D8ECCA24B809980796A31B4EF6A.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHILE", CANAL 24HR CHILE HD
+http://52.34.141.171/live/cyx-DE79C1C2486Daac02729E8A5CD8C.ts
