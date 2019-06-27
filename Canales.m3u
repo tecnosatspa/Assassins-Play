@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="EPG123.18955.XMLTV.CO" tvg-name="HBO HD" tvg-logo="https://i.postimg.cc/ZKgmKMYQ/HBO.png" group-title="CINE",HBO HD
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://i.postimg.cc/ZKgmKMYQ/HBO.png" group-title="CINE",HBO HD
 http://52.36.95.136/live/cyx-77A5D9654951a0fc826015EC4D3A.ts
 #EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="HBO 2 HD" tvg-logo="https://i.postimg.cc/sfTyb2ks/HBO-2.png" group-title="CINE",HBO 2 HD
 http://34.217.235.55:80/live/cyx-ED18F2D042E0a44fED97986CA356.ts
@@ -23,11 +23,11 @@ http://54.203.129.245/live/cyx-740D02D04B73b07f15C899D0CAD0.ts
 http://34.209.120.237/live/cyx-F5ECCD9A445Cb273359428E1C581.ts
 #EXTINF:-1 tvg-id="FOX SERIES HD" tvg-name="FOX SERIES HD" tvg-logo="https://i.postimg.cc/1X3SfxNk/FOX-SERIES.png" group-title="CINE", FOX SERIES HD
 http://54.203.129.245:80/live/cyx-AFDE3A194160af44F2876C2569F3.ts
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://i.postimg.cc/0jnZ1LcD/TNT-SD.jpg" group-title="CINE", TNT HD
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://i.postimg.cc/0y0MbBc9/TNT.png" group-title="CINE", TNT HD
 http://52.34.141.171:80/live/cyx-93C15D1244B5a536244D1FBA496A.ts
-#EXTINF:-1 tvg-id="WARNER CHANNEL HD" tvg-name="WARNER CHANNEL HD" tvg-logo="https://i.postimg.cc/x8gvkLrz/WARNER_CHANNEL_SD.jpg" group-title="CINE", WARNER CHANNEL HD
+#EXTINF:-1 tvg-id="WARNER CHANNEL HD" tvg-name="WARNER CHANNEL HD" tvg-logo="https://i.postimg.cc/s2fBS4N7/WARNER.png" group-title="CINE", WARNER CHANNEL HD
 http://54.203.129.245:80/live/cyx-2FB6F70345E6b1743EAF2BAACB01.ts
-#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="" group-title="CINE", A&E HD
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="https://i.postimg.cc/bwhSYh06/A-E.png" group-title="CINE", A&E HD
 http://54.213.30.230/live/cyx-7BCA096543B49d9fF5E93008926A.ts
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="https://i.postimg.cc/L609gsDN/AXN.png" group-title="CINE", AXN HD
 http://54.213.30.230/live/cyx-45A8419F4A50afa2061838104FA8.ts
@@ -41,7 +41,7 @@ http://54.213.30.230/live/cyx-222C0D274909bcf12CEACB4D8AA7.ts
 http://54.213.30.230/live/cyx-C9EB0B2644979328E598EAFED311.ts
 #EXTINF:-1 tvg-id="DE PELICULA" tvg-name="DE PELICULA" tvg-logo="" group-title="CINE", DE PELICULA
 http://54.213.30.230/live/cyx-9B54C4D240679a501FDAD5F3DB6F.ts
-#EXTINF:-1 tvg-id="CDF HD" tvg-name="CDF HD" tvg-logo="https://i.postimg.cc/BbM6Jz4D/CDF-HD.jpg" group-title="DEPORTES", CDF HD
+#EXTINF:-1 tvg-id="CDF HD" tvg-name="CDF HD" tvg-logo="https://i.postimg.cc/x1nqDPYh/CDF-HD.png" group-title="DEPORTES", CDF HD
 http://34.217.235.55:80/live/cyx-34CE6824407D9d0397EA487BB30D.ts
 #EXTINF:-1 tvg-id="DIRECTV SPORTS HD" tvg-name="DIRECTV SPORTS HD" tvg-logo="" group-title="DEPORTES", DIRECTV SPORTS HD
 http://54.203.129.245/live/cyx-810013A348E6aed0BF0F6F8AB8EB.ts
@@ -49,35 +49,35 @@ http://54.203.129.245/live/cyx-810013A348E6aed0BF0F6F8AB8EB.ts
 http://52.36.95.136/live/cyx-43361C88458481232EAA93D50F11.ts
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 2 HD" tvg-name="DIRECTV SPORTS 2 HD" tvg-logo="" group-title="DEPORTES", DIRECTV SPORTS 2 HD
 http://54.203.129.245/live/cyx-715A94454CDB870833D9B9587CFA.ts
-#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="" group-title="", ESPN HD
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="https://i.postimg.cc/tgmg6QPG/ESPN.png" group-title="DEPORTES", ESPN HD
 http://54.203.129.245:80/live/cyx-5526D76F418Dadaa12075D684403.ts
-#EXTINF:-1 tvg-id="ESPN HD CENTRAL" tvg-name="ESPN HD CENTRAL" tvg-logo="" group-title="", ESPN HD CENTRAL
+#EXTINF:-1 tvg-id="ESPN HD CENTRAL" tvg-name="ESPN HD CENTRAL" tvg-logo="https://i.postimg.cc/nrqVNXWn/ESPN-CENTRAL.png" group-title="DEPORTES", ESPN HD CENTRAL
 http://54.203.129.245:80/live/cyx-cndm2wh9OdhFWR75Sc7KzpwLkM1u.ts
-#EXTINF:-1 tvg-id="ESPN + HD" tvg-name="ESPN + HD" tvg-logo="" group-title="", ESPN + HD
+#EXTINF:-1 tvg-id="ESPN + HD" tvg-name="ESPN + HD" tvg-logo="https://i.postimg.cc/0NNQr2zC/ESPN.png" group-title="DEPORTES", ESPN + HD
 http://52.34.141.171:80/live/cyx-cndm2wh9OdhFWR75Sc7KzpwLkM1u.ts
-#EXTINF:-1 tvg-id="ESPN + HD CENTRAL" tvg-name="ESPN + HD CENTRAL" tvg-logo="" group-title="", ESPN + HD CENTRAL
+#EXTINF:-1 tvg-id="ESPN + HD CENTRAL" tvg-name="ESPN + HD CENTRAL" tvg-logo="https://i.postimg.cc/0NNQr2zC/ESPN.png" group-title="DEPORTES", ESPN + HD CENTRAL
 http://34.210.107.160:80/live/cyx-82AA096548B7bdc40409351DBA52.ts
-#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 2 HD" tvg-logo="" group-title="", ESPN 2 HD
+#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 2 HD" tvg-logo="https://i.postimg.cc/gJX2qSqX/ESPN-2.png" group-title="DEPORTES", ESPN 2 HD
 http://34.210.107.160:80/live/cyx-9A00459B4CFAba10FC93719718F1.ts
-#EXTINF:-1 tvg-id="ESPN 2 HD CENTRAL" tvg-name="ESPN 2 HD CENTRAL" tvg-logo="" group-title="", ESPN 2 HD CENTRAL
+#EXTINF:-1 tvg-id="ESPN 2 HD CENTRAL" tvg-name="ESPN 2 HD CENTRAL" tvg-logo="https://i.postimg.cc/9Qb0WqQM/ESPN-2-CENTRAL.png" group-title="DEPORTES", ESPN 2 HD CENTRAL
 http://52.36.95.136:80/live/cyx-FB6E252E4B7480b682A6C30101DD.ts
-#EXTINF:-1 tvg-id="ESPN 3 HD" tvg-name="ESPN 3 HD" tvg-logo="" group-title="",ESPN 3 HD
+#EXTINF:-1 tvg-id="ESPN 3 HD" tvg-name="ESPN 3 HD" tvg-logo="https://i.postimg.cc/HxqsSwBS/ESPN-3.png" group-title="DEPORTES",ESPN 3 HD
 http://52.36.95.136:80/live/cyx-5E609FF8444Eb95b572A9B300767.ts
-#EXTINF:-1 tvg-id="FOX SPORTS 1 HD CHILE" tvg-name="FOX SPORTS 1 HD CHILE" tvg-logo="" group-title="DEPORTES", FOX SPORTS 1 HD CHILE
+#EXTINF:-1 tvg-id="FOX SPORTS 1 HD CHILE" tvg-name="FOX SPORTS 1 HD CHILE" tvg-logo="https://i.postimg.cc/MGX6qPLP/FOX-SPORTS-CHILE.png" group-title="DEPORTES", FOX SPORTS 1 HD CHILE
 http://34.209.120.237:80/live/cyx-1980EA884BA3b128267444A96B53.ts
-#EXTINF:-1 tvg-id="FOX SPORTS 2 HD" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://i.postimg.cc/WzX6Krbn/FOX-SPORTS-2-SD.jpg" group-title="DEPORTES", FOX SPORTS 2 HD
+#EXTINF:-1 tvg-id="FOX SPORTS 2 HD" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://i.postimg.cc/zX1GKkLv/FOX-SPORTS-2.png" group-title="DEPORTES", FOX SPORTS 2 HD
 http://52.34.141.171/live/cyx-4071500F4EA58a2f69C5D555591A.ts
-#EXTINF:-1 tvg-id="FOX SPORTS 2 HD CENTRAL" tvg-name="FOX SPORTS 2 HD CENTRAL" tvg-logo="" group-title="DEPORTES", FOX SPORTS 2 HD CENTRAL
+#EXTINF:-1 tvg-id="FOX SPORTS 2 HD CENTRAL" tvg-name="FOX SPORTS 2 HD CENTRAL" tvg-logo="https://i.postimg.cc/zX1GKkLv/FOX-SPORTS-2.png" group-title="DEPORTES", FOX SPORTS 2 HD CENTRAL
 http://34.210.107.160:80/live/cyx-A330DA5B45DEa2e96A69E2A9E92D.ts
-#EXTINF:-1 tvg-id="FOX SPORTS 3 HD" tvg-name="FOX SPORTS 3 HD" tvg-logo="" group-title="DEPORTES", FOX SPORTS 3 HD
+#EXTINF:-1 tvg-id="FOX SPORTS 3 HD" tvg-name="FOX SPORTS 3 HD" tvg-logo="https://i.postimg.cc/GhJhQsYQ/FOX-SPORTS-3.png" group-title="DEPORTES", FOX SPORTS 3 HD
 http://34.217.235.55:80/live/cyx-F9A673F047C7923d0C28D1989EA1.ts
-#EXTINF:-1 tvg-id="FOX SPORTS 3 HD CENTRAL" tvg-name="FOX SPORTS 3 HD CENTRAL" tvg-logo="" group-title="DEPORTES", FOX SPORTS 3 HD CENTRAL
+#EXTINF:-1 tvg-id="FOX SPORTS 3 HD CENTRAL" tvg-name="FOX SPORTS 3 HD CENTRAL" tvg-logo="https://i.postimg.cc/GhJhQsYQ/FOX-SPORTS-3.png" group-title="DEPORTES", FOX SPORTS 3 HD CENTRAL
 http://34.210.107.160:80/live/cyx-3ABEF41742F6b4bf681424B4E0B9.ts
-#EXTINF:-1 tvg-id="FOX SPORTS HD" tvg-name="FOX SPORTS HD" tvg-logo="" group-title="DEPORTES", FOX SPORTS HD
+#EXTINF:-1 tvg-id="FOX SPORTS HD" tvg-name="FOX SPORTS HD" tvg-logo="https://i.postimg.cc/Bvyq659q/FOX-SPORTS.png" group-title="DEPORTES", FOX SPORTS HD
 http://52.34.141.171:80/live/cyx-682B471E48CFa784A6D668313170.ts
-#EXTINF:-1 tvg-id="FOX SPORTS HD CENTRAL" tvg-name="FOX SPORTS HD CENTRAL" tvg-logo="" group-title="DEPORTES", FOX SPORTS HD CENTRAL
+#EXTINF:-1 tvg-id="FOX SPORTS HD CENTRAL" tvg-name="FOX SPORTS HD CENTRAL" tvg-logo="https://i.postimg.cc/Bvyq659q/FOX-SPORTS.png" group-title="DEPORTES", FOX SPORTS HD CENTRAL
 http://52.36.95.136:80/live/cyx-09949DFE46B58db1FD511770C89A.ts
-#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM HD ARG" tvg-name="FOX SPORTS PREMIUM HD ARG" tvg-logo="" group-title="DEPORTES", FOX SPORTS PREMIUM HD ARG
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM HD ARG" tvg-name="FOX SPORTS PREMIUM HD ARG" tvg-logo="https://i.postimg.cc/gch0x721/FOX-PREMIUM-ARG.png" group-title="DEPORTES", FOX SPORTS PREMIUM HD ARG
 http://34.209.120.237:80/live/cyx-6A5BD66F4D688bc8335D2C445D23.ts
 #EXTINF:-1 tvg-id="BEIN SPORTS Ñ HD" tvg-name="BEIN SPORTS Ñ HD" tvg-logo="" group-title="DEPORTES", BEIN SPORTS Ñ HD
 http://52.34.141.171/live/cyx-14CB0DEB4A178f5e5BA329C9A625.ts
@@ -87,23 +87,23 @@ http://34.209.120.237/live/cyx-6CD7CF4E4E519d3e9AF7E66C2695.ts
 http://34.209.120.237/live/cyx-AD6412F44CA79ffe29A4CA4CA6CD.ts
 #EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="" group-title="DEPORTES", NBA TV
 http://52.34.141.171/live/cyx-NAB1IJO4Y2Qcy5NytlyWKAELtq3wKu1D.ts
-#EXTINF:-1 tvg-id="TNT SPORTS ARGENTINA HD" tvg-name="TNT SPORTS ARGENTINA HD" tvg-logo="" group-title="DEPORTES", TNT SPORTS ARGENTINA HD
+#EXTINF:-1 tvg-id="TNT SPORTS ARGENTINA HD" tvg-name="TNT SPORTS ARGENTINA HD" tvg-logo="https://i.postimg.cc/fRzWgTfh/TNT-SPORTS-ARG.png" group-title="DEPORTES", TNT SPORTS ARGENTINA HD
 http://52.36.95.136/live/cyx-8A79F3224CACabc2B6427DF21E48.ts
 #EXTINF:-1 tvg-id="TyC SPORTS HD" tvg-name="TyC SPORTS HD" tvg-logo="" group-title="DEPORTES", TyC SPORTS HD
 http://34.210.107.160/live/cyx-4024403E46E7afde33D0C369FE4D.ts
-#EXTINF:-1 tvg-id="WIN SPORTS HD" tvg-name="WIN SPORTS HD" tvg-logo="" group-title="DEPORTES", WIN SPORTS HD
+#EXTINF:-1 tvg-id="WIN SPORTS HD" tvg-name="WIN SPORTS HD" tvg-logo="https://i.postimg.cc/x16jrD6N/WIN-SPORTS.png" group-title="DEPORTES", WIN SPORTS HD
 http://54.203.129.245/live/cyx-B7CAB2C64BD1aab37EA8B1FEC1C2.ts
-#EXTINF:-1 tvg-id="CANAL 13 HD" tvg-name="CANAL 13 HD" tvg-logo="https://i.postimg.cc/T1Qg5tJj/CANAL-13-SD.jpg" group-title="CHILE", CANAL 13 HD
+#EXTINF:-1 tvg-id="CANAL 13 HD" tvg-name="CANAL 13 HD" tvg-logo="https://i.postimg.cc/TPbsVn52/CANAL-13.png" group-title="CHILE", CANAL 13 HD
 http://34.209.120.237/live/cyx-F5133D8044D9973521BEC9909FAF.ts
-#EXTINF:-1 tvg-id="CHV HD" tvg-name="CHV HD" tvg-logo="https://i.postimg.cc/FzDfP1q0/CHV-SD.jpg" group-title="CHILE", CHV HD
+#EXTINF:-1 tvg-id="CHV HD" tvg-name="CHV HD" tvg-logo="https://i.postimg.cc/Sx35Ygst/CHV.png" group-title="CHILE", CHV HD
 http://34.209.120.237:80/live/cyx-D517F2C442A48e92C9CBB379A4C8.ts
 #EXTINF:-1 tvg-id="MEGA HD" tvg-name="MEGA HD" tvg-logo="" group-title="CHILE", MEGA HD
 http://54.203.129.245/live/cyx-4C73048D477Eb9ba07F5BF09ADC4.ts
-#EXTINF:-1 tvg-id="TVN HD" tvg-name="TVN HD" tvg-logo="" group-title="CHILE", TVN HD
+#EXTINF:-1 tvg-id="TVN HD" tvg-name="TVN HD" tvg-logo="https://i.postimg.cc/PxkR2N1W/TVN.png" group-title="CHILE", TVN HD
 http://52.34.141.171/live/cyx-5E0BF5F947728f3e46A9A317C41F.ts
 #EXTINF:-1 tvg-id="LA RED HD" tvg-name="LA RED HD" tvg-logo="" group-title="CHILE", LA RED HD
 http://52.34.141.171/live/cyx-1F3251F9425197449B94E006D8EB.ts
-#EXTINF:-1 tvg-id="CNN CHILE HD" tvg-name="CNN CHILE HD" tvg-logo="" group-title="CHILE", CNN CHILE HD
+#EXTINF:-1 tvg-id="CNN CHILE HD" tvg-name="CNN CHILE HD" tvg-logo="https://i.postimg.cc/vTYSwjqD/CNN-CHILE.png" group-title="CHILE", CNN CHILE HD
 http://34.210.107.160/live/cyx-7D8ECCA24B809980796A31B4EF6A.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHILE", CANAL 24HR CHILE HD
+#EXTINF:-1 tvg-id="CANAL 24HR CHILE HD" tvg-name="CANAL 24HR CHILE HD" tvg-logo="https://i.postimg.cc/LXB07RVr/CANAL-24-HORAS.png" group-title="CHILE", CANAL 24HR CHILE HD
 http://52.34.141.171/live/cyx-DE79C1C2486Daac02729E8A5CD8C.ts
