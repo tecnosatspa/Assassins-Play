@@ -1,27 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://i.postimg.cc/3N1yL9NL/HBO-SD.jpg" group-title="CINE",HBO HD
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://i.postimg.cc/ZKgmKMYQ/HBO.png" group-title="CINE",HBO HD
 http://52.36.95.136/live/cyx-77A5D9654951a0fc826015EC4D3A.ts
-#EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="HBO 2 HD" tvg-logo="https://i.postimg.cc/j2cDRgsN/HBO-2-SD.jpg" group-title="CINE",HBO 2 HD
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="HBO 2 HD" tvg-logo="https://i.postimg.cc/sfTyb2ks/HBO-2.png" group-title="CINE",HBO 2 HD
 http://34.217.235.55:80/live/cyx-ED18F2D042E0a44fED97986CA356.ts
-#EXTINF:-1 tvg-id="HBO FAMILY HD" tvg-name="HBO FAMILY HD" tvg-logo="https://i.postimg.cc/MH5gtRDq/HBO-FAMILY-SD.jpg" group-title="CINE", HBO FAMILY HD
+#EXTINF:-1 tvg-id="HBO FAMILY HD" tvg-name="HBO FAMILY HD" tvg-logo="https://i.postimg.cc/rFzcTkTW/HBO-FAMILY.png" group-title="CINE", HBO FAMILY HD
 http://52.36.95.136/live/cyx-C50652A740C0aa13A031A19DE00A.ts
-#EXTINF:-1 tvg-id="HBO SIGNATURE HD" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.postimg.cc/MHtmmcT2/HBO_SIGNATURE_SD.jpg" group-title="CINE", HBO SIGNATURE HD
+#EXTINF:-1 tvg-id="HBO SIGNATURE HD" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.postimg.cc/2SZDq7VS/HBO-SIGNATURE.png" group-title="CINE", HBO SIGNATURE HD
 http://52.36.95.136/live/cyx-D36A8B244257bb7e0DC9C32367B9.ts
-#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX HD" tvg-logo="https://i.postimg.cc/4ywTnNCK/FOX-SD.jpg" group-title="CINE", FOX HD
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX HD" tvg-logo="https://i.postimg.cc/GtgCDMFH/FOX.png" group-title="CINE", FOX HD
 http://34.209.120.237/live/cyx-A5372B8044F289b47713B35347DA.ts
-#EXTINF:-1 tvg-id="FOX CENTRAL HD" tvg-name="FOX CENTRAL HD" tvg-logo="" group-title="CINE", FOX CENTRAL HD
+#EXTINF:-1 tvg-id="FOX CENTRAL HD" tvg-name="FOX CENTRAL HD" tvg-logo="https://i.postimg.cc/GtgCDMFH/FOX.png" group-title="CINE", FOX CENTRAL HD
 http://54.213.30.230/live/cyx-5D399BFD47ABb7d1217F1ACD45BC.ts
-#EXTINF:-1 tvg-id="FOX PREMIUM ACTION HD" tvg-name="FOX PREMIUM ACTION HD" tvg-logo="https://i.postimg.cc/cCT1ypFy/FOX-ACTION-SD.jpg" group-title="CINE", FOX PREMIUM ACTION HD
+#EXTINF:-1 tvg-id="FOX PREMIUM ACTION HD" tvg-name="FOX PREMIUM ACTION HD" tvg-logo="https://i.postimg.cc/ncLVLm4X/FOX-ACTION.png" group-title="CINE", FOX PREMIUM ACTION HD
 http://52.36.95.136/live/cyx-1038D98D4463b9a797AA0C7E0F76.ts
-#EXTINF:-1 tvg-id="FOX CINEMA HD" tvg-name="FOX CINEMA HD" tvg-logo="https://i.postimg.cc/sxmwgdbR/FOX_CINEMA_SD.jpg" group-title="CINE", FOX CINEMA HD
+#EXTINF:-1 tvg-id="FOX CINEMA HD" tvg-name="FOX CINEMA HD" tvg-logo="https://i.postimg.cc/gcskdsZ9/FOX-CINEMA.png" group-title="CINE", FOX CINEMA HD
 http://52.36.95.136/live/cyx-9F402D9A434E8d6c336B61511A4E.ts
-#EXTINF:-1 tvg-id="FOX CINEMA HD" tvg-name="FOX CLASSICS HD" tvg-logo="https://i.postimg.cc/QCSZGzbF/FOX_CLASSICS.jpg" group-title="CINE", FOX CLASSICS HD
+#EXTINF:-1 tvg-id="FOX CINEMA HD" tvg-name="FOX CLASSICS HD" tvg-logo="https://i.postimg.cc/9QRWdjNV/FOX-CLASSICS.png" group-title="CINE", FOX CLASSICS HD
 http://34.209.120.237/live/cyx-565A038C4C129c1cEC87E31A3718.ts
-#EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="FOX COMEDY HD" tvg-logo="https://i.postimg.cc/D06yfGvN/FOX_COMEDY_SD.jpg" group-title="CINE", FOX COMEDY HD
+#EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="FOX COMEDY HD" tvg-logo="https://i.postimg.cc/FK0N6V4B/FOX-COMEDY.png" group-title="CINE", FOX COMEDY HD
 http://54.203.129.245/live/cyx-740D02D04B73b07f15C899D0CAD0.ts
-#EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="FOX MOVIES HD" tvg-logo="https://i.postimg.cc/yxjWPg9H/FOX-MOVIES-SD.jpg" group-title="CINE", FOX MOVIES HD
+#EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="FOX MOVIES HD" tvg-logo="https://i.postimg.cc/4d5Zf4nv/FOX-MOVIES.png" group-title="CINE", FOX MOVIES HD
 http://34.209.120.237/live/cyx-F5ECCD9A445Cb273359428E1C581.ts
-#EXTINF:-1 tvg-id="FOX SERIES HD" tvg-name="FOX SERIES HD" tvg-logo="https://i.postimg.cc/QCmwdhLm/FOX-SERIES-SD.jpg" group-title="CINE", FOX SERIES HD
+#EXTINF:-1 tvg-id="FOX SERIES HD" tvg-name="FOX SERIES HD" tvg-logo="https://i.postimg.cc/1X3SfxNk/FOX-SERIES.png" group-title="CINE", FOX SERIES HD
 http://54.203.129.245:80/live/cyx-AFDE3A194160af44F2876C2569F3.ts
 #EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://i.postimg.cc/0jnZ1LcD/TNT-SD.jpg" group-title="CINE", TNT HD
 http://52.34.141.171:80/live/cyx-93C15D1244B5a536244D1FBA496A.ts
@@ -29,15 +29,15 @@ http://52.34.141.171:80/live/cyx-93C15D1244B5a536244D1FBA496A.ts
 http://54.203.129.245:80/live/cyx-2FB6F70345E6b1743EAF2BAACB01.ts
 #EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="" group-title="CINE", A&E HD
 http://54.213.30.230/live/cyx-7BCA096543B49d9fF5E93008926A.ts
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="" group-title="CINE", AXN HD
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="https://i.postimg.cc/L609gsDN/AXN.png" group-title="CINE", AXN HD
 http://54.213.30.230/live/cyx-45A8419F4A50afa2061838104FA8.ts
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="" group-title="CINE", AMC HD
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="https://i.postimg.cc/FRD5tPnD/AMC.png" group-title="CINE", AMC HD
 http://54.213.30.230/live/cyx-D08E1E3D47688ed3A7F115FEB16A.ts
-#EXTINF:-1 tvg-id="A3S SERIES HD" tvg-name="A3S SERIES HD" tvg-logo="" group-title="CINE", A3S SERIES HD
+#EXTINF:-1 tvg-id="A3S SERIES HD" tvg-name="A3S SERIES HD" tvg-logo="https://i.postimg.cc/vBQFNRX4/A3S.png" group-title="CINE", A3S SERIES HD
 http://54.213.30.230/live/cyx-CBB05FB64646bcf38E108BE8B7BE.ts
-#EXTINF:-1 tvg-id="CINECANAL HD" tvg-name="CINECANAL HD" tvg-logo="" group-title="CINE", CINECANAL HD
+#EXTINF:-1 tvg-id="CINECANAL HD" tvg-name="CINECANAL HD" tvg-logo="https://i.postimg.cc/mkkxTQvR/CINECANAL.png" group-title="CINE", CINECANAL HD
 http://54.213.30.230/live/cyx-222C0D274909bcf12CEACB4D8AA7.ts
-#EXTINF:-1 tvg-id="CINEMAX HD" tvg-name="CINEMAX HD" tvg-logo="" group-title="CINE", CINEMAX HD
+#EXTINF:-1 tvg-id="CINEMAX HD" tvg-name="CINEMAX HD" tvg-logo="https://i.postimg.cc/qvPpQZ9K/CINEMAX.png" group-title="CINE", CINEMAX HD
 http://54.213.30.230/live/cyx-C9EB0B2644979328E598EAFED311.ts
 #EXTINF:-1 tvg-id="DE PELICULA" tvg-name="DE PELICULA" tvg-logo="" group-title="CINE", DE PELICULA
 http://54.213.30.230/live/cyx-9B54C4D240679a501FDAD5F3DB6F.ts
