@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://i.postimg.cc/ZKgmKMYQ/HBO.png" group-title="CINE",HBO HD
+#EXTINF:-1 tvg-id="EPG123.18955.XMLTV.CO" tvg-name="HBO HD" tvg-logo="https://i.postimg.cc/ZKgmKMYQ/HBO.png" group-title="CINE",HBO HD
 http://52.36.95.136/live/cyx-77A5D9654951a0fc826015EC4D3A.ts
 #EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="HBO 2 HD" tvg-logo="https://i.postimg.cc/sfTyb2ks/HBO-2.png" group-title="CINE",HBO 2 HD
 http://34.217.235.55:80/live/cyx-ED18F2D042E0a44fED97986CA356.ts
