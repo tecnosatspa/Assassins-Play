@@ -9,6 +9,8 @@ http://52.36.95.136/live/cyx-C50652A740C0aa13A031A19DE00A.ts
 http://52.36.95.136/live/cyx-D36A8B244257bb7e0DC9C32367B9.ts
 #EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX HD" tvg-logo="https://i.postimg.cc/4ywTnNCK/FOX-SD.jpg" group-title="CINE", FOX HD
 http://34.209.120.237/live/cyx-A5372B8044F289b47713B35347DA.ts
+#EXTINF:-1 tvg-id="FOX CENTRAL HD" tvg-name="FOX CENTRAL HD" tvg-logo="" group-title="CINE", FOX CENTRAL HD
+http://54.213.30.230/live/cyx-5D399BFD47ABb7d1217F1ACD45BC.ts
 #EXTINF:-1 tvg-id="FOX PREMIUM ACTION HD" tvg-name="FOX PREMIUM ACTION HD" tvg-logo="https://i.postimg.cc/cCT1ypFy/FOX-ACTION-SD.jpg" group-title="CINE", FOX PREMIUM ACTION HD
 http://52.36.95.136/live/cyx-1038D98D4463b9a797AA0C7E0F76.ts
 #EXTINF:-1 tvg-id="FOX CINEMA HD" tvg-name="FOX CINEMA HD" tvg-logo="https://i.postimg.cc/sxmwgdbR/FOX_CINEMA_SD.jpg" group-title="CINE", FOX CINEMA HD
@@ -25,6 +27,20 @@ http://54.203.129.245:80/live/cyx-AFDE3A194160af44F2876C2569F3.ts
 http://52.34.141.171:80/live/cyx-93C15D1244B5a536244D1FBA496A.ts
 #EXTINF:-1 tvg-id="WARNER CHANNEL HD" tvg-name="WARNER CHANNEL HD" tvg-logo="https://i.postimg.cc/x8gvkLrz/WARNER_CHANNEL_SD.jpg" group-title="CINE", WARNER CHANNEL HD
 http://54.203.129.245:80/live/cyx-2FB6F70345E6b1743EAF2BAACB01.ts
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="" group-title="CINE", A&E HD
+http://54.213.30.230/live/cyx-7BCA096543B49d9fF5E93008926A.ts
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="" group-title="CINE", AXN HD
+http://54.213.30.230/live/cyx-45A8419F4A50afa2061838104FA8.ts
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="" group-title="CINE", AMC HD
+http://54.213.30.230/live/cyx-D08E1E3D47688ed3A7F115FEB16A.ts
+#EXTINF:-1 tvg-id="A3S SERIES HD" tvg-name="A3S SERIES HD" tvg-logo="" group-title="CINE", A3S SERIES HD
+http://54.213.30.230/live/cyx-CBB05FB64646bcf38E108BE8B7BE.ts
+#EXTINF:-1 tvg-id="CINECANAL HD" tvg-name="CINECANAL HD" tvg-logo="" group-title="CINE", CINECANAL HD
+http://54.213.30.230/live/cyx-222C0D274909bcf12CEACB4D8AA7.ts
+#EXTINF:-1 tvg-id="CINEMAX HD" tvg-name="CINEMAX HD" tvg-logo="" group-title="CINE", CINEMAX HD
+http://54.213.30.230/live/cyx-C9EB0B2644979328E598EAFED311.ts
+#EXTINF:-1 tvg-id="DE PELICULA" tvg-name="DE PELICULA" tvg-logo="" group-title="CINE", DE PELICULA
+http://54.213.30.230/live/cyx-9B54C4D240679a501FDAD5F3DB6F.ts
 #EXTINF:-1 tvg-id="CDF HD" tvg-name="CDF HD" tvg-logo="https://i.postimg.cc/BbM6Jz4D/CDF-HD.jpg" group-title="DEPORTES", CDF HD
 http://34.217.235.55:80/live/cyx-34CE6824407D9d0397EA487BB30D.ts
 #EXTINF:-1 tvg-id="DIRECTV SPORTS HD" tvg-name="DIRECTV SPORTS HD" tvg-logo="" group-title="DEPORTES", DIRECTV SPORTS HD
@@ -91,6 +107,3 @@ http://52.34.141.171/live/cyx-1F3251F9425197449B94E006D8EB.ts
 http://34.210.107.160/live/cyx-7D8ECCA24B809980796A31B4EF6A.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHILE", CANAL 24HR CHILE HD
 http://52.34.141.171/live/cyx-DE79C1C2486Daac02729E8A5CD8C.ts
-
-#EXTINF:-1, CDF HD
-http://167.114.117.134:8880/live/DescargaNuestraAppTvPato2PuntoCom/566F8B4EC1234C08AEED1875C5B8ABF4/282.m3u8
