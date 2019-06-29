@@ -75,6 +75,8 @@ http://54.213.30.230/live/cyx-98FC7A574210bc485B7DE67C5538.ts
 http://34.217.235.55:80/live/cyx-34CE6824407D9d0397EA487BB30D.ts
 #EXTINF:-1 tvg-id="DIRECTV SPORTS HD" tvg-name="DIRECTV SPORTS HD" tvg-logo="https://i.postimg.cc/HLDDMg4F/DIRECTV-SPORTS.png" group-title="DEPORTES", DIRECTV SPORTS HD
 http://54.203.129.245/live/cyx-810013A348E6aed0BF0F6F8AB8EB.ts
+#EXTINF:-1 tvg-id="DIRECTV SPORTS + HD" tvg-name="DIRECTV SPORTS + HD" tvg-logo="https://i.postimg.cc/9fd3tnL0/DIRECTV-SPORTS.png" group-title="DEPORTES", DIRECTV SPORTS + HD
+http://52.36.95.136/live/cyx-43361C88458481232EAA93D50F11.ts
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 2 HD" tvg-name="DIRECTV SPORTS 2 HD" tvg-logo="https://i.postimg.cc/m2nGbMcL/DIRECTV-SPORTS-2.png" group-title="DEPORTES", DIRECTV SPORTS 2 HD
 http://54.203.129.245/live/cyx-715A94454CDB870833D9B9587CFA.ts
 #EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="https://i.postimg.cc/tgmg6QPG/ESPN.png" group-title="DEPORTES", ESPN HD
