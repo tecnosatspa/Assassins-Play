@@ -213,3 +213,23 @@ http://54.213.30.230/live/cyx-0038862747428c2eB887A3E3AF8B.ts
 http://54.213.30.230/live/cyx-A116FB364D949c6cCBA1B40DB9D1.ts
 #EXTINF:-1 tvg-id="LAS ESTRELLAS MX HD" tvg-name="LAS ESTRELLAS MX HD" tvg-logo="https://i.postimg.cc/vTVnS0tK/LAS-ESTRELLAS.png" group-title="EDUCATIVO Y VARIEDAD", LAS ESTRELLAS MX HD
 http://54.213.30.230/live/cyx-5E5A406F44BFb5a91481B29F9BDD.ts
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="" group-title="INFANTILES", BABY TV
+http://54.213.30.230/live/cyx-5B6F727643FCafb2C319C556C4C9.ts
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="" group-title="INFANTILES", BOOMERANG
+http://54.213.30.230/live/cyx-F91E092041C08eba3EA6292F2DD2.ts
+#EXTINF:-1 tvg-id="CARTOON NETWORK HD" tvg-name="CARTOON NETWORK HD" tvg-logo="" group-title="INFANTILES", CARTOON NETWORK HD
+http://54.213.30.230/live/cyx-FCB2C1F34018a709EE178AF0E2ED.ts
+#EXTINF:-1 tvg-id="CARTOON NETWORK HD*" tvg-name="CARTOON NETWORK HD*" tvg-logo="" group-title="INFANTILES", CARTOON NETWORK HD*
+http://54.213.30.230/live/cyx-0FC0F6D0472A828540828F74FF61.ts
+#EXTINF:-1 tvg-id="DISCOVERY KIDS HD" tvg-name="DISCOVERY KIDS HD" tvg-logo="" group-title="INFANTILES", DISCOVERY KIDS HD
+http://54.213.30.230/live/cyx-CDF8A14B49E9bc1d1218258FB84C.ts
+#EXTINF:-1 tvg-id="DISNEY CHANNEL HD" tvg-name="DISNEY CHANNEL HD" tvg-logo="" group-title="INFANTILES", DISNEY CHANNEL HD
+http://54.213.30.230/live/cyx-9B3C427947568e10F035FEF345D2.ts
+#EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD" tvg-logo="" group-title="INFANTILES", DISNEY XD
+http://34.210.107.160/live/cyx-3BDE555C42DE8cd499880F0D823B.ts
+#EXTINF:-1 tvg-id="ETC TV" tvg-name="ETC TV" tvg-logo="" group-title="INFANTILES", ETC TV
+http://34.217.235.55/live/cyx-5B1A912145A8953dF57456A6A9C7.ts
+#EXTINF:-1 tvg-id="NATGEO KIDS HD" tvg-name="NATGEO KIDS HD" tvg-logo="" group-title="INFANTILES", NATGEO KIDS HD
+http://52.34.141.171/live/cyx-048074CD480Fa32a124B4114C228.ts
+#EXTINF:-1 tvg-id="NICK 2*" tvg-name="NICK 2*" tvg-logo="" group-title="INFANTILES", NICK 2*
+http://54.203.129.245/live/cyx-59A5CAFA4B68abf4EFB07D42C84B.ts
