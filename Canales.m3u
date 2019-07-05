@@ -249,3 +249,35 @@ http://52.36.95.136/live/cyx-98B9F781486Da1b7D7B501B2F69C.ts
 http://34.217.235.55/live/cyx-CD3F16694D5A8deeF08A5F8C0AE7.ts
 #EXTINF:-1 tvg-id="LATINA HD" tvg-name="LATINA HD" tvg-logo="" group-title="INTERNACIONAL", PE : LATINA HD
 http://34.217.235.55/live/cyx-4E3FE1524B94b37aA444677D8DCD.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESPAÑA TDT", ES : ANTENA 3 HD
+https://livestartover.atresmedia.com/antena3/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESPAÑA TDT", ES : LA 1 HD 
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESPAÑA TDT", ES : LA 2 HD
+http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESPAÑA TDT", ES : CUATRO HD
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESPAÑA TDT", ES : TELECINCO HD
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESPAÑA TDT", ES : LA SEXTA HD
+https://livestartover.atresmedia.com/lasexta/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESPAÑA TDT", ES : FDF HD
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESPAÑA TDT", ES : ENERGY HD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESPAÑA TDT", ES : DIVINITY HD
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESPAÑA TDT", ES : BE MAD HD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESPAÑA TDT", ES : MTMAD 24H HD
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESPAÑA TDT", ES : REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESPAÑA TDT", ES : BETIS TV HD
+https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESPAÑA TDT", ES : UD LAS PALMAS HD
+https://5b38ce71f1f00.streamlock.net/8312/8312/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESPAÑA TDT", ES : REDBULL TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESPAÑA TDT", ES : BOING HD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
