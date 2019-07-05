@@ -233,3 +233,19 @@ http://34.217.235.55/live/cyx-5B1A912145A8953dF57456A6A9C7.ts
 http://52.34.141.171/live/cyx-048074CD480Fa32a124B4114C228.ts
 #EXTINF:-1 tvg-id="NICK 2*" tvg-name="NICK 2*" tvg-logo="" group-title="INFANTILES", NICK 2*
 http://54.203.129.245/live/cyx-59A5CAFA4B68abf4EFB07D42C84B.ts
+#EXTINF:-1 tvg-id="COL : CANAL 1 HD" tvg-name="COL : CANAL 1 HD" tvg-logo="INTERNACIONAL" group-title="", COL : CANAL 1 HD
+http://34.210.107.160/live/cyx-3A02AA0B4B9Abe02DF7D8DA77D9A.ts
+#EXTINF:-1 tvg-id="COL : CARACOL HD" tvg-name="COL : CARACOL HD" tvg-logo="INTERNACIONAL" group-title="", COL : CARACOL HD
+http://34.210.107.160/live/cyx-179B6EC1428Ca3c17141C0C67756.ts
+#EXTINF:-1 tvg-id="COL : CITY TV" tvg-name="COL : CITY TV" tvg-logo="INTERNACIONAL" group-title="", COL : CITY TV
+http://34.210.107.160/live/cyx-5D8498C9411Ea4b9FC8EA2364DAE.ts
+#EXTINF:-1 tvg-id="COL : RCN HD " tvg-name="COL : RCN HD " tvg-logo="INTERNACIONAL" group-title="", COL : RCN HD 
+http://54.203.129.245/live/cyx-2EF7E10E40C1ac19D6A9F3ED4CD2.ts
+#EXTINF:-1 tvg-id="COL : UNO" tvg-name="COL : UNO" tvg-logo="INTERNACIONAL" group-title="", COL : UNO
+http://54.203.129.245/live/cyx-9FC6FCC4437A9788FC9CBA353E62.ts
+#EXTINF:-1 tvg-id="PE : AMÉRICA TV HD" tvg-name="PE : AMÉRICA TV HD" tvg-logo="INTERNACIONAL" group-title="", PE : AMÉRICA TV HD
+http://52.36.95.136/live/cyx-98B9F781486Da1b7D7B501B2F69C.ts
+#EXTINF:-1 tvg-id="PE : ATV" tvg-name="PE : ATV" tvg-logo="INTERNACIONAL" group-title="", PE : ATV
+http://34.217.235.55/live/cyx-CD3F16694D5A8deeF08A5F8C0AE7.ts
+#EXTINF:-1 tvg-id="LATINA HD" tvg-name="LATINA HD" tvg-logo="INTERNACIONAL" group-title="", PE : LATINA HD
+http://34.217.235.55/live/cyx-4E3FE1524B94b37aA444677D8DCD.ts
