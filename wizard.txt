@@ -1,6 +1,6 @@
 ﻿name="Assassins Wizard"
 version="1.0"
-url="https://archive.org/download/assassinsbuils/AssassinsBuils.zip"
+url="https://archive.org/download/buildassassins_201907/BuildAssassins.zip"
 gui="http://"
 kodi="18.2"
 theme="http://"
