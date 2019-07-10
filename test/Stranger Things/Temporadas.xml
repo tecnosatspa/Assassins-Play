@@ -2,25 +2,9 @@
 
 
 <item>
-<title>Temporada 1</title>
-<thumbnail>https://</thumbnail>
-<fanart>https://</fanart>
-<link>http://</link>
-<externallink>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/series/Stranger%20Things/Temporada%201.xml</externallink>
-</item>
-
-<item>
-<title>Temporada 2</title>
-<thumbnail>https://</thumbnail>
-<fanart>https://</fanart>
-<link>http://</link>
-<externallink>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/series/Stranger%20Things/Temporada%202.xml</externallink>
-</item>
-
-<item>
 <title>Temporada 3</title>
 <thumbnail>https://</thumbnail>
 <fanart>https://</fanart>
 <link>http://</link>
-<externallink>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/series/Stranger%20Things/Temporada%203.xml</externallink>
+<externallink>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/test/Stranger%20Things/Temporada%203.xml</externallink>
 </item>
