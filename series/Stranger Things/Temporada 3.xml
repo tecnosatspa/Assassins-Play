@@ -9,7 +9,10 @@
 <title>The Emoji Movie</title>
 <year>2017</year>
 </meta>
-<link>https://archive.org/download/sts03e01/STS03E01.mkv</link>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
 <thumbnail>https://fanart.tv/fanart/movies/378236/movieposter/the-emoji-movie-59dc1dd439ca2.jpg</thumbnail>
 <fanart>https://fanart.tv/fanart/movies/378236/moviebackground/the-emoji-movie-58a5a0b795657.jpg</fanart>
 </item>
