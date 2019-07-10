@@ -1,10 +1,20 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 
-<dir>
-<title>Stranger Things</title>
-<thumbnail>https://i.postimg.cc/CLs9tWvX/thumbnail-Stranger-Things-S03.jpg</thumbnail>
-<fanart>https://i.postimg.cc/t41tP6Vk/fanart-Stranger-Things-S03-2.jpg</fanart>
-<link>http://</link>
-<externallink>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/test/Stranger%20Things/Temporadas.xml</externallink>
-</dir>
+<item>
+<title>test</title>
+<meta>
+<content>movie</content>
+<imdb>tt5690142</imdb>
+<title>Mom</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>https://archive.org/download/sts03e01/STS03E01.mkv</sublink>
+<sublink>https://archive.org/download/sts03e02/STS03E02.mkv</sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/original/zDIdoSd36ikEagxOwIGDCKf1cDF.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cCV4rIBtBjSDmAbP1SFaRz7CZV4.jpg</fanart>
+</item>
