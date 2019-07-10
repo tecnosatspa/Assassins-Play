@@ -3,8 +3,14 @@
 
 <dir>
 <title>Stranger Things</title>
-<thumbnail>https://i.postimg.cc/CLs9tWvX/thumbnail-Stranger-Things-S03.jpg</thumbnail>
-<fanart>https://i.postimg.cc/t41tP6Vk/fanart-Stranger-Things-S03-2.jpg</fanart>
-<link>http://</link>
-<externallink>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/test/Stranger%20Things/Temporadas.xml</externallink>
+<meta>
+<content>Series<content>
+<imdb>tt4574334</imdb>
+<tvdb>305288</tvdb>
+<tvshowtitle>Stranger Things</tvshowtitle>
+<year>2016</year>
+</meta>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </dir>

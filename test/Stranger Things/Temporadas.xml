@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-<item>
-<title>Temporada 3</title>
-<thumbnail>https://</thumbnail>
-<fanart>https://</fanart>
-<externallink>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/test/Stranger%20Things/Temporada%203.xml</externallink>
-</item>
+<dir>
+<name>Stranger Things Temporada 3</name>
+<meta>
+<content>Temporadas<content>
+<imdb>tt4574334</imdb>
+<tvdb>305288</tvdb>
+<tvshowtitle>Stranger Things</tvshowtitle>
+<year>2016</year>
+<season>3</season>
+</meta>
+<link></link>
+<thumbnail></thumbnail>
+</dir>
