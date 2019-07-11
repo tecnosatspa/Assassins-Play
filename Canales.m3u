@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="24/7 Comedia 4K" tvg-name="24/7 Comedia 4K" tvg-logo="" group-title="CINE", 24/7 Comedia 4K
+http://176.9.138.100:9999/live/ottplayermundocruelHy76t/nuevoproyecto1Hg5TRf/801.ts
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://i.postimg.cc/ZKgmKMYQ/HBO.png" group-title="CINE", HBO HD
 http://52.36.95.136/live/cyx-77A5D9654951a0fc826015EC4D3A.ts
 #EXTINF:-1 tvg-id="HBO PLUS HD" tvg-name="HBO PLUS HD" tvg-logo="https://i.postimg.cc/pTShzrSx/HBO-PLUS.png" group-title="CINE", HBO PLUS HD
