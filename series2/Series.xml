@@ -17,6 +17,12 @@
 
 <dir>
 <title>Stranger Things</title>
+<meta>
+<content>tvshow</content>
+<imdb>tt4574334</imdb>
+<tvdb>305288</tvdb>
+<tvshowtitle>Stranger Things</tvshowtitle>
+</meta>
 <thumbnail>https://i.postimg.cc/CLs9tWvX/thumbnail-Stranger-Things-S03.jpg</thumbnail>
 <fanart>https://i.postimg.cc/t41tP6Vk/fanart-Stranger-Things-S03-2.jpg</fanart>
 <link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/series2/Stranger%20Things/Temporadas.xml</link>
