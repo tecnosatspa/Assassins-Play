@@ -3,16 +3,28 @@
 
 <dir>
 <title>Lost</title>
+<meta>
+<content>movie</content>
+<imdb>tt0411008</imdb>
+<tvdb>73739</tvdb>
+<tvshowtitle>Lost</tvshowtitle>
+</meta>
 <thumbnail>https://i.postimg.cc/nLGjQmZt/thumbnail-Lost.jpg</thumbnail>
 <fanart>https://i.postimg.cc/kGzBdFNW/fanart-Lost-2.jpg</fanart>
-<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/series2/Lost/Temporadas.xml</link>
+<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/series/Lost/Temporadas.xml</link>
 </dir>
 
 <dir>
 <title>Dark</title>
+<meta>
+<content>movie</content>
+<imdb>tt5753856</imdb>
+<tvdb>334824</tvdb>
+<tvshowtitle>Dark</tvshowtitle>
+</meta>
 <thumbnail>https://i.postimg.cc/rsKKbY48/thumbnail-Dark.jpg</thumbnail>
 <fanart>https://i.postimg.cc/tTrsBHYS/fanart-Dark.jpg</fanart>
-<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/series2/Dark/Temporada%202.xml</link>
+<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/series/Dark/Temporadas.xml</link>
 </dir>
 
 <dir>
@@ -25,26 +37,44 @@
 </meta>
 <thumbnail>https://i.postimg.cc/CLs9tWvX/thumbnail-Stranger-Things-S03.jpg</thumbnail>
 <fanart>https://i.postimg.cc/t41tP6Vk/fanart-Stranger-Things-S03-2.jpg</fanart>
-<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/series2/Stranger%20Things/Temporadas.xml</link>
+<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/series/Stranger%20Things/Temporadas.xml</link>
 </dir>
 
 <dir>
 <title>The Big Bang Theory</title>
-<thumbnail>https://</thumbnail>
-<fanart>https://</fanart>
-<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/series2/The%20Big%20Bang%20Theory/Temporadas.xml</link>
+<meta>
+<content>tvshow</content>
+<imdb>tt0898266</imdb>
+<tvdb>80379</tvdb>
+<tvshowtitle>The Big Bang Theory</tvshowtitle>
+</meta>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BY2FmZTY5YTktOWRlYy00NmIyLWE0ZmQtZDg2YjlmMzczZDZiXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BNGFiZTk2N2YtMGNmNS00OTdkLTg1OGYtYmU0YTc5ZDA5ZDQ3XkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_.jpg</fanart>
+<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/series/The%20Big%20Bang%20Theory/Temporadas.xml</link>
 </dir>
 
 <dir>
 <title>Games of Thrones</title>
-<thumbnail>https://</thumbnail>
-<fanart>https://</fanart>
-<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/series2/Games%20of%20Thrones/Temporadas.xml</link>
+<meta>
+<content>tvshow</content>
+<imdb>tt0944947</imdb>
+<tvdb>121361</tvdb>
+<tvshowtitle>Games of Thrones</tvshowtitle>
+</meta>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjA5NzA5NjMwNl5BMl5BanBnXkFtZTgwNjg2OTk2NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMjI5ODkzNDQyNF5BMl5BanBnXkFtZTgwNDQ5MjYzNzM@._V1_.jpg</fanart>
+<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/series/Games%20of%20Thrones/Temporadas.xml</link>
 </dir>
 
 <dir>
 <title>La Casa de Papel</title>
-<thumbnail>https://</thumbnail>
-<fanart>https://</fanart>
-<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/series2/La%20Casa%20De%20Papel/Temporadas.xml</link>
+<meta>
+<content>tvshow</content>
+<imdb>tt6468322</imdb>
+<tvdb>327417</tvdb>
+<tvshowtitle>La Casa de Papel</tvshowtitle>
+</meta>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzBlY2QzNzYtMWU1NS00NjFkLWJiMzItYmM3YTc4MDFjNDQwXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SY1000_CR0,0,667,1000_AL_.jpg/</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BODUzMWE2NWQtYmE5MC00Y2I2LTk5OTAtYmY1ZmQ4ZGY4OGJkXkEyXkFqcGdeQXVyNzE5ODM5NTY@._V1_.jpg</fanart>
+<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/series/La%20Casa%20De%20Papel/Temporadas.xml</link>
 </dir>
