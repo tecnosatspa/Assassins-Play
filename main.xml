@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<dir>
+<name>Peliculas</name>
+<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/peliculas.xml</link>
+<thumbnail>http://</thumbnail>
+</dir>
+
+<dir>
+<name>Series</name>
+<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/series/Series.xml</link>
+<thumbnail>http://</thumbnail>
+</dir>
