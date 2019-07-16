@@ -1,6 +1,6 @@
 ﻿name="Assassins Wizard"
 version="1.0"
-url="https://archive.org/download/mibuild_20190715/MiBuild.zip"
+url="http://archive.org/download/201907151955/201907151955.zip"
 gui="http://"
 kodi="18.2"
 theme="http://"
