@@ -3,14 +3,120 @@
 
 <dir>
 <title>Temporada 1</title>
-<thumbnail>http://ignoreme</thumbnail>
-<fanart>http://ignoreme</fanart>
+<meta>
+<content>tvshow</content>
+<imdb>tt0944947</imdb>
+<tvdb>121361</tvdb>
+<tvshowtitle>Game of Thrones</tvshowtitle>
+<year>2011</year>
+<season>1</season>
+</meta>
+<thumbnail>http://es.web.img3.acsta.net/medias/nmedia/18/75/09/69/19692838.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/83/b6/19/83b61939fec19e0c54cd374d694abd2b.jpg</fanart>
 <link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/series/Games%20of%20Thrones/Temporada%201.xml</link>
 </dir>
 
 <dir>
 <title>Temporada 2</title>
-<thumbnail>http://ignoreme</thumbnail>
-<fanart>http://ignoreme</fanart>
+<meta>
+<content>tvshow</content>
+<imdb>tt0944947</imdb>
+<tvdb>121361</tvdb>
+<tvshowtitle>Game of Thrones</tvshowtitle>
+<year>2012</year>
+<season>2</season>
+</meta>
+<thumbnail>http://es.web.img3.acsta.net/medias/nmedia/18/89/08/62/20043497.jpg</thumbnail>
+<fanart>https://www.slantmagazine.com/wp-content/uploads/2015/07/tv_gameofthrones0205.jpg</fanart>
 <link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/series/Games%20of%20Thrones/Temporada%202.xml</link>
+</dir>
+
+<dir>
+<title>Temporada 3</title>
+<meta>
+<content>tvshow</content>
+<imdb>tt0944947</imdb>
+<tvdb>121361</tvdb>
+<tvshowtitle>Game of Thrones</tvshowtitle>
+<year>2013</year>
+<season>3</season>
+</meta>
+<thumbnail>http://es.web.img3.acsta.net/medias/nmedia/18/89/08/62/20489275.jpg</thumbnail>
+<fanart>http://culto.latercera.com/wp-content/uploads/2019/03/sneekpeek-game-of-thrones-big-little-lies-watchmen-1920.jpg</fanart>
+<link></link>
+</dir>
+
+<dir>
+<title>Temporada 4</title>
+<meta>
+<content>tvshow</content>
+<imdb>tt0944947</imdb>
+<tvdb>121361</tvdb>
+<tvshowtitle>Game of Thrones</tvshowtitle>
+<year>2014</year>
+<season>4</season>
+</meta>
+<thumbnail>http://es.web.img3.acsta.net/pictures/14/02/26/08/24/148818.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/46/5d/fd/465dfdb7df445db9f6fdfd5c15445d48.jpg</fanart>
+<link></link>
+</dir>
+
+<dir>
+<title>Temporada 5</title>
+<meta>
+<content>tvshow</content>
+<imdb>tt0944947</imdb>
+<tvdb>121361</tvdb>
+<tvshowtitle>Game of Thrones</tvshowtitle>
+<year>2015</year>
+<season>5</season>
+</meta>
+<thumbnail>http://es.web.img3.acsta.net/pictures/15/03/03/12/13/418016.jpg</thumbnail>
+<fanart>https://im.ziffdavisinternational.com/ign_latam/screenshot/default/gameofthrones-jonsnow-deadfinale_ycus.jpg</fanart>
+<link></link>
+</dir>
+
+<dir>
+<title>Temporada 6</title>
+<meta>
+<content>tvshow</content>
+<imdb>tt0944947</imdb>
+<tvdb>121361</tvdb>
+<tvshowtitle>Game of Thrones</tvshowtitle>
+<year>2016</year>
+<season>6</season>
+</meta>
+<thumbnail>http://es.web.img3.acsta.net/pictures/16/02/25/10/45/158248.jpg</thumbnail>
+<fanart>https://s.aolcdn.com/hss/storage/midas/f2ea21335e7a56b9c3e32bc39aa88172/204013454/ep60-ss10-1920.jpg</fanart>
+<link></link>
+</dir>
+
+<dir>
+<title>Temporada 7</title>
+<meta>
+<content>tvshow</content>
+<imdb>tt0944947</imdb>
+<tvdb>121361</tvdb>
+<tvshowtitle>Game of Thrones</tvshowtitle>
+<year>2017</year>
+<season>7</season>
+</meta>
+<thumbnail>http://es.web.img3.acsta.net/pictures/17/05/23/20/15/458019.jpg</thumbnail>
+<fanart>https://mx.web.img2.acsta.net/videothumbnails/18/04/12/01/21/3648056.jpg</fanart>
+<link></link>
+</dir>
+
+<dir>
+<title>Temporada 8</title>
+<meta>
+<content>tvshow</content>
+<imdb>tt0944947</imdb>
+<tvdb>121361</tvdb>
+<tvshowtitle>Game of Thrones</tvshowtitle>
+<year>2019</year>
+<season>8</season>
+</meta>
+<thumbnail>http://es.web.img3.acsta.net/pictures/19/03/22/10/08/5883111.jpg?coixp=50&coiyp=40</thumbnail>
+<fanart>https://sm.ign.com/ign_es/video/g/game-of-th/game-of-thrones-season-8-episode-6-preview_nht3.jpg</fanart>
+<link></link>
 </dir>
