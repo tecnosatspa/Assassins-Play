@@ -78,3 +78,29 @@
 <fanart>https://m.media-amazon.com/images/M/MV5BODUzMWE2NWQtYmE5MC00Y2I2LTk5OTAtYmY1ZmQ4ZGY4OGJkXkEyXkFqcGdeQXVyNzE5ODM5NTY@._V1_.jpg</fanart>
 <link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/series/La%20Casa%20De%20Papel/Temporadas.xml</link>
 </dir>
+
+<dir>
+<title>The OA</title>
+<meta>
+<content>tvshow</content>
+<imdb>tt4635282</imdb>
+<tvdb>321060</tvdb>
+<tvshowtitle>The OA</tvshowtitle>
+</meta>
+<thumbnail>https://www.thetvdb.com/banners/posters/5c76b2ea82626.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/321060-15.jpg</fanart>
+<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/series/The%20OA/Temporadas.xml</link>
+</dir>
+
+<dir>
+<title>Sense8</title>
+<meta>
+<content>tvshow</content>
+<imdb>tt2431438</imdb>
+<tvdb>268156</tvdb>
+<tvshowtitle>Sense8</tvshowtitle>
+</meta>
+<thumbnail>https://www.thetvdb.com/banners/posters/268156-12.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/268156-5.jpg</fanart>
+<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/series/Sense8/Temporadas.xml</link>
+</dir>
