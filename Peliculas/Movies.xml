@@ -3,8 +3,8 @@
 
 <dir>
 <name>Todas las Peliculas</name>
-<link></link>
-<thumbnail>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/Peliculas/Todas%20las%20Peliculas.xml</thumbnail>
+<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/Peliculas/Todas%20las%20Peliculas.xml</link>
+<thumbnail></thumbnail>
 </dir>
 
 <dir>
@@ -39,8 +39,8 @@
 
 <dir>
 <name>Actor/Actriz</name>
-<link></link>
-<thumbnail>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/Peliculas/Actores_Actiz.xml</thumbnail>
+<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/Peliculas/Actores_Actiz.xml</link>
+<thumbnail></thumbnail>
 </dir>
 
 <dir>
