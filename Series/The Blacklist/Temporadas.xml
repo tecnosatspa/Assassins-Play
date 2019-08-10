@@ -3,35 +3,42 @@
 
 <dir>
 <title>Temporada 1</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link></link>
+<thumbnail>https://www.thetvdb.com/banners/seasons/266189-1-14.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/5c30ff2071f03.jpg</fanart>
+<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/Series/The%20Blacklist/Temporada%201.xml</link>
 </dir>
 
 <dir>
 <title>Temporada 2</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link></link>
+<thumbnail>https://www.thetvdb.com/banners/seasons/266189-2-11.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/5d4f2b44b94df.jpg</fanart>
+<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/Series/The%20Blacklist/Temporada%202.xml</link>
 </dir>
 
 <dir>
 <title>Temporada 3</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link></link>
+<thumbnail>https://www.thetvdb.com/banners/seasons/5be036d701877.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/266189-24.jpg</fanart>
+<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/Series/The%20Blacklist/Temporada%203.xml</link>
 </dir>
 
 <dir>
 <title>Temporada 4</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link></link>
+<thumbnail>https://www.thetvdb.com/banners/seasons/266189-4-7.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/266189-4.jpg</fanart>
+<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/Series/The%20Blacklist/Temporada%204.xml</link>
 </dir>
 
 <dir>
 <title>Temporada 5</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link></link>
+<thumbnail>https://www.thetvdb.com/banners/seasons/266189-5-2.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/5d4f2b2bb5831.jpg</fanart>
+<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/Series/The%20Blacklist/Temporada%205.xml</link>
+</dir>
+
+<dir>
+<title>Temporada 6</title>
+<thumbnail>https://www.thetvdb.com/banners/seasons/5c3356fb2ad02.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/266189-6.jpg</fanart>
+<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/Series/The%20Blacklist/Temporada%206.xml</link>
 </dir>
