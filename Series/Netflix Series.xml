@@ -2,71 +2,85 @@
 
 
 <dir>
-<title>Blackmirror</title>
+<name>Stranger Things</name>
+<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/Series/Stranger%20Things/Temporadas.xml</link>
+<thumbnail>https://www.thetvdb.com/banners/seasons/5cfd5cc58061c.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/5cf7c8acceb1e.jpg</fanart>
+</dir>
+
+<dir>
+<name>The OA</name>
+<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/Series/The%20OA/Temporadas.xml</link>
+<thumbnail>https://www.thetvdb.com/banners/seasons/5c901ce7022df.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/321060-4.jpg</fanart>
+</dir>
+
+<dir>
+<title>House of Cards</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link></link>
 </dir>
 
 <dir>
-<title>Dark</title>
+<title>Las Chicas del Cable</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link></link>
 </dir>
 
 <dir>
-<title>La Casa de Papel</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link></link>
+<name>Black Mirror</name>
+<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/Series/BlackMirror/Temporadas.xml</link>
+<thumbnail>https://www.thetvdb.com/banners/seasons/5cf78806134a5.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/5cf7883d50b58.jpg</fanart>
 </dir>
 
 <dir>
-<title>Merlí</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link></link>
+<name>Dark</name>
+<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/Series/Dark/Temporadas.xml</link>
+<thumbnail>https://www.thetvdb.com/banners/seasons/5d0ca01b4486b.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/5d112ee608001.jpg</fanart>
 </dir>
 
 <dir>
-<title>Nicky Jam: El Ganador</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link></link>
+<name>La Casa de Papel</name>
+<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/Series/La%20Casa%20de%20Papel/Temporadas.xml</link>
+<thumbnail>https://www.thetvdb.com/banners/seasons/5d30cc94462d5.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/5d30c9a0e7ab5.jpg</fanart>
 </dir>
 
 <dir>
-<title>Orange Is the New Black</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link></link>
+<name>Merlí</name>
+<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/Series/Merl%C3%AD/Temporadas.xml</link>
+<thumbnail>https://www.thetvdb.com/banners/seasons/300428-2.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/5d2292c5aa6cb.jpg</fanart>
 </dir>
 
 <dir>
-<title>Sense8</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link></link>
+<name>Nicky Jam : El Ganador</name>
+<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/Series/Nicky%20Jam/Temporadas.xml</link>
+<thumbnail>https://www.thetvdb.com/banners/posters/5c05ce7aa48de.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/5c05bb8d559f3.jpg</fanart>
 </dir>
 
 <dir>
-<title>Shadow Hunters</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link></link>
+<name>Orange Is the New Black</name>
+<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/Series/Orange%20Is%20the%20New%20Black/Temporadas.xml</link>
+<thumbnail>https://www.thetvdb.com/banners/seasons/5d3ab709af362.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/5b71b0e0e4291.jpg</fanart>
 </dir>
 
 <dir>
-<title>Stranger Things</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link></link>
+<name>Sense8</name>
+<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/Series/Sense8/Temporadas.xml</link>
+<thumbnail>https://www.thetvdb.com/banners/seasons/268156-2-3.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/5b1a701399804.jpg</fanart>
 </dir>
 
 <dir>
-<title>The Oa</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link></link>
+<name>ShadowHunters</name>
+<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/Series/Shadow%20Hunters/Temporadas.xml</link>
+<thumbnail>https://www.thetvdb.com/banners/seasons/295837-3-3.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/295837-23.jpg</fanart>
 </dir>
