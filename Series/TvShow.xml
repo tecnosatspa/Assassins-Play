@@ -14,31 +14,31 @@
 </dir>
 
 <dir>
+<name>[COLOR green][B]AMAZON[/B][/COLOR] series</name>
+<link></link>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
 <name>[COLOR red][B]NETFLIX[/B][/COLOR] Series</name>
 <link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/Series/Netflix%20Series.xml</link>
 <thumbnail></thumbnail>
 </dir>
 
 <dir>
-<name>HBO Series</name>
+<name>[COLOR white][B]HBO[/B][/COLOR] Series</name>
 <link></link>
 <thumbnail></thumbnail>
 </dir>
 
 <dir>
-<name>FOX series</name>
+<name>[COLOR orange][B]FOX[/B][/COLOR] series</name>
 <link></link>
 <thumbnail></thumbnail>
 </dir>
 
 <dir>
-<name>DISENY+ series</name>
-<link></link>
-<thumbnail></thumbnail>
-</dir>
-
-<dir>
-<name>AMAZON series</name>
+<name>[COLOR white][B]DISNEY+[/B][/COLOR] series</name>
 <link></link>
 <thumbnail></thumbnail>
 </dir>
