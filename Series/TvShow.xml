@@ -14,6 +14,12 @@
 </dir>
 
 <dir>
+<name>[COLOR white][B]AMC[/B][/COLOR] series</name>
+<link></link>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
 <name>[COLOR green][B]AMAZON[/B][/COLOR] series</name>
 <link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/Series/Amazon%20Series.xml</link>
 <thumbnail></thumbnail>
@@ -33,12 +39,6 @@
 
 <dir>
 <name>[COLOR orange][B]FOX[/B][/COLOR] series</name>
-<link></link>
-<thumbnail></thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR white][B]DISNEY+[/B][/COLOR] series</name>
 <link></link>
 <thumbnail></thumbnail>
 </dir>
