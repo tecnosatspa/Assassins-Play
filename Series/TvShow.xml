@@ -39,12 +39,6 @@
 
 <dir>
 <name>[COLOR orange][B]FOX[/B][/COLOR] series</name>
-<link></link>
-<thumbnail></thumbnail>
-</dir>
-
-<dir>
-<name>Recomendadas de la Casa</name>
-<link></link>
+<link>https://raw.githubusercontent.com/tecnostaspa/Assassins-Play/master/Series/FOX%20Series.xml</link>
 <thumbnail></thumbnail>
 </dir>
