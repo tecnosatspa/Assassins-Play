@@ -15,47 +15,47 @@ http://190.43.92.222:8500/play/a0eb/index.m3u8
 http://190.43.92.222:8500/play/a1a3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV+ HD" tvg-logo="" group-title="NACIONALES",TV+ HD
 http://190.43.92.222:8500/play/a0ea/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",A&E HD
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="" group-title="CINE Y SERIES",A&E HD
 http://181.224.161.138:1010/play/a00l/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",AXN HD
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="CINE Y SERIES",AXN HD
 http://181.224.161.138:1010/play/a00o/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",AMC HD
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="CINE Y SERIES",AMC HD
 http://181.224.161.138:1010/play/a03v/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",CINECANAL HD
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL HD" tvg-logo="" group-title="CINE Y SERIES",CINECANAL HD
 http://181.224.161.138:1010/play/a03u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",CINEMAX HD
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="" group-title="CINE Y SERIES",CINEMAX HD
 http://181.224.161.138:1010/play/a019/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",FX HD
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="" group-title="CINE Y SERIES",FX HD
 http://181.224.161.138:1010/play/a019/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",HBO HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="CINE Y SERIES",HBO HD
 http://181.224.161.138:1010/play/a06w/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",HBO 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="" group-title="CINE Y SERIES",HBO 2 HD
 http://201.219.247.118:8000/play/a05a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",HBO FAMILY HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD" tvg-logo="" group-title="CINE Y SERIES",HBO FAMILY HD
 http://181.224.161.138:1010/play/a087/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",HBO POP HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="" group-title="CINE Y SERIES",HBO POP HD
 http://201.219.247.118:8000/play/a00u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",HBO XTREME HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME HD" tvg-logo="" group-title="CINE Y SERIES",HBO XTREME HD
 http://181.224.161.138:1010/play/a088/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES", STAR CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD" tvg-logo="" group-title="CINE Y SERIES",STAR CHANNEL HD
 http://181.224.161.138:1010/play/a05u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",SONY HD
+#EXTINF:-1 tvg-id="" tvg-name="SONY HD" tvg-logo="" group-title="CINE Y SERIES",SONY HD
 http://181.224.161.138:1010/play/a00m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",SONY MOVIES HD
+#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES HD" tvg-logo="" group-title="CINE Y SERIES",SONY MOVIES HD
 http://190.149.66.90:4000/play/a01q/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",SPACE HD
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="" group-title="CINE Y SERIES",SPACE HD
 http://181.224.161.138:1010/play/a00p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",STUDIO UNIVERSAL HD
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="" group-title="CINE Y SERIES",STUDIO UNIVERSAL HD
 http://181.224.161.138:1010/play/a040/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",TNT HD
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="CINE Y SERIES",TNT HD
 http://181.224.161.138:1010/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",TNT SERIES HD
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES HD" tvg-logo="" group-title="CINE Y SERIES",TNT SERIES HD
 http://181.224.161.138:1010/play/a05z/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",PARAMOUNT HD
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT HD" tvg-logo="" group-title="CINE Y SERIES",PARAMOUNT HD
 http://190.149.66.90:4000/play/a04z/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",GOLDEN PLUS HD
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS HD" tvg-logo="" group-title="CINE Y SERIES",GOLDEN PLUS HD
 http://45.191.234.189:15082/play/a03o/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",GOLDEN PREMIER HD
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER HD" tvg-logo="" group-title="CINE Y SERIES",GOLDEN PREMIER HD
 http://181.209.194.242:8080/play/a0rv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",GOLDEN EDGE HD
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE HD" tvg-logo="" group-title="CINE Y SERIES",GOLDEN EDGE HD
 http://45.169.163.235:8000/play/a00z
