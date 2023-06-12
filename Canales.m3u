@@ -34,7 +34,7 @@ http://201.219.247.118:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD" tvg-logo="" group-title="CINE Y SERIES",HBO FAMILY HD
 http://181.224.161.138:1010/play/a087/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="" group-title="CINE Y SERIES",HBO POP HD
-http://201.219.247.118:8000/play/a00u/index.m3u8
+http://191.97.58.41:8001/play/a016
 #EXTINF:-1 tvg-id="" tvg-name="HBO XTREME HD" tvg-logo="" group-title="CINE Y SERIES",HBO XTREME HD
 http://181.224.161.138:1010/play/a088/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD" tvg-logo="" group-title="CINE Y SERIES",STAR CHANNEL HD
