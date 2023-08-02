@@ -1,5 +1,8 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/w16vy54d7vhw8z35n39p"
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DEPORTES",TNT SPORTS HD
+http://45.181.122.209:8088/play/a052
+
 #EXTINF:-1 tvg-id="Atrescine.mx" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82808_dark_360w_270h.png" group-title="CINE Y SERIES",A3CINE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uUvOGuHZZ5iELK2asIhlcQ", "kid":"PGSqN7cSUJuj+Wsul47oYA" },{ "kty":"oct", "k":"LKMdfwtnDWixbUlPwdTLvg", "kid":"oX9+yD/cUcedtgylVCvVFQ" },{ "kty":"oct", "k":"qy0yz6pjYcCIETG14imQrA", "kid":"10Rq+l9lVnCRrygF05ZLiw" } ], "type":"temporary" }
