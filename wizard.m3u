@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png" group-title="NACIONAL",CANAL 13 HD
+#EXTINF:-1 tvg-id="152dtv.cl" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png" group-title="NACIONAL",CANAL 13 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"q/jBbC38HCgoEWjSRIHCmw", "kid":"Wum0u6OCXJiHbstDXtDa+A" },{ "kty":"oct", "k":"lfjoxHDnQj6MZuZx9yTTQw", "kid":"WRYF66NEVMaM0SAbd8Izlg" },{ "kty":"oct", "k":"hgTrBffTjLLDnzelIZaLPg", "kid":"c7wupFA5WvSH9seBKpK2/Q" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/canal13/canal13.mpd
