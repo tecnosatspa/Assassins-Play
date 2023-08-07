@@ -1,12 +1,4 @@
-﻿name="Assassins Wizard"
-version="1.0"
-url="http://archive.org/download/buildassassins_201908/BuildAssassins.zip"
-gui="http://"
-kodi="18.2"
-theme="http://"
-icon="https://"
-fanart="https://"
-preview="http://"
-adult="no"
-info="http://"
-description="Assassins Wizard"
+#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
+
+#EXTINF:-1 tvg-id="214dtv.cl" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82808_dark_360w_270h.png" group-title="CINE Y SERIES",A3CINE
+https://tvup-ccpv2-live.secure2.footprint.net/a3cine1c/a3cine1c.mpd
