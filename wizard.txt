@@ -2,3 +2,4 @@
 
 #EXTINF:-1 tvg-id="214dtv.cl" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82808_dark_360w_270h.png" group-title="CINE Y SERIES",A3CINE
 https://tvup-ccpv2-live.secure2.footprint.net/a3cine1c/a3cine1c.mpd
+ 
