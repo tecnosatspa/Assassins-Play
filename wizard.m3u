@@ -222,6 +222,9 @@ https://tvup-ccpv2-live.secure2.footprint.net/amc/amc.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ugrNV6WhQ2Tb7daD8KZqEQ", "kid":"r++n2KzCUg+UeeHKN9mbxg" },{ "kty":"oct", "k":"++o9Vovfr/foZZgJIH6S8A", "kid":"d4IhDYhoWPKqdRtWQqUMCg" },{ "kty":"oct", "k":"agItMXLLGOIZvPOFZqH2Bw", "kid":"QilU8I11XHuN6GPyHAS8Cw" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/cinecanalhd/cinecanalhd.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/72RBXLk/cinemax.png" group-title="CINE Y SERIES",CINEMAX HD
+https://giza.cdn.rcs.net.ar/mnp/cinemax/output.mpd
+
 #EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica-mediano.png" group-title="CINE Y SERIES",COMEDY CENTRAL HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2GtEwGB7k6L8MFxikeovBA", "kid":"mBXjmhuIVJmDgug5n1ywSQ" },{ "kty":"oct", "k":"dw174uCOZLJZK+8KLKqwKA", "kid":"ooRvknxWV5i6oEg9SBbeKQ" },{ "kty":"oct", "k":"2Avp9KbNfg7IaLAlpU4xdw", "kid":"99X5F1gAUz66my2qUXF+QQ" } ], "type":"temporary" }
