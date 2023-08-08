@@ -15,7 +15,7 @@ https://tvup-ccpv2-live.secure2.footprint.net/chilevisionhd/chilevisionhd.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KldNY2WyokAhif80C9pFhw", "kid":"KJOw83DWX6iDSKS9gXpEZQ" },{ "kty":"oct", "k":"GCKxFnAu5gExqRJNaoe3Mw", "kid":"2X8O52NmWYq5WxRW2TmvBw" },{ "kty":"oct", "k":"u6UuOd5Bdjp33NsCCqklnA", "kid":"5eoHv0twWYGPPrz1V/X9Ng" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/megahd/megahd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zbtN8Yv/mega-plus.png" group-title="NACIONAL",MEGA+ HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_mega-1.jpg" group-title="NACIONAL",MEGA+ HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TAwtCDaAh6KINGW0Vq5uVg", "kid":"HfVwJkwvXzOCMKFZiei6LQ" },{ "kty":"oct", "k":"d0d6nRJG3FyHo1eO8QrFrw", "kid":"n7cRXaiiVnidvSGAupRkYg" },{ "kty":"oct", "k":"rFmWL8/JpS6zCqPUNxxgUQ", "kid":"q1ep2HfuXy6IO7iHdye28Q" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/megaplus/megaplus.mpd
@@ -131,6 +131,7 @@ https://tvup-ccpv2-live.secure2.footprint.net/ucl/ucl.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"H+Ijh6TRIszJauVcaLIq2Q", "kid":"JgSEWXrxXUGBILyZ+9oXrA" },{ "kty":"oct", "k":"StkrL4rMVWlF9cLUD6H3hw", "kid":"ROOVAV94XQeUOGiYSYB5dA" },{ "kty":"oct", "k":"qkHVD5ws3TAzOkDb91dCkw", "kid":"50Hsq4KfUXWxM1olXKK6+w" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/vitalidadtv1c/vitalidadtv1c.mpd
 
+
 ----------DEPORTES----------
 
 
@@ -196,3 +197,112 @@ https://tvup-ccpv2-live.secure2.footprint.net/golfchannel/golfchannel.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9Ecnx68Fg3QGDRjXKA2qFw", "kid":"rQYhDfdQWqG2comOfDx9jA" },{ "kty":"oct", "k":"Mo0EO80MSroX29/gArUwFQ", "kid":"HaDxlK6xWmGnZg1PZNrfAw" },{ "kty":"oct", "k":"klBFrL/LCNNz0wZolXIS/g", "kid":"j85o2XTPWNOmQEg2BDwdTA" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/teletrak/teletrak.mpd
+
+
+----------CINE Y SERIES----------
+
+
+#EXTINF:-1 tvg-id="Atrescine.mx" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82808_dark_360w_270h.png" group-title="CINE Y SERIES",A3CINE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uUvOGuHZZ5iELK2asIhlcQ", "kid":"PGSqN7cSUJuj+Wsul47oYA" },{ "kty":"oct", "k":"LKMdfwtnDWixbUlPwdTLvg", "kid":"oX9+yD/cUcedtgylVCvVFQ" },{ "kty":"oct", "k":"qy0yz6pjYcCIETG14imQrA", "kid":"10Rq+l9lVnCRrygF05ZLiw" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/a3cine1c/a3cine1c.mpd
+
+#EXTINF:-1 tvg-id="Atreseries.ar" tvg-name="" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/214.png" group-title="CINE Y SERIES",A3SERIES HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w/mfTLsVLcJjxLj8yYWeBA", "kid":"7YyCRSUhWnygQGwbsJiOpw" },{ "kty":"oct", "k":"0pKA/YfDG8dupb+IMk+dxw", "kid":"+nDUwji4WnKcH64DzqtD4g" },{ "kty":"oct", "k":"iwyK6TADuqNXv2fb/ob2wg", "kid":"lAmqvzipUp6j297Oq6DE/A" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/antena3seriesinternacional/antena3seriesinternacional.mpd
+
+#EXTINF:-1 tvg-id="AMC.ar" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png" group-title="CINE Y SERIES",AMC HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GVFbx8pjeg1CI37tqxzaNA", "kid":"Y85VB+d9Ue22f5NqFWn6LA" },{ "kty":"oct", "k":"2gprWYO99kohlF0r3pdZMw", "kid":"O9yxlNjzWiWEl6ZtfT2nAQ" },{ "kty":"oct", "k":"DqvfKLiZ9uISRQCi7SRFHg", "kid":"L0KUyzkVWI6ylUErrhAcpg" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/amc/amc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png" group-title="CINE Y SERIES",CINECANAL HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ugrNV6WhQ2Tb7daD8KZqEQ", "kid":"r++n2KzCUg+UeeHKN9mbxg" },{ "kty":"oct", "k":"++o9Vovfr/foZZgJIH6S8A", "kid":"d4IhDYhoWPKqdRtWQqUMCg" },{ "kty":"oct", "k":"agItMXLLGOIZvPOFZqH2Bw", "kid":"QilU8I11XHuN6GPyHAS8Cw" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/cinecanalhd/cinecanalhd.mpd
+
+#EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica-mediano.png" group-title="CINE Y SERIES",COMEDY CENTRAL HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2GtEwGB7k6L8MFxikeovBA", "kid":"mBXjmhuIVJmDgug5n1ywSQ" },{ "kty":"oct", "k":"dw174uCOZLJZK+8KLKqwKA", "kid":"ooRvknxWV5i6oEg9SBbeKQ" },{ "kty":"oct", "k":"2Avp9KbNfg7IaLAlpU4xdw", "kid":"99X5F1gAUz66my2qUXF+QQ" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/comedycentral/comedycentral.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula-mediano.png" group-title="CINE Y SERIES",DE PELICULA HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0HeHf2wmysJETrdyydwYqg", "kid":"aAELNlWPWqyX6itic2YWRw" },{ "kty":"oct", "k":"jpZ6OkwwSvTBWTIZdRKDYQ", "kid":"R2oK48pjWmGKcvL6y2lv2Q" },{ "kty":"oct", "k":"npqi0DBWNUgD+UnqhHB1dA", "kid":"6MhYJuEGUline3S5Gnba5g" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/depelicula/depelicula.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png" group-title="CINE Y SERIES",DHE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lPwLE6E6L/w9zXT02lBYqQ", "kid":"H406JsbtVsSs54DQS+200g" },{ "kty":"oct", "k":"N7mxWEAU5IcaT1FxDiZRmw", "kid":"e3+dZZ/pUHWnRMDKEg/LcA" },{ "kty":"oct", "k":"kMe99VbEKzWGLlKcc4z7Nw", "kid":"U4lPrkfWXc+n8m3VoNg9ew" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/dhe/dhe.mpd
+
+#EXTINF:-1 tvg-id="EuropaEuropa.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/europa_europa-mediano.png" group-title="CINE Y SERIES",EUROPA EUROPA HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yQeJOgagXsB+E/QU402bKA", "kid":"XSJ6+izcXjuhPXA/FGtRJg" },{ "kty":"oct", "k":"FsQeNkLo9Q5OIKwcMt7s0Q", "kid":"Wl8ZS6A8U56Lzkl5bXkeZg" },{ "kty":"oct", "k":"2C79jf9sPDWtE++jR8vBqQ", "kid":"eLMfd2HOW3mw6lonDF4j4Q" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/europa/europa.mpd
+
+#EXTINF:-1 tvg-id="FilmandArts.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png" group-title="CINE Y SERIES",FILM & ARTS HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"SIu3074Y5jVczbqdSLYzNw", "kid":"TBXRF8CwWVW1CsS8kLnrJQ" },{ "kty":"oct", "k":"NhnCvWFXLuAFrt06c7E67A", "kid":"8smPctvDUtKvUGdXap0ThA" },{ "kty":"oct", "k":"QY19wiAYZyDNh8XWUJwvFQ", "kid":"mZKhXxmcVj6cHkbhZXR5rg" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/filmandart/filmandart.mpd
+
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png" group-title="CINE Y SERIES",FX HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8qBYEGvZnJELAIjguDL+lg", "kid":"gC0mCKOrX2mfiEWTGdiSNg" },{ "kty":"oct", "k":"AJPVhe4n0NdN4x8yvDYriw", "kid":"eEt3wlFdU2qoR4zK10LKlg" },{ "kty":"oct", "k":"2nGDtYcIWlthjJ7OHjlLwg", "kid":"pZJx6z1lVeud1UjHprdUbQ" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/fx/fx.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_plus-mediano.png" group-title="CINE Y SERIES",GOLDEN PLUS HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3jVKSCqJXzMhoh7uNBiE4w", "kid":"vazsZc32WDiImAjxjNjHZg" },{ "kty":"oct", "k":"T3F+jqjS+Se3UAoTgXablQ", "kid":"NidtAPhtWkiNK06W6p57mw" },{ "kty":"oct", "k":"iAWnd3LOs5BLscUBStBKUw", "kid":"Ik5limbYWvqeRb9FSgI7Cg" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/goldenplus/goldenplus.mpd
+
+#EXTINF:-1 tvg-id="ISAT.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/i_sat-mediano.png" group-title="CINE Y SERIES",ISAT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aGMrrRb2BgTbBL4mZCySsA", "kid":"qW6/tazgXxCRVHg3KwLuag" },{ "kty":"oct", "k":"DTwkdba/f+pyrqu9+G2KPQ", "kid":"gyBy71FHU7uot4ybmluJ0A" },{ "kty":"oct", "k":"nlj4VPwmDzNX0zS7a3pgkQ", "kid":"jsEjd52NWuWD6Om+OMKYNw" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/isat/isat.mpd
+
+#EXTINF:-1 tvg-id="ParamountNetwork.ar" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png" group-title="CINE Y SERIES",PARAMOUNT HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UbVNHi/ZYTVSM6n6SATKEA", "kid":"viz82H3IW9+sAyv75WfC1w" },{ "kty":"oct", "k":"93qJUOrJLw6eCPfxtyIuxA", "kid":"n9OsP2w/UIqyfmgg+9/DdA" },{ "kty":"oct", "k":"cFeZtd33wcX1Ntd3ezMW+g", "kid":"GSPTlJ3UWnCUrdSfk5GpxQ" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/paramount/paramount.mpd
+
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png" group-title="CINE Y SERIES",SPACE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"FaQzZ5A1vebrmA0IvSTn9g", "kid":"qmTa8rPxX7eiX8X5Ke4qIQ" },{ "kty":"oct", "k":"N3D7a0NT8KBzhejMZ+Irsg", "kid":"6AHf8gg8UqevULhmkpP9IA" },{ "kty":"oct", "k":"kRex5Dk08iO/aEGYpxWjIA", "kid":"oFJ7nxX/WQ2pf51xfuxdkw" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/spacehd/spacehd.mpd
+
+#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png" group-title="CINE Y SERIES",STAR CHANNEL HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1HPfRCu90lA6N4kO2dJcQ", "kid":"gomXrZc8XQS0kRQAjxA1QQ" },{ "kty":"oct", "k":"b1PP61GG5HgKSo+3rKW2og", "kid":"Hxxmjo4TUyywjyj3A2sRNQ" },{ "kty":"oct", "k":"shEppwnbI0P5j5Yh0XAjiw", "kid":"DXMq+ErJWwGS8IB5BB+Sfg" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/starchannel/starchannel.mpd
+
+#EXTINF:-1 tvg-id="TBS.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tbs-mediano.png" group-title="CINE Y SERIES",TBS HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/QOj6N+Fl5xnyj/D9kDGtA", "kid":"u/NOkwyhUwSwGY2oKvaV5w" },{ "kty":"oct", "k":"o7orqRD+lXjvXxCbomhyGA", "kid":"nXsmWC0KVsaj3mbQt7Z50g" },{ "kty":"oct", "k":"tN+wHKI/5gm680Pitp8fjw", "kid":"VtOLXRjwWvyOuEbyaEgC4Q" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/tbs/tbs.mpd
+
+#EXTINF:-1 tvg-id="TCM.ar" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tcm-mediano.png" group-title="CINE Y SERIES",TCM HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"n+15NhkCUCRPngcQnhjTpg", "kid":"R4XtchgaVK6NSMCMQTQX/Q" },{ "kty":"oct", "k":"tU9xw1ytySK0xhyp9lVh2g", "kid":"ax0skxtmU96mw1+DpwJsuw" },{ "kty":"oct", "k":"QkUlfIow2wdFTqTJJRwzlw", "kid":"y8hmDQjvWHipwcgjzx+jNg" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/tcm/tcm.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png" group-title="CINE Y SERIES",TLNOVELAS HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QSz3xb7JAGQEVgCoVReMpw", "kid":"qoYKw4gkU7urRr7StIp6Bw" },{ "kty":"oct", "k":"AeQ7CNJ026Q5I3DRvHTLBg", "kid":"DB/AG7RTVgSqHYnojHH0cw" },{ "kty":"oct", "k":"b+rOw3GbrbxRlv+wxXG4/Q", "kid":"bJq3mEeDVJS87othh2gAQA" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/telenovelas/telenovelas.mpd
+
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica-mediano.png" group-title="CINE Y SERIES",TNT HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XMX2F7aM7jQA7NJnvmUduw", "kid":"xm/yb/8jXs6SnY7N5mU2vQ" },{ "kty":"oct", "k":"SH3jpjdXrSPABlbYu32LTw", "kid":"8y4ATY5oWuiCPSzI1sLKvg" },{ "kty":"oct", "k":"PYjWtB0e0QAVYlzdi+AgrQ", "kid":"/2TrVJeEUJmeCpZZKzyEiA" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/tnthd/tnthd.mpd
+
+#EXTINF:-1 tvg-id="TNTSeries.ar" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png" group-title="CINE Y SERIES",TNT SERIES HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ci696NajT6rfbWpOBIKD9g", "kid":"coMTbDCCV4Kgf+jo6fde2g" },{ "kty":"oct", "k":"RBfmyi3Ht7nWpdnFHQuXkQ", "kid":"4nyKXQkGV7akVdHUE6jFSA" },{ "kty":"oct", "k":"dsPRyr5DcxKcBrJ+qNQ7ug", "kid":"WnHeofcbVqiCjyVE2gnmVQ" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/tntseries/tntseries.mpd
+
+#EXTINF:-1 tvg-id="TruTV.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tru_tv-mediano.png" group-title="CINE Y SERIES",TRUTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Bil9zYHzIdc2/+V2gRF8wA", "kid":"2Zo6IiqWUGOWrrfqrIyT2Q" },{ "kty":"oct", "k":"iTieCpDhoEZl+vFrIgiy/A", "kid":"It3eUH1AXeSvHddtBJAjPg" },{ "kty":"oct", "k":"oAvfnUpzaCIJE5SNLZAung", "kid":"/uSHwK1FXZWC3e1aXiz3/g" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/trutv/trutv.mpd
