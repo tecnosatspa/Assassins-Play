@@ -15,7 +15,7 @@ https://tvup-ccpv2-live.secure2.footprint.net/chilevisionhd/chilevisionhd.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KldNY2WyokAhif80C9pFhw", "kid":"KJOw83DWX6iDSKS9gXpEZQ" },{ "kty":"oct", "k":"GCKxFnAu5gExqRJNaoe3Mw", "kid":"2X8O52NmWYq5WxRW2TmvBw" },{ "kty":"oct", "k":"u6UuOd5Bdjp33NsCCqklnA", "kid":"5eoHv0twWYGPPrz1V/X9Ng" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/megahd/megahd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zbtN8Yv/mega-plus.png" group-title="NACIONAL",MEGA+ HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_mega-1.jpg" group-title="NACIONAL",MEGA+ HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TAwtCDaAh6KINGW0Vq5uVg", "kid":"HfVwJkwvXzOCMKFZiei6LQ" },{ "kty":"oct", "k":"d0d6nRJG3FyHo1eO8QrFrw", "kid":"n7cRXaiiVnidvSGAupRkYg" },{ "kty":"oct", "k":"rFmWL8/JpS6zCqPUNxxgUQ", "kid":"q1ep2HfuXy6IO7iHdye28Q" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/megaplus/megaplus.mpd
@@ -130,3 +130,83 @@ https://tvup-ccpv2-live.secure2.footprint.net/ucl/ucl.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"H+Ijh6TRIszJauVcaLIq2Q", "kid":"JgSEWXrxXUGBILyZ+9oXrA" },{ "kty":"oct", "k":"StkrL4rMVWlF9cLUD6H3hw", "kid":"ROOVAV94XQeUOGiYSYB5dA" },{ "kty":"oct", "k":"qkHVD5ws3TAzOkDb91dCkw", "kid":"50Hsq4KfUXWxM1olXKK6+w" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/vitalidadtv1c/vitalidadtv1c.mpd
+
+----------DEPORTES----------
+
+
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-name="TNT Sports  Chile" tvg-logo="https://i.ibb.co/R4VLN8f/tnt-sports.png" group-title="DEPORTES",TNT SPORTS HD
+http://45.181.122.209:8088/play/a052
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_americasports.jpg" group-title="DEPORTES",AMERICA SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4racjoYA1TCSPW2f37KzoQ", "kid":"qSJ18MxtVZuutA2qo5ljwA" },{ "kty":"oct", "k":"XjuSfoi9/7tJIvGThVEd8Q", "kid":"wh6P2yNMUyasDD+IS7VG8w" },{ "kty":"oct", "k":"yx1wMbZAfZLkOm/x/LiCgQ", "kid":"T2MT8kGMWSiYa5/9j7ehNg" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/americasports/americasports.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/637.png" group-title="DEPORTES",CDO PREMIUM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QlBV3TB84UeZ4BF3T43H7A", "kid":"wN8Ukm8KXlGF5DAzDoNHsQ" },{ "kty":"oct", "k":"g7E0Ty86bweUIazDIkKwLA", "kid":"Mn3LR9imUXu4zAjeRSYe3w" },{ "kty":"oct", "k":"wWDqGMoan4ULj4IRpVxlDw", "kid":"asBPcjP2XaiskBwQx+kHxw" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/cdopremium/cdopremium.mpd
+
+#EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1625.png" group-title="DEPORTES",ESPN EXTRA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/fHMWiK+3+AQUH9yjryr2Q", "kid":"2706QFgIXDOxz3G3Z79QHA" },{ "kty":"oct", "k":"h5v6ZvBhGZ1udtgZW9NktQ", "kid":"+sLM5SQjWja3rTZyLBRN0w" },{ "kty":"oct", "k":"e1ar/RIpQK4WN/wo7BApkg", "kid":"lKjVqrwzWUSdVXghT5lLgA" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/espnplus/espnplus.mpd
+
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="DEPORTES",ESPN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"mdRNy6SL9zlZN+sA3UUn3g", "kid":"OKZEp6f5VGaWp05klLycEw" },{ "kty":"oct", "k":"6cq0P4slgTif1DEid7JQsQ", "kid":"4Nwo1LV4VkuzeVeLkwQCIA" },{ "kty":"oct", "k":"OGC1YXDtDFzo/6pPWOCBqQ", "kid":"mvtDoQIpX3GY35JXVaAmqg" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/espn/espn.mpd
+
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png" group-title="DEPORTES",ESPN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ifqvL5DATh+tGvEKcZ0kBA", "kid":"RuM4oFGYU8SDSpfmXJw/nw" },{ "kty":"oct", "k":"jWaMbnV6QbfIncYeqmKUFQ", "kid":"SQPXrxecVcO2a+++nG/hxg" },{ "kty":"oct", "k":"QQ1xkcsNFOwi0cpX39GRoA", "kid":"NsmAegCcUtaTlHW50Q2YHQ" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/espn2/espn2.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte-mediano.png" group-title="DEPORTES",ESPN 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Rvh5sGIJ5NwfIjfhPK3WFw", "kid":"Ho/RhGPKVa6U59U2/b23QQ" },{ "kty":"oct", "k":"8DzeXbhAQJkIoLXGJtyyEw", "kid":"RbdTdBr0Ww+iLwmJ17w/nQ" },{ "kty":"oct", "k":"1DpL6QWdZLfp6cA8U8NJYg", "kid":"EqUWhd/rVB2Aq2+EsKwApg" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/espn3/espn3.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="DEPORTES",ESPN 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"o/N3vl5zdh96LiCogcXWSw", "kid":"dNdE9RamXueZthDYettnOQ" },{ "kty":"oct", "k":"i2qfExJeiLt7OftbQBwPUw", "kid":"gAjU1+FnVue9Ltu68UwwnQ" },{ "kty":"oct", "k":"hwjaNQQp+I1rdDoBC2UREA", "kid":"6ITIHUGRV6iug4UJAJRZiQ" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/espn4/espn4.mpd
+
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports-mediano.png" group-title="DEPORTES",FOX SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Xw4YMIYMyxih4bPJDKibUg", "kid":"VhXVUviuVBqlrQGQzu+pGA" },{ "kty":"oct", "k":"zypX2o7uTzxUaRbai/6muA", "kid":"NFkYxjPdXmiynyWePFMe9A" },{ "kty":"oct", "k":"QlBFJhwHPSIPd/Ft4VtJIA", "kid":"cyxXZWufVE6v8UveP3GoKg" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/foxsports1/foxsports1.mpd
+
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="" tvg-logo="https://i.ibb.co/WDTGR5W/foxsportsmx.png" group-title="DEPORTES",FOX SPORTS (MX)
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+
+#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2-mediano.png" group-title="DEPORTES",FOX SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vdR3TYTDVWL9iuGCvqY0Qg", "kid":"BgKFR9t/WlaNfWl4UL1WGQ" },{ "kty":"oct", "k":"S71OIAtLVSKfvjmwdhPovA", "kid":"cPkwb/JOWiuYcF8Et2/Zrw" },{ "kty":"oct", "k":"hjV+kmKZwnun3R/6mvdyIA", "kid":"/rbuapfqVQ+2MLO1OY7IAw" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/foxsports2/foxsports2.mpd
+
+#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2-mediano.png" group-title="DEPORTES",FOX SPORTS 2 (MX)
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+
+#EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3-mediano.png" group-title="DEPORTES",FOX SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"LtyOglcq5n7yh+ZgSAFUMA", "kid":"dwrbkUQhWvGVEy+iOzUL2A" },{ "kty":"oct", "k":"wiOin7c/WoNSzvcOlpHXPA", "kid":"UjAmZVHjWhqun2FeCu9Vng" },{ "kty":"oct", "k":"4mrNaIyxtOQ+ucBBLdAyew", "kid":"TocuDCxKU6yZ+nE8hMLzww" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/foxsports3/foxsports3.mpd
+
+#EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx" tvg-name="" tvg-logo="https://i.ibb.co/86V9Ktc/foxsports3mx.png" group-title="DEPORTES",FOX SPORTS 3 (MX)
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_premium_argentina-mediano.png" group-title="DEPORTES",FOX SPORTS PREMIUM**
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"x3+MpRr4krjmTPjDLf2Q5w", "kid":"nIBKV+JsW36mBQU5lzxNpQ" },{ "kty":"oct", "k":"LpRMIpaxL0khKwRkj4ofiQ", "kid":"g72NFnXTXiyEDyhHIwijSw" },{ "kty":"oct", "k":"3OyfX0bBrBoDMvDBvXLvvg", "kid":"TFv2L1v9Wuq4A34CvVUs0A" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/foxsportspremium/foxsportspremium.mpd
+
+#EXTINF:-1 tvg-id="TheGolfChannelLatinoamerica.mx" tvg-name="" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/628.png" group-title="DEPORTES",GOLF CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"k8MSc2CbunoqeF/W4TbQUg", "kid":"1+PK6rZJX+CzoznGvPojRw" },{ "kty":"oct", "k":"sV9Ie5eQ7Loz9bhqFZXJ6g", "kid":"Uo4yQsdAWg+wLJ4kWc/qEw" },{ "kty":"oct", "k":"scvxgSDAUJDlCtQlPMZBtg", "kid":"LKRAqXZwXYWWRODrH3z7cw" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/golfchannel/golfchannel.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1638.png" group-title="DEPORTES",TELETRAK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9Ecnx68Fg3QGDRjXKA2qFw", "kid":"rQYhDfdQWqG2comOfDx9jA" },{ "kty":"oct", "k":"Mo0EO80MSroX29/gArUwFQ", "kid":"HaDxlK6xWmGnZg1PZNrfAw" },{ "kty":"oct", "k":"klBFrL/LCNNz0wZolXIS/g", "kid":"j85o2XTPWNOmQEg2BDwdTA" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/teletrak/teletrak.mpd
