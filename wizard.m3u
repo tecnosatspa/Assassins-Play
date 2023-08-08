@@ -306,3 +306,186 @@ https://tvup-ccpv2-live.secure2.footprint.net/tntseries/tntseries.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Bil9zYHzIdc2/+V2gRF8wA", "kid":"2Zo6IiqWUGOWrrfqrIyT2Q" },{ "kty":"oct", "k":"iTieCpDhoEZl+vFrIgiy/A", "kid":"It3eUH1AXeSvHddtBJAjPg" },{ "kty":"oct", "k":"oAvfnUpzaCIJE5SNLZAung", "kid":"/uSHwK1FXZWC3e1aXiz3/g" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/trutv/trutv.mpd
+
+
+----------INFANTILES----------
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/baby_latinoamerica-mediano.png" group-title="INFANTILES",BABY TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XOHm1Tb35zPbhXtIn3Bs1w", "kid":"PkGA/+j3VgGCDLT00YXu4Q" },{ "kty":"oct", "k":"zb5ZzTQgR+k9V5e2wUWLUw", "kid":"/jt50ZxtXuWwbyl32SDRog" },{ "kty":"oct", "k":"w3DutWd33F3C6r3qaXhgJw", "kid":"euAsmT6tViGXJPm1saUABQ" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/babytv/babytv.mpd
+
+#EXTINF:-1 tvg-id="Cartoonito.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoonito-mediano.png" group-title="INFANTILES",CARTOONITO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OzBCvhtHy3fHSZQ+JTRmVQ", "kid":"8ThSQogpXt+pv+sOkV1+nw" },{ "kty":"oct", "k":"pkxKpbY3Y6eOtDg6MzZy5g", "kid":"nXEQISDNUVCL1e2AQ/A2Bw" },{ "kty":"oct", "k":"cPXhHh5RnSFLf1CyZn+fKA", "kid":"UKIuDrCNU7iCiW03cXIJBg" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/cartoonitohd/cartoonitohd.mpd
+
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png" group-title="INFANTILES",CARTOON NETWORK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PVOC7P5GUQgqkIG+I79K7A", "kid":"eFVn0W+iWFKuU2spASfnlA" },{ "kty":"oct", "k":"7f4HzBy3CNJWER6kGw0pzg", "kid":"h/906tjwXMSwe332mDDZgQ" },{ "kty":"oct", "k":"wRq4xfZ6t8LrIsH2B+xo5g", "kid":"8IJQYsBGUX26qmeb7IAH0w" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/cartoonnetwork/cartoonnetwork.mpd
+
+#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="INFANTILES",DISCOVERY KIDS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XOHm1Tb35zPbhXtIn3Bs1w", "kid":"PkGA/+j3VgGCDLT00YXu4Q" },{ "kty":"oct", "k":"zb5ZzTQgR+k9V5e2wUWLUw", "kid":"/jt50ZxtXuWwbyl32SDRog" },{ "kty":"oct", "k":"w3DutWd33F3C6r3qaXhgJw", "kid":"euAsmT6tViGXJPm1saUABQ" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/discoverykids/discoverykids.mpd
+
+#EXTINF:-1 tvg-id="DisneyChannel.co" tvg-name="" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/312.png" group-title="INFANTILES",DISNEY CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"x3+MpRr4krjmTPjDLf2Q5w", "kid":"nIBKV+JsW36mBQU5lzxNpQ" },{ "kty":"oct", "k":"LpRMIpaxL0khKwRkj4ofiQ", "kid":"g72NFnXTXiyEDyhHIwijSw" },{ "kty":"oct", "k":"3OyfX0bBrBoDMvDBvXLvvg", "kid":"TFv2L1v9Wuq4A34CvVUs0A" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/disney/disney.mpd
+
+#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_junior-mediano.png" group-title="INFANTILES",DISNEY JR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ro5g+o0IsZfMECLaTPtYjQ", "kid":"Y68LPxYTVoisGUJ/nWRztw" },{ "kty":"oct", "k":"nGSSzuiu764lhDidqR1s6w", "kid":"3lPrDyT5UbKikDHvDXkeMQ" },{ "kty":"oct", "k":"gjv1QlVvXdptG57veXNutQ", "kid":"FwMweL5MXkGa7RIiX+SPSQ" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/disneyjr/disneyjr.mpd
+
+#EXTINF:-1 tvg-id="Nick.co" tvg-name="" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/308.png" group-title="INFANTILES",NICK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"y009szU6QR3EK71WPZmklw", "kid":"gcXM7aWgXbyKjOS8QeZ9Mw" },{ "kty":"oct", "k":"Xl1ropdAyVs+G2nomsCzTA", "kid":"UFHgfDJ1Xv+xD1d6A10g2w" },{ "kty":"oct", "k":"zHDMaOhOQ4clutbl78thqg", "kid":"4bpT1y+8W6mdEUcPYlWcpg" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/nickhd/nickhd.mpd
+
+#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png" group-title="INFANTILES",NICK JR.
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"SjdWlRQV4HehbzccMzkq7w", "kid":"UKbAim0SX/u1UUVurAlC9w" },{ "kty":"oct", "k":"j7PvlDz7S5KMmaWTNe9hgw", "kid":"M2IdpPwWXtqTYw5Vp9fLLg" },{ "kty":"oct", "k":"t3eG7bJgahdQuGEurlC2BA", "kid":"xV8ahM7vWeWQI6lvL12fMg" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/nickjunior/nickjunior.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tooncast-mediano.png" group-title="INFANTILES",TOONCAST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MRmfzdB/qF8OR9LxzLrORA", "kid":"klqaZhD4Wva6IZc9GdQKzQ" },{ "kty":"oct", "k":"fdd+rSHJiLuocpMNcHmuiw", "kid":"ofX3g3QTWeqxhZ8mVRiMUg" },{ "kty":"oct", "k":"CCZyt/3j7CeYyBNCCeQQmg", "kid":"wWx9VryLU/WNq2MWFALbmg" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/tooncast/tooncast.mpd
+
+
+#EXTINF:-1 tvg-id="Antena3Internacional.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/antena_3-mediano.png" group-title="INTERNACIONAL",ANTENA 3 INTERNACIONAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kI54kmJFreuJ339ojCJ2Vw", "kid":"ghW+V4gQWEG+vD1Ah0tMgg" },{ "kty":"oct", "k":"wzQqQFosUqFQ636OQgxYtw", "kid":"nMW7jumWVsKLHEN/gje8wQ" },{ "kty":"oct", "k":"TfX/R0TD5OyBXib0aHWabg", "kid":"95Sm8m1zV3GNdwGimzUfXQ" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/antena3/antena3.mpd
+
+#EXTINF:-1 tvg-id="CNNEnEspanol.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="INTERNACIONAL",CNN EN ESPAÑOL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IfMfbjCFXVq3fa/PguIl5A", "kid":"1NmkmY6nWziQRT9n9UZflA" },{ "kty":"oct", "k":"rGFF1wpXRDV3EauV88jDIA", "kid":"HDHAz/avVDSqGoVN7pykKA" },{ "kty":"oct", "k":"hhQeK6JaPoRWyvsfl7sjaQ", "kid":"ou9LdusFW66QrAZDzJmzUA" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/cnnespanol/cnnespanol.mpd
+
+
+----------MUSICA----------
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/bandamax-mediano.png" group-title="MUSICA",Bandamax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VMlTmP5dQzNP224l20IjoA", "kid":"PwvxAMvhXHCw+Ru1HkIBlg" },{ "kty":"oct", "k":"azGKjSaI1dWIjoXcY9j1wA", "kid":"HjAUwiluVGe30qELRGZAEw" },{ "kty":"oct", "k":"0Roj62PWg0wxniWFpzse3w", "kid":"oT39YYxjW/qr+3CQm/T6cw" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/bandamax/bandamax.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_ecool.jpg" group-title="MUSICA",ECOOL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9z1iQZrdeempyeFOjkat4Q", "kid":"RmoivxL5UQ+Bea31j+Xo6A" },{ "kty":"oct", "k":"00ZFaS2sRlIU0EMBP36QGg", "kid":"HumUACqbW4qfFts4X4xVIg" },{ "kty":"oct", "k":"m/rSUjFJVX+qxwVkkDeCMQ", "kid":"2hwPBEc0UxiL8RYS3kufsA" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/ecool/ecool.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/htv-mediano.png" group-title="MUSICA",HTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"t+X+mEM2ajmLHJ7ByFX1vQ", "kid":"0ur4kovTXGmvhr+k6XLMzA" },{ "kty":"oct", "k":"SNk3WciDTvtAM3KC83gtjQ", "kid":"G17i6GpgXKSf2Kd+CM3Cfw" },{ "kty":"oct", "k":"11yWUG5d+TcefGSqfSK7fQ", "kid":"naUwPROBUf6t0L8bC62/ug" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/htv/htv.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_mimusicakpop.jpg" group-title="MUSICA",MI MUSICA KPOP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eMyAmQ55JWmJe1iyS0PjvQ", "kid":"VIAtbvrKXQy+vGT35dZLRA" },{ "kty":"oct", "k":"LJ6hTtOnh6WrhzXQmsTq4Q", "kid":"X1bFJba5V9W0AH0hLtZ+IQ" },{ "kty":"oct", "k":"yeH1nsT8zmdZ9Xo37ShPSQ", "kid":"EgzBV3WyWBCCH0AdeqLSwQ" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/musicakpop/musicakpop.mpd
+
+#EXTINF:-1 tvg-id="MTV.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mtv-mediano.png" group-title="MUSICA",MTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vq37diFL1Sc6OIUIQyuwGA", "kid":"9X9fGKQCU9yH/7t3m18RWQ" },{ "kty":"oct", "k":"1jMpBXgRlNg4FhcLIBj9Hg", "kid":"z0MYLaNCVhWLFo4nkDYhBg" },{ "kty":"oct", "k":"h966vgMpDWmEfgAtrD8F6w", "kid":"ARN5zpJdWfO9pb6xXGpBAQ" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/mtv/mtv.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/much_music-mediano.png" group-title="MUSICA",MUCH MUSIC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"p9CHL98vIJCHjHAd00X5QA", "kid":"6M51MtaaVtWebukDZLAeEA" },{ "kty":"oct", "k":"QFeDY3Juf8EDuOf0YBH2tA", "kid":"IwQabLRkVSOwMXjXfre48g" },{ "kty":"oct", "k":"kOuVY1Pz+1sHKqW3cPpUIA", "kid":"zgVNsMbbVpaKq6fZt8vGNA" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/much/much.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1269.png" group-title="MUSICA",QUIERO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"SCG4F4VkXw9DFjz7qgEPCw", "kid":"l55pctlSV9SWtguY9OXw3Q" },{ "kty":"oct", "k":"ZlByhJvqtnbzklyYgZgchQ", "kid":"64F2B8ZoVb6OTXioCO9Gpw" },{ "kty":"oct", "k":"nNQE1kYy78WieQxYksRbOQ", "kid":"rpm/3c/pXQeh2DPcUVpkrA" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/quierotv/quierotv.mpd
+
+
+----------CULTURA Y ENTRETENIMIENTO----------
+
+
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet_latinoamerica-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",ANIMAL PLANET
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ISF9yY2/UR80CxqsCsx9gw", "kid":"OVcE624+Wvi1gYPaI4+p7Q" },{ "kty":"oct", "k":"XA5pakDMGR6HY7R7Mw+PtQ", "kid":"RORm0BqQV3W0bYkhm6G6bQ" },{ "kty":"oct", "k":"aJbZCDYXGalo+3A5uirdfg", "kid":"1BtSZBDTUEC6JG2H20nygw" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/animalplanet/animalplanet.mpd
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/732.png" group-title="CULTURA Y ENTRETENIMIENTO",DISCOVERY CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZM93IEhWNFWZRTXnk5tnoQ", "kid":"SEsXaA5LUsuxXPydSJ0CxA" },{ "kty":"oct", "k":"N4aZgdmUqhoFqq/8wsFUlA", "kid":"2zx5lPvXUTCF1C19OlWNyg" },{ "kty":"oct", "k":"3srN7oiJ4MGwg/hSDlUGcA", "kid":"100isoe8XvOKD7AxNqJdng" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/discovery/discovery.mpd
+
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",DISCOVERY HOME & HEALT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Cs8I4hXgXhJkRceEIZDeVA", "kid":"w5WUVftIXPeS+oYZciUVAg" },{ "kty":"oct", "k":"E1Kpao1PaDqwxc0tXNgFLA", "kid":"P7RHMB2JVM2j6lTK1M3SAA" },{ "kty":"oct", "k":"lTC8O09Z9DysEZErQ7wZfw", "kid":"1cYxkY0SWuyAFKx28MOJKQ" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/discohh/discohh.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/investigation_discovery_latinoamerica-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",INVESTIGATION DISCOVERY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"f8O3vyUcHuS9YrKci6XXUQ", "kid":"OvZBjT+/Vga6IZVRac6cmQ" },{ "kty":"oct", "k":"lTb4oeFeUgFLQo9OZpfYqQ", "kid":"YH30d9IOXoGt6BjaRggeSw" },{ "kty":"oct", "k":"UDhr/xWQ9JTS8xqGOr1sAQ", "kid":"EDtxHa7rX7m2NmXbkPW6mg" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/iddiscovery/iddiscovery.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_science-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",DISCOVERY SCIENCE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xdCbEEMq1ToMANLOp+OrBA", "kid":"wHy4haDjUJyHSNs7/6b5bw" },{ "kty":"oct", "k":"VSJtx6yGlQWjW6oCvfhPbA", "kid":"mIpNeljpVlKUdvNuH1KjpA" },{ "kty":"oct", "k":"lslWwiF/Z7cR9EPSyvrBkw", "kid":"mamIuu1UV8eYiAezgcRhVw" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/discociencia/discociencia.mpd
+
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_theater-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",DISCOVERY THEATER
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DKQgozwJP2t0G++wTg7gMA", "kid":"vf31hY3QUaiKA1FzvZhFfQ" },{ "kty":"oct", "k":"19dBkzq4PZSE87AKQsrpqw", "kid":"TWO//bMzW5q4OE075xbBwQ" },{ "kty":"oct", "k":"wMSg7hBlIGnagUmz8CPbQA", "kid":"dQHYRSLIVpyC0P29MqFBVA" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/discotheater/discotheater.mpd
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",DISCOVERY TURBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"v7BWmYwzno7O9pQo04XVUA", "kid":"SCz5T3O8UcmLPDgiGlzQqA" },{ "kty":"oct", "k":"yo3XWIAyDXPXCIHjFzEbWQ", "kid":"3y9xjtlgXK2CxtW/tzrmLQ" },{ "kty":"oct", "k":"6Pr+391xsHOrQmAuqaWCJg", "kid":"XN/l8cwXVmGZja1Vvfsuzg" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/discoveryturbo/discoveryturbo.mpd
+
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_world-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",DISCOVERY WORLD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CerMQ51T/Jq2PFuU21hIhg", "kid":"qhUo6X72UC+s30nd9t77AQ" },{ "kty":"oct", "k":"7Eun8viIA7yhHssJyRgCQg", "kid":"2lzzgoOXWtemyR1JC/2uZQ" },{ "kty":"oct", "k":"mPs5Lx1nbJoXSlTmMcvIDg", "kid":"OtfQ6glgUPSpVaxQ2h4lZQ" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/discoworld/discoworld.mpd
+
+#EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",EL GOURMET
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"M/ZVvVfYCH0YBnWd4XsrqA", "kid":"kdO4rb/RWDmybS3QWr85Sg" },{ "kty":"oct", "k":"wObnaYscDtt/30eDHfMG2A", "kid":"cMAVJ+BKV2K9KZ7K6z4FXw" },{ "kty":"oct", "k":"79QiAX2eaqavgJZZNlpuiA", "kid":"TsO6tC2uUWyzc5TMJQu3SA" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/gourmet/gourmet.mpd
+
+#EXTINF:-1 tvg-id="FoodNetwork.mx" tvg-name="" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/233.png" group-title="CULTURA Y ENTRETENIMIENTO",FOOD NETWORK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"B71RWGXloEHU7OwFu3lSxg", "kid":"feKj2FJvWAq7vPNIWgoREw" },{ "kty":"oct", "k":"CLS8zaN3qENEm8TepoMLIA", "kid":"NUvjBxhqWBaKEfyuV5T1EQ" },{ "kty":"oct", "k":"st+nNF1cSbbZWN+lnLsSOw", "kid":"nKfPtWJ5UxGcAB6BxZX3XA" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/foodnetwork/foodnetwork.mpd
+
+#EXTINF:-1 tvg-id="Glitz.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/glitz-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",GLITZ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"cwszW8wsAY1RURHx9vjj1Q", "kid":"8l+HXhoRW6mgZYHx6F4V1g" },{ "kty":"oct", "k":"5p3u3wpCCGWZoVlOQy6LNg", "kid":"WSusN3ikX7S3tpFwp9Wjjg" },{ "kty":"oct", "k":"+IGN2XYE/dwI+uxBNmT2Gg", "kid":"u7OixdZYUxqqv1vcqbUq0g" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/glitz/glitz.mpd
+
+#EXTINF:-1 tvg-id="HOLATV.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",HOLA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RXNtzRgSh6G1vO7gIhzHwQ", "kid":"e9kxLeGYVn26dbDqSGxHiA" },{ "kty":"oct", "k":"H29L6rw3UoQogAfJNr5RmQ", "kid":"O0SxWg+EXP+F9q6LQVdf0g" },{ "kty":"oct", "k":"36eZz+Ixq2hAbs5E8/HleA", "kid":"nVTyrVy3USOR8nkBna3hVg" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/holatv/holatv.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_lovenature.jpg" group-title="CULTURA Y ENTRETENIMIENTO",LOVE NATURE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fJyKwtjY4LqThTtWPbmWvw", "kid":"HhfJV9LUWSGxXBHy94C/Gg" },{ "kty":"oct", "k":"ztUIqbiVCUpIwI9Uvt5rPA", "kid":"pEWA0zEXVKac06xa4r959g" },{ "kty":"oct", "k":"7vo4my9NTgik1IBWvFWjSQ", "kid":"1QGEm43jX6mZWW7dB73yoA" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/lovenature/lovenature.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mas_chic-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",MAS CHIC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NnRZqUlwlsmYnoJw1WwxsQ", "kid":"KdTXggDEWcmkKEn9/NsGIw" },{ "kty":"oct", "k":"uut+03wV//DyQkxvzHIaWA", "kid":"znL93zS+UNynBWblz7+k0Q" },{ "kty":"oct", "k":"1gfxBltff4uj2XWcdDjL1g", "kid":"yuyECKdIVQqX0H5g+Oa4Bg" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/maschic/maschic.mpd
+
+#EXTINF:-1 tvg-id="NationalGeographic.ar" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/national_geographic_latinoamerica-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",NATIONAL GEOGRAPHIC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Hv8o8feiyYxn/98CQaYfLg", "kid":"awYE2f+wXhiq32/HV7INaA" },{ "kty":"oct", "k":"RCHcbg0fOxfL/Hd5B+v03A", "kid":"Aa3l/mUUVB+8QSxNPlgkfQ" },{ "kty":"oct", "k":"DN8EZVbYDbSk0203qgr/EA", "kid":"5ucDreadWlyZTz1lzCDlUg" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/natgeo/natgeo.mpd
+
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",TLC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N1bxuLJhiJl4BeX0FmuQjg", "kid":"cUKJjQ3TUY6udYycUAWOcw" },{ "kty":"oct", "k":"itSx42n5GdsB9MfmH9SCyQ", "kid":"kZ17QO+CXViDfLRDIlzaSw" },{ "kty":"oct", "k":"tnG+fRlwn23gI0wt3jtv0A", "kid":"5QiT5tf7U4eMcKXmOWfLHw" } ], "type":"temporary" }
+https://tvup-ccpv2-live.secure2.footprint.net/tlc/tlc.mpd
