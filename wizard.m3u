@@ -20,27 +20,27 @@ https://tvup-ccpv2-live.secure2.footprint.net/megahd/megahd.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TAwtCDaAh6KINGW0Vq5uVg", "kid":"HfVwJkwvXzOCMKFZiei6LQ" },{ "kty":"oct", "k":"d0d6nRJG3FyHo1eO8QrFrw", "kid":"n7cRXaiiVnidvSGAupRkYg" },{ "kty":"oct", "k":"rFmWL8/JpS6zCqPUNxxgUQ", "kid":"q1ep2HfuXy6IO7iHdye28Q" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/megaplus/megaplus.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/3NmJZNb/tvn.png" group-title="NACIONAL",TVN HD
+#EXTINF:-1 tvg-id="149dtv.cl" tvg-name="CL | TVN" tvg-logo="https://i.ibb.co/3NmJZNb/tvn.png" group-title="NACIONAL",TVN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VbSvEDRl/5kjvjLSfYHM4g", "kid":"DqquLhxcXz24JmZI2veyyg" },{ "kty":"oct", "k":"ImdN4MNocpseBbKuHZYeTg", "kid":"aQh8CgtoUbuKea25rANIRQ" },{ "kty":"oct", "k":"S915vJ4M/SjyvAWzZAZiOQ", "kid":"miqguug/U36FPpUCxAa+dw" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/tvn/tvn.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/SP9HQH8/tv.png" group-title="NACIONAL",TV+ HD
+#EXTINF:-1 tvg-id="tvmas.cl" tvg-name="CL | TV+" tvg-logo="https://i.ibb.co/SP9HQH8/tv.png" group-title="NACIONAL",TV+ HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"moQuKRH2R7ylHG8yKitGAQ", "kid":"pRhjuorSX0OD7/yCtaEsxg" },{ "kty":"oct", "k":"sAcxoyZbfDodBFEVucc6vw", "kid":"D+4n06KoVDyQ8kACvdDoJw" },{ "kty":"oct", "k":"8nY6ZYGgJB3jF8ICJ1kJpA", "kid":"n4x5nLusW96ZgX17sS2hYA" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/tvp/tvp.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/VNdDky3/la-red.png" group-title="NACIONAL",LA RED HD
+#EXTINF:-1 tvg-id="lared.cl" tvg-name="CL | La Red" tvg-logo="https://i.ibb.co/VNdDky3/la-red.png" group-title="NACIONAL",LA RED HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VaQwxW2gTmDtcDng0vQTKQ", "kid":"k17h2bQcU826HQhD06fPxQ" },{ "kty":"oct", "k":"4rH85ozd2k7f9moDbKYtBg", "kid":"4xen00DjV9SVkPy9UpXXjw" },{ "kty":"oct", "k":"JhQeJSB1FLN5Y85mtOYMbQ", "kid":"M+D43VvhXWezbeK8cBdhUg" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/lared/lared.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/YWf6xcv/cnn-chile.png" group-title="NACIONAL",CNN CHILE HD
+#EXTINF:-1 tvg-id="707dtv.cl" tvg-name="CNN Chile" tvg-logo="https://i.ibb.co/YWf6xcv/cnn-chile.png" group-title="NACIONAL",CNN CHILE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ugrNV6WhQ2Tb7daD8KZqEQ", "kid":"r++n2KzCUg+UeeHKN9mbxg" },{ "kty":"oct", "k":"++o9Vovfr/foZZgJIH6S8A", "kid":"d4IhDYhoWPKqdRtWQqUMCg" },{ "kty":"oct", "k":"agItMXLLGOIZvPOFZqH2Bw", "kid":"QilU8I11XHuN6GPyHAS8Cw" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/cnnchile/cnnchile.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/dMGyMM0/24-horas.png" group-title="NACIONAL",CANAL 24 HORAS HD
+#EXTINF:-1 tvg-id="24horas.cl" tvg-name="24 Horas (CHI)" tvg-logo="https://i.ibb.co/dMGyMM0/24-horas.png" group-title="NACIONAL",CANAL 24 HORAS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zSOxtp56O70UKi7bcW0Lng", "kid":"5kew/IVKU3Sv39LlQaGLiA" },{ "kty":"oct", "k":"NMDiAtUlcACKQXbggZ3NWw", "kid":"s9i1EzgGXOy7LIvbZhaX+g" },{ "kty":"oct", "k":"RZLnubTd0vPn+Pi4QHpNpg", "kid":"nnXhDQZvUOCqKGXVeD1n/w" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/24horas/24horas.mpd
