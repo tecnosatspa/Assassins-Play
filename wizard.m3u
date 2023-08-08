@@ -187,11 +187,6 @@ https://tvup-ccpv2-live.secure2.footprint.net/foxsports2/foxsports2.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"LtyOglcq5n7yh+ZgSAFUMA", "kid":"dwrbkUQhWvGVEy+iOzUL2A" },{ "kty":"oct", "k":"wiOin7c/WoNSzvcOlpHXPA", "kid":"UjAmZVHjWhqun2FeCu9Vng" },{ "kty":"oct", "k":"4mrNaIyxtOQ+ucBBLdAyew", "kid":"TocuDCxKU6yZ+nE8hMLzww" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/foxsports3/foxsports3.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_premium_argentina-mediano.png" group-title="DEPORTES",FOX SPORTS PREMIUM ARG HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"x3+MpRr4krjmTPjDLf2Q5w", "kid":"nIBKV+JsW36mBQU5lzxNpQ" },{ "kty":"oct", "k":"LpRMIpaxL0khKwRkj4ofiQ", "kid":"g72NFnXTXiyEDyhHIwijSw" },{ "kty":"oct", "k":"3OyfX0bBrBoDMvDBvXLvvg", "kid":"TFv2L1v9Wuq4A34CvVUs0A" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/foxsportspremium/foxsportspremium.mpd
-
 #EXTINF:-1 tvg-id="TheGolfChannelLatinoamerica.mx" tvg-name="" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/628.png" group-title="DEPORTES",GOLF CHANNEL HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"k8MSc2CbunoqeF/W4TbQUg", "kid":"1+PK6rZJX+CzoznGvPojRw" },{ "kty":"oct", "k":"sV9Ie5eQ7Loz9bhqFZXJ6g", "kid":"Uo4yQsdAWg+wLJ4kWc/qEw" },{ "kty":"oct", "k":"scvxgSDAUJDlCtQlPMZBtg", "kid":"LKRAqXZwXYWWRODrH3z7cw" } ], "type":"temporary" }
