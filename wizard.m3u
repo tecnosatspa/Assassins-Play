@@ -144,6 +144,9 @@ http://45.232.210.1:8062/play/a08a/index.m3u8
 #EXTINF:-1 tvg-id="tntsports3.cl" tvg-name="TNT Sports 3 Chile" tvg-logo="https://i.ibb.co/W0gsj6w/tnt-sports-3.png" group-title="DEPORTES",TNT SPORTS 3 HD
 http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
+#EXTINF:-1 tvg-id="610dtv.cl" tvg-name="" tvg-logo="Directv Sports Chile" group-title="DEPORTES",DIRECTV SPORTS 1 HD
+http://iptv.tvxtremegold.com:8080/Ott442/v73kQZ5SDPDD/38742
+
 #EXTINF:-1 tvg-id="america-sports.ar" tvg-name="América Sports" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_americasports.jpg" group-title="DEPORTES",AMERICA SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4racjoYA1TCSPW2f37KzoQ", "kid":"qSJ18MxtVZuutA2qo5ljwA" },{ "kty":"oct", "k":"XjuSfoi9/7tJIvGThVEd8Q", "kid":"wh6P2yNMUyasDD+IS7VG8w" },{ "kty":"oct", "k":"yx1wMbZAfZLkOm/x/LiCgQ", "kid":"T2MT8kGMWSiYa5/9j7ehNg" } ], "type":"temporary" }
