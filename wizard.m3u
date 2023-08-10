@@ -259,7 +259,7 @@ https://giza.cdn.rcs.net.ar/mnp/hbosig/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/LNfZmpK/hbo-extreme.png" group-title="CINE Y SERIES",HBO XTREME HD
 https://giza.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
 
-#EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica-mediano.png" group-title="CINE Y SERIES",COMEDY CENTRAL HD
+#EXTINF:-1 tvg-id="215dtv.cl" tvg-name="Comedy Central ARG/CHI/COL/PE" tvg-logo="https://i.ibb.co/LP0mBPz/comedy-channel.png" group-title="CINE Y SERIES",COMEDY CENTRAL HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2GtEwGB7k6L8MFxikeovBA", "kid":"mBXjmhuIVJmDgug5n1ywSQ" },{ "kty":"oct", "k":"dw174uCOZLJZK+8KLKqwKA", "kid":"ooRvknxWV5i6oEg9SBbeKQ" },{ "kty":"oct", "k":"2Avp9KbNfg7IaLAlpU4xdw", "kid":"99X5F1gAUz66my2qUXF+QQ" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/comedycentral/comedycentral.mpd
@@ -269,7 +269,7 @@ https://tvup-ccpv2-live.secure2.footprint.net/comedycentral/comedycentral.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0HeHf2wmysJETrdyydwYqg", "kid":"aAELNlWPWqyX6itic2YWRw" },{ "kty":"oct", "k":"jpZ6OkwwSvTBWTIZdRKDYQ", "kid":"R2oK48pjWmGKcvL6y2lv2Q" },{ "kty":"oct", "k":"npqi0DBWNUgD+UnqhHB1dA", "kid":"6MhYJuEGUline3S5Gnba5g" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/depelicula/depelicula.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png" group-title="CINE Y SERIES",DHE HD
+#EXTINF:-1 tvg-id="1513dtv.cl" tvg-name="DHE" tvg-logo="https://i.ibb.co/fCChwm2/dhe.png" group-title="CINE Y SERIES",DHE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lPwLE6E6L/w9zXT02lBYqQ", "kid":"H406JsbtVsSs54DQS+200g" },{ "kty":"oct", "k":"N7mxWEAU5IcaT1FxDiZRmw", "kid":"e3+dZZ/pUHWnRMDKEg/LcA" },{ "kty":"oct", "k":"kMe99VbEKzWGLlKcc4z7Nw", "kid":"U4lPrkfWXc+n8m3VoNg9ew" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/dhe/dhe.mpd
