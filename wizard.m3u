@@ -211,23 +211,23 @@ https://tvup-ccpv2-live.secure2.footprint.net/teletrak/teletrak.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uUvOGuHZZ5iELK2asIhlcQ", "kid":"PGSqN7cSUJuj+Wsul47oYA" },{ "kty":"oct", "k":"LKMdfwtnDWixbUlPwdTLvg", "kid":"oX9+yD/cUcedtgylVCvVFQ" },{ "kty":"oct", "k":"qy0yz6pjYcCIETG14imQrA", "kid":"10Rq+l9lVnCRrygF05ZLiw" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/a3cine1c/a3cine1c.mpd
 
-#EXTINF:-1 tvg-id="Atreseries.ar" tvg-name="" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/214.png" group-title="CINE Y SERIES",A3SERIES HD
+#EXTINF:-1 tvg-id="Atreseries.ar" tvg-name="" tvg-logo="https://i.ibb.co/SR7dcRK/a3series.png" group-title="CINE Y SERIES",A3SERIES HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w/mfTLsVLcJjxLj8yYWeBA", "kid":"7YyCRSUhWnygQGwbsJiOpw" },{ "kty":"oct", "k":"0pKA/YfDG8dupb+IMk+dxw", "kid":"+nDUwji4WnKcH64DzqtD4g" },{ "kty":"oct", "k":"iwyK6TADuqNXv2fb/ob2wg", "kid":"lAmqvzipUp6j297Oq6DE/A" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/antena3seriesinternacional/antena3seriesinternacional.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",A&E HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Ld3vtST/a-e.png" group-title="CINE Y SERIES",A&E HD
 https://giza.cdn.rcs.net.ar/mnp/ae/output.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",AXN HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/5jBfMj7/axn.png" group-title="CINE Y SERIES",AXN HD
 https://giza.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN-avc1_1499136=1-mp4a_62000_spa=19.m3u8
 
-#EXTINF:-1 tvg-id="AMC.ar" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png" group-title="CINE Y SERIES",AMC HD
+#EXTINF:-1 tvg-id="AMC.ar" tvg-name="" tvg-logo="https://i.ibb.co/ncDh80L/amc.png" group-title="CINE Y SERIES",AMC HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GVFbx8pjeg1CI37tqxzaNA", "kid":"Y85VB+d9Ue22f5NqFWn6LA" },{ "kty":"oct", "k":"2gprWYO99kohlF0r3pdZMw", "kid":"O9yxlNjzWiWEl6ZtfT2nAQ" },{ "kty":"oct", "k":"DqvfKLiZ9uISRQCi7SRFHg", "kid":"L0KUyzkVWI6ylUErrhAcpg" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/amc/amc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png" group-title="CINE Y SERIES",CINECANAL HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/tYK9Prg/cinecanal.png" group-title="CINE Y SERIES",CINECANAL HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ugrNV6WhQ2Tb7daD8KZqEQ", "kid":"r++n2KzCUg+UeeHKN9mbxg" },{ "kty":"oct", "k":"++o9Vovfr/foZZgJIH6S8A", "kid":"d4IhDYhoWPKqdRtWQqUMCg" },{ "kty":"oct", "k":"agItMXLLGOIZvPOFZqH2Bw", "kid":"QilU8I11XHuN6GPyHAS8Cw" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/cinecanalhd/cinecanalhd.mpd
