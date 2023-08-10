@@ -227,12 +227,12 @@ https://giza.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN-avc1_1499136=1-
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GVFbx8pjeg1CI37tqxzaNA", "kid":"Y85VB+d9Ue22f5NqFWn6LA" },{ "kty":"oct", "k":"2gprWYO99kohlF0r3pdZMw", "kid":"O9yxlNjzWiWEl6ZtfT2nAQ" },{ "kty":"oct", "k":"DqvfKLiZ9uISRQCi7SRFHg", "kid":"L0KUyzkVWI6ylUErrhAcpg" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/amc/amc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/tYK9Prg/cinecanal.png" group-title="CINE Y SERIES",CINECANAL HD
+#EXTINF:-1 tvg-id="507dtv.co" tvg-name="Cinecanal (COL)" tvg-logo="https://i.ibb.co/tYK9Prg/cinecanal.png" group-title="CINE Y SERIES",CINECANAL HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ugrNV6WhQ2Tb7daD8KZqEQ", "kid":"r++n2KzCUg+UeeHKN9mbxg" },{ "kty":"oct", "k":"++o9Vovfr/foZZgJIH6S8A", "kid":"d4IhDYhoWPKqdRtWQqUMCg" },{ "kty":"oct", "k":"agItMXLLGOIZvPOFZqH2Bw", "kid":"QilU8I11XHuN6GPyHAS8Cw" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/cinecanalhd/cinecanalhd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/72RBXLk/cinemax.png" group-title="CINE Y SERIES",CINEMAX HD
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="Cinemax CHI/COL/ECU/PER" tvg-logo="https://i.ibb.co/72RBXLk/cinemax.png" group-title="CINE Y SERIES",CINEMAX HD
 https://giza.cdn.rcs.net.ar/mnp/cinemax/output.mpd
 
 #EXTINF:-1 tvg-id="1481dtv.cl" tvg-name="HBO CHI" tvg-logo="https://i.ibb.co/xfmMRRY/6142369c8f67e63df4b248bb-hbopremium.png" group-title="CINE Y SERIES",HBO HD
