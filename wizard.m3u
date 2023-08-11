@@ -284,12 +284,12 @@ https://tvup-ccpv2-live.secure2.footprint.net/europa/europa.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"SIu3074Y5jVczbqdSLYzNw", "kid":"TBXRF8CwWVW1CsS8kLnrJQ" },{ "kty":"oct", "k":"NhnCvWFXLuAFrt06c7E67A", "kid":"8smPctvDUtKvUGdXap0ThA" },{ "kty":"oct", "k":"QY19wiAYZyDNh8XWUJwvFQ", "kid":"mZKhXxmcVj6cHkbhZXR5rg" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/filmandart/filmandart.mpd
 
-#EXTINF:-1 tvg-id="FX.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png" group-title="CINE Y SERIES",FX HD
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="FX (ARG/CHI/COL/PER)" tvg-logo="https://i.ibb.co/mNKr3gp/fx.png" group-title="CINE Y SERIES",FX HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8qBYEGvZnJELAIjguDL+lg", "kid":"gC0mCKOrX2mfiEWTGdiSNg" },{ "kty":"oct", "k":"AJPVhe4n0NdN4x8yvDYriw", "kid":"eEt3wlFdU2qoR4zK10LKlg" },{ "kty":"oct", "k":"2nGDtYcIWlthjJ7OHjlLwg", "kid":"pZJx6z1lVeud1UjHprdUbQ" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/fx/fx.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_plus-mediano.png" group-title="CINE Y SERIES",GOLDEN PLUS HD
+#EXTINF:-1 tvg-id="1503dtv.cl" tvg-name="Golden Plus" tvg-logo="https://i.ibb.co/vqnXz1w/golden-plus.png" group-title="CINE Y SERIES",GOLDEN PLUS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3jVKSCqJXzMhoh7uNBiE4w", "kid":"vazsZc32WDiImAjxjNjHZg" },{ "kty":"oct", "k":"T3F+jqjS+Se3UAoTgXablQ", "kid":"NidtAPhtWkiNK06W6p57mw" },{ "kty":"oct", "k":"iAWnd3LOs5BLscUBStBKUw", "kid":"Ik5limbYWvqeRb9FSgI7Cg" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/goldenplus/goldenplus.mpd
@@ -309,7 +309,7 @@ https://tvup-ccpv2-live.secure2.footprint.net/paramount/paramount.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"FaQzZ5A1vebrmA0IvSTn9g", "kid":"qmTa8rPxX7eiX8X5Ke4qIQ" },{ "kty":"oct", "k":"N3D7a0NT8KBzhejMZ+Irsg", "kid":"6AHf8gg8UqevULhmkpP9IA" },{ "kty":"oct", "k":"kRex5Dk08iO/aEGYpxWjIA", "kid":"oFJ7nxX/WQ2pf51xfuxdkw" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/spacehd/spacehd.mpd
 
-#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png" group-title="CINE Y SERIES",STAR CHANNEL HD
+#EXTINF:-1 tvg-id="202dtv.cl" tvg-name="STAR Channel CHI" tvg-logo="https://i.ibb.co/kBS1sFh/star-channel.png" group-title="CINE Y SERIES",STAR CHANNEL HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1HPfRCu90lA6N4kO2dJcQ", "kid":"gomXrZc8XQS0kRQAjxA1QQ" },{ "kty":"oct", "k":"b1PP61GG5HgKSo+3rKW2og", "kid":"Hxxmjo4TUyywjyj3A2sRNQ" },{ "kty":"oct", "k":"shEppwnbI0P5j5Yh0XAjiw", "kid":"DXMq+ErJWwGS8IB5BB+Sfg" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/starchannel/starchannel.mpd
