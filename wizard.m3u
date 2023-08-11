@@ -536,3 +536,4 @@ https://tvup-ccpv2-live.secure2.footprint.net/natgeo/natgeo.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N1bxuLJhiJl4BeX0FmuQjg", "kid":"cUKJjQ3TUY6udYycUAWOcw" },{ "kty":"oct", "k":"itSx42n5GdsB9MfmH9SCyQ", "kid":"kZ17QO+CXViDfLRDIlzaSw" },{ "kty":"oct", "k":"tnG+fRlwn23gI0wt3jtv0A", "kid":"5QiT5tf7U4eMcKXmOWfLHw" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/tlc/tlc.mpd
+
