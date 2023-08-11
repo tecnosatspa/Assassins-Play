@@ -216,10 +216,10 @@ https://tvup-ccpv2-live.secure2.footprint.net/a3cine1c/a3cine1c.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w/mfTLsVLcJjxLj8yYWeBA", "kid":"7YyCRSUhWnygQGwbsJiOpw" },{ "kty":"oct", "k":"0pKA/YfDG8dupb+IMk+dxw", "kid":"+nDUwji4WnKcH64DzqtD4g" },{ "kty":"oct", "k":"iwyK6TADuqNXv2fb/ob2wg", "kid":"lAmqvzipUp6j297Oq6DE/A" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/antena3seriesinternacional/antena3seriesinternacional.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Ld3vtST/a-e.png" group-title="CINE Y SERIES",A&E HD
+#EXTINF:-1 tvg-id="207dtv.cl" tvg-name="AE (ARG/CHI/COL/PER)" tvg-logo="https://i.ibb.co/Ld3vtST/a-e.png" group-title="CINE Y SERIES",A&E HD
 https://giza.cdn.rcs.net.ar/mnp/ae/output.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/5jBfMj7/axn.png" group-title="CINE Y SERIES",AXN HD
+#EXTINF:-1 tvg-id="209dtv.cl" tvg-name="AXN ARG/CHI" tvg-logo="https://i.ibb.co/5jBfMj7/axn.png" group-title="CINE Y SERIES",AXN HD
 https://giza.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN-avc1_1499136=1-mp4a_62000_spa=19.m3u8
 
 #EXTINF:-1 tvg-id="AMC.ar" tvg-name="" tvg-logo="https://i.ibb.co/ncDh80L/amc.png" group-title="CINE Y SERIES",AMC HD
