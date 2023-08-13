@@ -364,7 +364,7 @@ https://tvup-ccpv2-live.secure2.footprint.net/trutv/trutv.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MonOnWyZtTtoXt+s5nduvg", "kid":"FQI2DgkGXX+FR9YbFC5+ow" },{ "kty":"oct", "k":"5dX30dgM3xkQxZP+lxSMHg", "kid":"6QNUITodXs2TeqvccW+GWg" },{ "kty":"oct", "k":"j4hCiTBzSYtpCfJ62g2eOg", "kid":"WfU+R/gPVW6ULajmexeF3Q" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/etctv/etctv.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/baby_latinoamerica-mediano.png" group-title="INFANTILES",BABY TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ScsvmQh/baby-tv.png" group-title="INFANTILES",BABY TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XOHm1Tb35zPbhXtIn3Bs1w", "kid":"PkGA/+j3VgGCDLT00YXu4Q" },{ "kty":"oct", "k":"zb5ZzTQgR+k9V5e2wUWLUw", "kid":"/jt50ZxtXuWwbyl32SDRog" },{ "kty":"oct", "k":"w3DutWd33F3C6r3qaXhgJw", "kid":"euAsmT6tViGXJPm1saUABQ" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/babytv/babytv.mpd
