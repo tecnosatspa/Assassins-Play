@@ -139,8 +139,8 @@ http://45.232.210.1:8062/play/a08a/index.m3u8
 #EXTINF:-1 tvg-id="tntsports3.cl" tvg-name="TNT Sports 3 Chile" tvg-logo="https://i.ibb.co/W0gsj6w/tnt-sports-3.png" group-title="DEPORTES",TNT SPORTS 3 HD
 http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",MLS LEAGUE HD
-http://mlsleague.ddns.net:8086/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zswj5d7/sky-sports.png" group-title="DEPORTES",SKY SPORTS HD
+http://181.209.173.10:9000/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-id="america-sports.ar" tvg-name="América Sports" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_americasports.jpg" group-title="DEPORTES",AMERICA SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
