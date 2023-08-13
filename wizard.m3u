@@ -142,6 +142,18 @@ http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?devic
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zswj5d7/sky-sports.png" group-title="DEPORTES",SKY SPORTS HD
 http://181.209.173.10:9000/play/a05v/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",DIRECTV SPORTS HD
+http://181.177.255.253:8000/play/a075/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",DIRECTV SPORTS+ HD
+http://181.177.255.253:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",DIRETV SPORTS 2 HD
+http://181.177.255.253:8000/play/a076/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",DIRECTV SPORTS FIGHT HD
+http://181.177.255.253:8000/play/a077/index.m3u8
+
 #EXTINF:-1 tvg-id="america-sports.ar" tvg-name="América Sports" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_americasports.jpg" group-title="DEPORTES",AMERICA SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4racjoYA1TCSPW2f37KzoQ", "kid":"qSJ18MxtVZuutA2qo5ljwA" },{ "kty":"oct", "k":"XjuSfoi9/7tJIvGThVEd8Q", "kid":"wh6P2yNMUyasDD+IS7VG8w" },{ "kty":"oct", "k":"yx1wMbZAfZLkOm/x/LiCgQ", "kid":"T2MT8kGMWSiYa5/9j7ehNg" } ], "type":"temporary" }
