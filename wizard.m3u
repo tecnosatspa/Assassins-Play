@@ -359,7 +359,7 @@ https://tvup-ccpv2-live.secure2.footprint.net/trutv/trutv.mpd
 
 ----------INFANTILES----------
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_etc.jpg" group-title="INFANTILES",ETC TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/DttLqLG/etc.png" group-title="INFANTILES",ETC TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MonOnWyZtTtoXt+s5nduvg", "kid":"FQI2DgkGXX+FR9YbFC5+ow" },{ "kty":"oct", "k":"5dX30dgM3xkQxZP+lxSMHg", "kid":"6QNUITodXs2TeqvccW+GWg" },{ "kty":"oct", "k":"j4hCiTBzSYtpCfJ62g2eOg", "kid":"WfU+R/gPVW6ULajmexeF3Q" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/etctv/etctv.mpd
