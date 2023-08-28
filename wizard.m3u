@@ -245,6 +245,9 @@ https://tvup-ccpv2-live.secure2.footprint.net/amc/amc.mpd
 https://tvup-ccpv2-live.secure2.footprint.net/cinecanalhd/cinecanalhd.mpd
 
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="Cinemax CHI/COL/ECU/PER" tvg-logo="https://i.ibb.co/72RBXLk/cinemax.png" group-title="CINE Y SERIES",CINEMAX HD
+https://ixp-nqn.origin.rcs.net.ar/mnp/cinemax/output.mpd
+
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="Cinemax CHI/COL/ECU/PER" tvg-logo="https://i.ibb.co/72RBXLk/cinemax.png" group-title="CINE Y SERIES",CINEMAX
 https://giza.cdn.rcs.net.ar/mnp/cinemax/output.mpd
 
 #EXTINF:-1 tvg-id="1481dtv.cl" tvg-name="HBO CHI" tvg-logo="https://i.ibb.co/xfmMRRY/6142369c8f67e63df4b248bb-hbopremium.png" group-title="CINE Y SERIES",HBO HD
