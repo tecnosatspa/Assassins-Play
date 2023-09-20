@@ -251,13 +251,13 @@ https://tvup-ccpv2-live.secure2.footprint.net/cinecanalhd/cinecanalhd.mpd
 http://45.232.210.1:47000/play/cinemaxhd
 
 #EXTINF:-1 tvg-id="1481dtv.cl" tvg-name="HBO CHI" tvg-logo="https://i.ibb.co/xfmMRRY/6142369c8f67e63df4b248bb-hbopremium.png" group-title="CINE Y SERIES",HBO HD
-https://ixp-nqn.origin.rcs.net.ar/mnp/hbo/output.mpd
+http://45.232.210.1:47000/play/a08o
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Rhmnzgk/hbo-2.png" group-title="CINE Y SERIES",HBO 2 HD
 https://giza.cdn.rcs.net.ar/mnp/hbo2/output.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/q7NKc9t/hbo-family.png" group-title="CINE Y SERIES",HBO FAMILY HD
-https://giza.cdn.rcs.net.ar/mnp/hbofam/output.mpd
+http://45.232.210.1:47000/play/a0fa
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/DfBGtPM/hbo-mundi.png" group-title="CINE Y SERIES", HBO MUNDI HD
 https://giza.cdn.rcs.net.ar/mnp/hbomund/output.mpd
@@ -272,7 +272,7 @@ https://giza.cdn.rcs.net.ar/mnp/hbopop/output.mpd
 https://giza.cdn.rcs.net.ar/mnp/hbosig/output.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/LNfZmpK/hbo-extreme.png" group-title="CINE Y SERIES",HBO XTREME HD
-https://giza.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
+http://45.232.210.1:47000/play/a0fb
 
 #EXTINF:-1 tvg-id="215dtv.cl" tvg-name="Comedy Central ARG/CHI/COL/PE" tvg-logo="https://i.ibb.co/LP0mBPz/comedy-channel.png" group-title="CINE Y SERIES",COMEDY CENTRAL HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
