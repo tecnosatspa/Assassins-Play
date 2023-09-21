@@ -260,19 +260,19 @@ http://45.232.210.1:47000/play/cinemaxhd
 http://45.232.210.1:47000/play/a08o
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Rhmnzgk/hbo-2.png" group-title="CINE Y SERIES",HBO 2 HD
-https://giza.cdn.rcs.net.ar/mnp/hbo2/output.mpd
+http://45.4.3.75:7700/play/a01e
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/q7NKc9t/hbo-family.png" group-title="CINE Y SERIES",HBO FAMILY HD
 http://45.232.210.1:47000/play/a0fa
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/DfBGtPM/hbo-mundi.png" group-title="CINE Y SERIES", HBO MUNDI HD
-https://giza.cdn.rcs.net.ar/mnp/hbomund/output.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/DfBGtPM/hbo-mundi.png" group-title="CINE Y SERIES", HBO MUNDI
+http://201.222.44.220:4227/play/a043/index.m3u8
 
 #EXTINF:-1 tvg-id="526dtv.cl" tvg-name="HBO Plus (Este)" tvg-logo="https://i.ibb.co/z8C20TC/hbo-plus.png" group-title="CINE Y SERIES",HBO+ HD
-https://giza.cdn.rcs.net.ar/mnp/hboplus/output.mpd
+http://45.190.187.241:58001/play/a0cb/index.m3u8
 
 #EXTINF:-1 tvg-id="541dtv.cl" tvg-name="HBO Pop" tvg-logo="https://i.ibb.co/Lk0vJ32/hbo-pop.png" group-title="CINE Y SERIES",HBO POP HD
-https://giza.cdn.rcs.net.ar/mnp/hbopop/output.mpd
+http://45.4.3.75:7700/play/a02o
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/LNmHbQH/hbo-signature.png" group-title="CINE Y SERIES",HBO SIGNATURE HD
 https://giza.cdn.rcs.net.ar/mnp/hbosig/output.mpd
