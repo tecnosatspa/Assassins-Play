@@ -143,7 +143,7 @@ http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?devic
 http://181.209.173.10:9000/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-id="610dtv.cl" tvg-name="Directv Sports Chile" tvg-logo="https://i.ibb.co/DgrM3zW/directv-sports.png" group-title="DEPORTES",DIRECTV SPORTS HD
-http://181.177.255.253:8000/play/a075/index.m3u8
+http://iptv.tvxtremegold.com:8080/Ott442/v73kQZ5SDPDD/38742
 
 #EXTINF:-1 tvg-id="179directv.cl" tvg-name="DIRECTV Sports +" tvg-logo="https://i.ibb.co/mD8KRCy/directv-plus.png" group-title="DEPORTES",DIRECTV SPORTS+ HD
 http://181.177.255.253:8000/play/a078/index.m3u8
