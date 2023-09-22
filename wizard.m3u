@@ -281,7 +281,10 @@ http://45.190.187.241:58001/play/a0cb/index.m3u8
 http://45.4.3.75:7700/play/a02o
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/LNmHbQH/hbo-signature.png" group-title="CINE Y SERIES",HBO SIGNATURE
-http://201.222.44.220:4227/play/a050/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=72348e07625450d38063971b855b3224&key=b4a6d2f8cdd32be66537f1a62ffa62d6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.100
+https://dtvott-cbc.akamaized.net/dash_live_1143/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/LNfZmpK/hbo-extreme.png" group-title="CINE Y SERIES",HBO XTREME HD
 http://45.232.210.1:47000/play/a0fb
