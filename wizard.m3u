@@ -278,7 +278,7 @@ http://201.222.44.220:4227/play/a043/index.m3u8
 http://45.190.187.241:58001/play/a0cb/index.m3u8
 
 #EXTINF:-1 tvg-id="541dtv.cl" tvg-name="HBO Pop" tvg-logo="https://i.ibb.co/Lk0vJ32/hbo-pop.png" group-title="CINE Y SERIES",HBO POP HD
-http://45.176.164.67:8000/play/a020
+http://38.43.150.126:8000/play/a034/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/LNmHbQH/hbo-signature.png" group-title="CINE Y SERIES",HBO SIGNATURE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
