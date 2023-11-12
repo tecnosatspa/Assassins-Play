@@ -1,34 +1,20 @@
 #EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
 
 #EXTINF:-1 tvg-id="1156dtv.cl" tvg-name="Canal 13 Cable CHI" tvg-logo="https://i.ibb.co/hsPWxXx/canal-13.png" group-title="NACIONAL",CANAL 13 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"q/jBbC38HCgoEWjSRIHCmw", "kid":"Wum0u6OCXJiHbstDXtDa+A" },{ "kty":"oct", "k":"lfjoxHDnQj6MZuZx9yTTQw", "kid":"WRYF66NEVMaM0SAbd8Izlg" },{ "kty":"oct", "k":"hgTrBffTjLLDnzelIZaLPg", "kid":"c7wupFA5WvSH9seBKpK2/Q" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/canal13/canal13.mpd
+http://45.232.210.1:47000/play/a07a
 
 #EXTINF:-1 tvg-id="chv.cl" tvg-name="CL | Chilevisión" tvg-logo="https://i.ibb.co/60YtW1H/chv.png" group-title="NACIONAL",CHILEVISION HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vnhtlAZiC722RHwO1mgj2A", "kid":"RJXDIrEYUvqb0hz1eG/UUA" },{ "kty":"oct", "k":"vOKaMAZfbPK1ujRa7VLNnQ", "kid":"T1s2ohNOW+yoVCVeQaTJnQ" },{ "kty":"oct", "k":"1RohPT4tpTzKgrv54Leg4w", "kid":"Z9gxnEHeWJ+D0jZ8qBQmdQ" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/chilevisionhd/chilevisionhd.mpd
+http://45.232.210.1:47000/play/a08n
+
 
 #EXTINF:-1 tvg-id="mega.cl" tvg-name="CL | Mega" tvg-logo="https://i.ibb.co/KVwyHBQ/mega.png" group-title="NACIONAL",MEGA HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KldNY2WyokAhif80C9pFhw", "kid":"KJOw83DWX6iDSKS9gXpEZQ" },{ "kty":"oct", "k":"GCKxFnAu5gExqRJNaoe3Mw", "kid":"2X8O52NmWYq5WxRW2TmvBw" },{ "kty":"oct", "k":"u6UuOd5Bdjp33NsCCqklnA", "kid":"5eoHv0twWYGPPrz1V/X9Ng" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/megahd/megahd.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zbtN8Yv/mega-plus.png" group-title="NACIONAL",MEGA+ HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TAwtCDaAh6KINGW0Vq5uVg", "kid":"HfVwJkwvXzOCMKFZiei6LQ" },{ "kty":"oct", "k":"d0d6nRJG3FyHo1eO8QrFrw", "kid":"n7cRXaiiVnidvSGAupRkYg" },{ "kty":"oct", "k":"rFmWL8/JpS6zCqPUNxxgUQ", "kid":"q1ep2HfuXy6IO7iHdye28Q" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/megaplus/megaplus.mpd
+http://45.232.210.1:47000/play/a08g
 
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-name="CL | TVN" tvg-logo="https://i.ibb.co/3NmJZNb/tvn.png" group-title="NACIONAL",TVN HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VbSvEDRl/5kjvjLSfYHM4g", "kid":"DqquLhxcXz24JmZI2veyyg" },{ "kty":"oct", "k":"ImdN4MNocpseBbKuHZYeTg", "kid":"aQh8CgtoUbuKea25rANIRQ" },{ "kty":"oct", "k":"S915vJ4M/SjyvAWzZAZiOQ", "kid":"miqguug/U36FPpUCxAa+dw" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/tvn/tvn.mpd
+http://45.232.210.1:47000/play/a06r
 
 #EXTINF:-1 tvg-id="tvmas.cl" tvg-name="CL | TV+" tvg-logo="https://i.ibb.co/SP9HQH8/tv.png" group-title="NACIONAL",TV+ HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"moQuKRH2R7ylHG8yKitGAQ", "kid":"pRhjuorSX0OD7/yCtaEsxg" },{ "kty":"oct", "k":"sAcxoyZbfDodBFEVucc6vw", "kid":"D+4n06KoVDyQ8kACvdDoJw" },{ "kty":"oct", "k":"8nY6ZYGgJB3jF8ICJ1kJpA", "kid":"n4x5nLusW96ZgX17sS2hYA" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/tvp/tvp.mpd
+http://45.232.210.1:47000/play/a058
 
 #EXTINF:-1 tvg-id="lared.cl" tvg-name="CL | La Red" tvg-logo="https://i.ibb.co/VNdDky3/la-red.png" group-title="NACIONAL",LA RED HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -278,7 +264,7 @@ http://201.222.44.220:4227/play/a043/index.m3u8
 http://45.190.187.241:58001/play/a0cb/index.m3u8
 
 #EXTINF:-1 tvg-id="541dtv.cl" tvg-name="HBO Pop" tvg-logo="https://i.ibb.co/Lk0vJ32/hbo-pop.png" group-title="CINE Y SERIES",HBO POP HD
-http://45.4.3.75:7700/play/a02o
+http://38.41.8.1:8000/play/a00d
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/LNmHbQH/hbo-signature.png" group-title="CINE Y SERIES",HBO SIGNATURE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
