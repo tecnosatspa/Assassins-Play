@@ -302,9 +302,7 @@ https://tvup-ccpv2-live.secure2.footprint.net/goldenplus/goldenplus.mpd
 https://tvup-ccpv2-live.secure2.footprint.net/isat/isat.mpd
 
 #EXTINF:-1 tvg-id="ParamountNetwork.ar" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png" group-title="CINE Y SERIES",PARAMOUNT HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UbVNHi/ZYTVSM6n6SATKEA", "kid":"viz82H3IW9+sAyv75WfC1w" },{ "kty":"oct", "k":"93qJUOrJLw6eCPfxtyIuxA", "kid":"n9OsP2w/UIqyfmgg+9/DdA" },{ "kty":"oct", "k":"cFeZtd33wcX1Ntd3ezMW+g", "kid":"GSPTlJ3UWnCUrdSfk5GpxQ" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/paramount/paramount.mpd
+http://iptel-allende.origin.rcs.net.ar/mnp/paramount/output.mpd
 
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png" group-title="CINE Y SERIES",SPACE HD
 http://iptel-allende.origin.rcs.net.ar/mnp/space/output.mpd
