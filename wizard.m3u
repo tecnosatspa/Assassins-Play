@@ -289,9 +289,7 @@ https://tvup-ccpv2-live.secure2.footprint.net/europa/europa.mpd
 https://tvup-ccpv2-live.secure2.footprint.net/filmandart/filmandart.mpd
 
 #EXTINF:-1 tvg-id="217dtv.cl" tvg-name="FX (ARG/CHI/COL/PER)" tvg-logo="https://i.ibb.co/mNKr3gp/fx.png" group-title="CINE Y SERIES",FX HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8qBYEGvZnJELAIjguDL+lg", "kid":"gC0mCKOrX2mfiEWTGdiSNg" },{ "kty":"oct", "k":"AJPVhe4n0NdN4x8yvDYriw", "kid":"eEt3wlFdU2qoR4zK10LKlg" },{ "kty":"oct", "k":"2nGDtYcIWlthjJ7OHjlLwg", "kid":"pZJx6z1lVeud1UjHprdUbQ" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/fx/fx.mpd
+http://iptel-allende.origin.rcs.net.ar/mnp/fx/output.mpd
 
 #EXTINF:-1 tvg-id="1503dtv.cl" tvg-name="Golden Plus" tvg-logo="https://i.ibb.co/vqnXz1w/golden-plus.png" group-title="CINE Y SERIES",GOLDEN PLUS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
