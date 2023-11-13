@@ -330,19 +330,13 @@ https://tvup-ccpv2-live.secure2.footprint.net/tcm/tcm.mpd
 https://tvup-ccpv2-live.secure2.footprint.net/telenovelas/telenovelas.mpd
 
 #EXTINF:-1 tvg-id="502dtv.cl" tvg-name="TNT Chile" tvg-logo="https://i.ibb.co/WcnmY6M/tnt.png" group-title="CINE Y SERIES",TNT HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XMX2F7aM7jQA7NJnvmUduw", "kid":"xm/yb/8jXs6SnY7N5mU2vQ" },{ "kty":"oct", "k":"SH3jpjdXrSPABlbYu32LTw", "kid":"8y4ATY5oWuiCPSzI1sLKvg" },{ "kty":"oct", "k":"PYjWtB0e0QAVYlzdi+AgrQ", "kid":"/2TrVJeEUJmeCpZZKzyEiA" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/tnthd/tnthd.mpd
+http://iptel-allende.origin.rcs.net.ar/mnp/tnt/output.mpd
 
 #EXTINF:-1 tvg-id="213dtv.cl" tvg-name="TNT Series" tvg-logo="https://i.ibb.co/L54DLLj/tnt-series.png" group-title="CINE Y SERIES",TNT SERIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ci696NajT6rfbWpOBIKD9g", "kid":"coMTbDCCV4Kgf+jo6fde2g" },{ "kty":"oct", "k":"RBfmyi3Ht7nWpdnFHQuXkQ", "kid":"4nyKXQkGV7akVdHUE6jFSA" },{ "kty":"oct", "k":"dsPRyr5DcxKcBrJ+qNQ7ug", "kid":"WnHeofcbVqiCjyVE2gnmVQ" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/tntseries/tntseries.mpd
+http://iptel-allende.origin.rcs.net.ar/mnp/tntseries/output.mpd
 
 #EXTINF:-1 tvg-id="TruTV.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tru_tv-mediano.png" group-title="CINE Y SERIES",TRUTV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Bil9zYHzIdc2/+V2gRF8wA", "kid":"2Zo6IiqWUGOWrrfqrIyT2Q" },{ "kty":"oct", "k":"iTieCpDhoEZl+vFrIgiy/A", "kid":"It3eUH1AXeSvHddtBJAjPg" },{ "kty":"oct", "k":"oAvfnUpzaCIJE5SNLZAung", "kid":"/uSHwK1FXZWC3e1aXiz3/g" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/trutv/trutv.mpd
+http://iptel-allende.origin.rcs.net.ar/mnp/trutv/output.mpd
 
 
 ----------INFANTILES----------
