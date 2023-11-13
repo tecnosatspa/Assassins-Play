@@ -307,9 +307,7 @@ https://tvup-ccpv2-live.secure2.footprint.net/isat/isat.mpd
 https://tvup-ccpv2-live.secure2.footprint.net/paramount/paramount.mpd
 
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png" group-title="CINE Y SERIES",SPACE HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"FaQzZ5A1vebrmA0IvSTn9g", "kid":"qmTa8rPxX7eiX8X5Ke4qIQ" },{ "kty":"oct", "k":"N3D7a0NT8KBzhejMZ+Irsg", "kid":"6AHf8gg8UqevULhmkpP9IA" },{ "kty":"oct", "k":"kRex5Dk08iO/aEGYpxWjIA", "kid":"oFJ7nxX/WQ2pf51xfuxdkw" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/spacehd/spacehd.mpd
+http://iptel-allende.origin.rcs.net.ar/mnp/space/output.mpd
 
 #EXTINF:-1 tvg-id="202dtv.cl" tvg-name="STAR Channel CHI" tvg-logo="https://i.ibb.co/kBS1sFh/star-channel.png" group-title="CINE Y SERIES",STAR CHANNEL HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
