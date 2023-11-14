@@ -405,7 +405,10 @@ https://tvup-ccpv2-live.secure2.footprint.net/discovery/discovery.mpd
 https://tvup-ccpv2-live.secure2.footprint.net/discohh/discohh.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CULTURA Y ENTRETENIMIENTO",HISTORY HD
-https://giza.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel-avc1_1499136=1-mp4a_59000_spa=11.m3u8
+http://iptel-allende.origin.rcs.net.ar/mnp/history/output.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CULTURA Y ENTRETENIMIENTO",H2 HD
+http://iptel-allende.origin.rcs.net.ar/mnp/h2/output.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/investigation_discovery_latinoamerica-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",INVESTIGATION DISCOVERY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
