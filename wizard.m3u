@@ -124,16 +124,6 @@ http://45.232.210.1:8062/play/a08a/index.m3u8
 #EXTINF:-1 tvg-id="tntsports3.cl" tvg-name="TNT Sports 3 Chile" tvg-logo="https://i.ibb.co/W0gsj6w/tnt-sports-3.png" group-title="DEPORTES",TNT SPORTS 3 HD
 http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-id="america-sports.ar" tvg-name="América Sports" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_americasports.jpg" group-title="DEPORTES",AMERICA SPORTS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4racjoYA1TCSPW2f37KzoQ", "kid":"qSJ18MxtVZuutA2qo5ljwA" },{ "kty":"oct", "k":"XjuSfoi9/7tJIvGThVEd8Q", "kid":"wh6P2yNMUyasDD+IS7VG8w" },{ "kty":"oct", "k":"yx1wMbZAfZLkOm/x/LiCgQ", "kid":"T2MT8kGMWSiYa5/9j7ehNg" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/americasports/americasports.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/p4RnG2N/cdo-premium.png" group-title="DEPORTES",CDO PREMIUM HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QlBV3TB84UeZ4BF3T43H7A", "kid":"wN8Ukm8KXlGF5DAzDoNHsQ" },{ "kty":"oct", "k":"g7E0Ty86bweUIazDIkKwLA", "kid":"Mn3LR9imUXu4zAjeRSYe3w" },{ "kty":"oct", "k":"wWDqGMoan4ULj4IRpVxlDw", "kid":"asBPcjP2XaiskBwQx+kHxw" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/cdopremium/cdopremium.mpd
-
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-name="ESPN Chile" tvg-logo="https://i.ibb.co/k5WgfJ1/espn.png" group-title="DEPORTES",ESPN HD
 http://iptel-allende.origin.rcs.net.ar/mnp/espn/output.mpd
 
@@ -157,16 +147,6 @@ http://iptel-allende.origin.rcs.net.ar/mnp/fox_sport2/output.mpd
 
 #EXTINF:-1 tvg-id="3081dtv.cl" tvg-name="Fox Sports 3" tvg-logo="https://i.ibb.co/6gSpv0L/fox-sports-3.png" group-title="DEPORTES",FOX SPORTS 3 HD
 http://iptel-allende.origin.rcs.net.ar/mnp/fox_sport3/output.mpd
-
-#EXTINF:-1 tvg-id="TheGolfChannelLatinoamerica.mx" tvg-name="" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/628.png" group-title="DEPORTES",GOLF CHANNEL HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"k8MSc2CbunoqeF/W4TbQUg", "kid":"1+PK6rZJX+CzoznGvPojRw" },{ "kty":"oct", "k":"sV9Ie5eQ7Loz9bhqFZXJ6g", "kid":"Uo4yQsdAWg+wLJ4kWc/qEw" },{ "kty":"oct", "k":"scvxgSDAUJDlCtQlPMZBtg", "kid":"LKRAqXZwXYWWRODrH3z7cw" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/golfchannel/golfchannel.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1638.png" group-title="DEPORTES",TELETRAK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9Ecnx68Fg3QGDRjXKA2qFw", "kid":"rQYhDfdQWqG2comOfDx9jA" },{ "kty":"oct", "k":"Mo0EO80MSroX29/gArUwFQ", "kid":"HaDxlK6xWmGnZg1PZNrfAw" },{ "kty":"oct", "k":"klBFrL/LCNNz0wZolXIS/g", "kid":"j85o2XTPWNOmQEg2BDwdTA" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/teletrak/teletrak.mpd
 
 
 ----------CINE Y SERIES----------
