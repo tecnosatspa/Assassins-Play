@@ -407,9 +407,6 @@ https://tvup-ccpv2-live.secure2.footprint.net/discohh/discohh.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CULTURA Y ENTRETENIMIENTO",HISTORY HD
 http://iptel-allende.origin.rcs.net.ar/mnp/history/output.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CULTURA Y ENTRETENIMIENTO",H2 HD
-http://iptel-allende.origin.rcs.net.ar/mnp/h2/output.mpd
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/investigation_discovery_latinoamerica-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",INVESTIGATION DISCOVERY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"f8O3vyUcHuS9YrKci6XXUQ", "kid":"OvZBjT+/Vga6IZVRac6cmQ" },{ "kty":"oct", "k":"lTb4oeFeUgFLQo9OZpfYqQ", "kid":"YH30d9IOXoGt6BjaRggeSw" },{ "kty":"oct", "k":"UDhr/xWQ9JTS8xqGOr1sAQ", "kid":"EDtxHa7rX7m2NmXbkPW6mg" } ], "type":"temporary" }
