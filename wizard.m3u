@@ -16,9 +16,7 @@ http://45.232.210.1:47000/play/a06r
 http://45.232.210.1:47000/play/a058
 
 #EXTINF:-1 tvg-id="lared.cl" tvg-name="CL | La Red" tvg-logo="https://i.ibb.co/VNdDky3/la-red.png" group-title="NACIONAL",LA RED HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VaQwxW2gTmDtcDng0vQTKQ", "kid":"k17h2bQcU826HQhD06fPxQ" },{ "kty":"oct", "k":"4rH85ozd2k7f9moDbKYtBg", "kid":"4xen00DjV9SVkPy9UpXXjw" },{ "kty":"oct", "k":"JhQeJSB1FLN5Y85mtOYMbQ", "kid":"M+D43VvhXWezbeK8cBdhUg" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/lared/lared.mpd
+http://45.232.210.1:47000/play/laredhd
 
 #EXTINF:-1 tvg-id="707dtv.cl" tvg-name="CNN Chile" tvg-logo="https://i.ibb.co/YWf6xcv/cnn-chile.png" group-title="NACIONAL",CNN CHILE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
