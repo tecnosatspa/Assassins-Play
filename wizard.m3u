@@ -124,21 +124,6 @@ http://45.232.210.1:8062/play/a08a/index.m3u8
 #EXTINF:-1 tvg-id="tntsports3.cl" tvg-name="TNT Sports 3 Chile" tvg-logo="https://i.ibb.co/W0gsj6w/tnt-sports-3.png" group-title="DEPORTES",TNT SPORTS 3 HD
 http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zswj5d7/sky-sports.png" group-title="DEPORTES",SKY SPORTS HD
-http://181.209.173.10:9000/play/a05v/index.m3u8
-
-#EXTINF:-1 tvg-id="610dtv.cl" tvg-name="Directv Sports Chile" tvg-logo="https://i.ibb.co/DgrM3zW/directv-sports.png" group-title="DEPORTES",DIRECTV SPORTS HD
-http://iptv.tvxtremegold.com:8080/Ott442/v73kQZ5SDPDD/38742
-
-#EXTINF:-1 tvg-id="179directv.cl" tvg-name="DIRECTV Sports +" tvg-logo="https://i.ibb.co/mD8KRCy/directv-plus.png" group-title="DEPORTES",DIRECTV SPORTS+ HD
-http://181.177.255.253:8000/play/a078/index.m3u8
-
-#EXTINF:-1 tvg-id="612directv.cl" tvg-name="DirecTV Sports 2" tvg-logo="https://i.ibb.co/Fm9nnbM/directv-sports-2.png" group-title="DEPORTES",DIRETV SPORTS 2 HD
-http://181.177.255.253:8000/play/a076/index.m3u8
-
-#EXTINF:-1 tvg-id="620dtv.cl" tvg-name="Directv Sports Fight" tvg-logo="https://i.ibb.co/tp6FfCL/directv-sports-figth.png" group-title="DEPORTES",DIRECTV SPORTS FIGHT HD
-http://181.177.255.253:8000/play/a077/index.m3u8
-
 #EXTINF:-1 tvg-id="america-sports.ar" tvg-name="América Sports" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_americasports.jpg" group-title="DEPORTES",AMERICA SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4racjoYA1TCSPW2f37KzoQ", "kid":"qSJ18MxtVZuutA2qo5ljwA" },{ "kty":"oct", "k":"XjuSfoi9/7tJIvGThVEd8Q", "kid":"wh6P2yNMUyasDD+IS7VG8w" },{ "kty":"oct", "k":"yx1wMbZAfZLkOm/x/LiCgQ", "kid":"T2MT8kGMWSiYa5/9j7ehNg" } ], "type":"temporary" }
