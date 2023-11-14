@@ -73,11 +73,6 @@ https://tvup-ccpv2-live.secure2.footprint.net/mundoeducativo/mundoeducativo.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HqZt00AJZTFY7tedm/2Rdg", "kid":"tyJtXinAUX2NHTCSWfPvOQ" },{ "kty":"oct", "k":"fvrCdjSWKeXqWHnSkw7LmA", "kid":"ggWPJcZoXmCpcTpogVKQCA" },{ "kty":"oct", "k":"+O7lNtuD9UUFdxn6Z5LPDA", "kid":"5w1iZA89Wxak8Pn467kBRw" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/mundotv/mundotv.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_nexoplay-23.jpg" group-title="NACIONAL",NEXOPLAY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"WDzWvXirjy6IEk/LaMyr9A", "kid":"xTldpVZFXnekn5f8y7h+uA" },{ "kty":"oct", "k":"6TzsHlGu8F/UM4RlO2UYGg", "kid":"AMhWfCEtXTaVptefhUa0Fw" },{ "kty":"oct", "k":"Z6Wg+cof1/BR4pqxWWHdcw", "kid":"jd+LSwkrXW6+kUxSEg/AQA" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/nexoplay/nexoplay.mpd
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_ntv.jpg" group-title="NACIONAL",NTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PHrea9yLD1VeH4rJrhF6nw", "kid":"F1eJdtg2X2iAJp8fX1ssHQ" },{ "kty":"oct", "k":"hX0yJ3MJLG9sIaRfE9/JvQ", "kid":"Tmi8sW5iVd+u8eMxUETjww" },{ "kty":"oct", "k":"9j5BJGVWRWMggzLb90UUjg", "kid":"AHL5NvNuUDKCE+r1bkdxBA" } ], "type":"temporary" }
@@ -98,11 +93,6 @@ https://tvup-ccpv2-live.secure2.footprint.net/tvu/tvu.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_uatv.jpg" group-title="NACIONAL",UATV
 http://live.mundogo.cl/mundo/UATV/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_ucl.jpg" group-title="NACIONAL",UCL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tLVoY4wGwPdHTnPWPmJCmw", "kid":"RlpHIWhaUg6o3bVKGLBYZA" },{ "kty":"oct", "k":"lcvmVN64EB9CzVD5j7k8rQ", "kid":"CiGAL/CuWZqRtGCqjJ66Qg" },{ "kty":"oct", "k":"LWPlmkURCEhDjQ2vP/SLyw", "kid":"OUEr+3FyXmWXbGyRcbSKLQ" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/ucl/ucl.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_vitalidadtv.jpg" group-title="NACIONAL",VITALIDAD TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
