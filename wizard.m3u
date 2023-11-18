@@ -131,6 +131,8 @@ http://45.232.210.1:47000/play/a0at
 #EXTINF:-1 tvg-id="3081dtv.cl" tvg-name="Fox Sports 3" tvg-logo="https://i.ibb.co/6gSpv0L/fox-sports-3.png" group-title="DEPORTES",FOX SPORTS 3 HD
 http://45.232.210.1:47000/play/foxsports3hd
 
+#EXTINF:-1 tvg-id="3081dtv.cl" tvg-name="" tvg-logo="" group-title="DEPORTES",TYC SPORTS HD
+https://comodoro.cdn.rcs.net.ar/mnp/tyc/output.mpd
 
 ----------CINE Y SERIES----------
 
@@ -246,6 +248,15 @@ https://comodoro.cdn.rcs.net.ar/mnp/tntseries/output.mpd
 
 #EXTINF:-1 tvg-id="TruTV.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tru_tv-mediano.png" group-title="CINE Y SERIES",TRUTV HD
 https://comodoro.cdn.rcs.net.ar/mnp/trutv/output.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",UNIVERSAL COMEDY HD
+http://138.59.177.34:8000/play/a05w/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",UNIVERSAL CINEMA HD
+http://138.59.177.34:8000/play/a07c/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",UNIVERSAL PREMIER HD
+http://138.59.177.34:8000/play/a05s/index.m3u8
 
 
 ----------INFANTILES----------
