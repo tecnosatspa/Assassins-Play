@@ -113,19 +113,19 @@ http://45.232.210.1:8062/play/a08a/index.m3u8
 http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-name="ESPN Chile" tvg-logo="https://i.ibb.co/k5WgfJ1/espn.png" group-title="DEPORTES",ESPN HD
-http://iptel-allende.origin.rcs.net.ar/mnp/espn/output.mpd
+http://45.232.210.1:47000/play/a06j
 
 #EXTINF:-1 tvg-id="431dtv.cl" tvg-name="ESPN 2 Chile" tvg-logo="https://i.ibb.co/LzVBL3t/espn-2.png" group-title="DEPORTES",ESPN 2 HD
-http://iptel-allende.origin.rcs.net.ar/mnp/espn2/output.mpd
+http://45.232.210.1:47000/play/a0ax
 
 #EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 3 Andina" tvg-logo="https://i.ibb.co/P6PNRg0/espn-3.png" group-title="DEPORTES",ESPN 3 HD
-http://iptel-allende.origin.rcs.net.ar/mnp/espn3/output.mpd
+http://45.232.210.1:47000/play/espn3hd
 
-#EXTINF:-1 tvg-id="608dtv.cl" tvg-name="ESPN 4 Chile" tvg-logo="https://i.ibb.co/RSj4jMk/espn-4.png" group-title="DEPORTES",ESPN PREMIUM HD
-http://iptel-allende.origin.rcs.net.ar/mnp/espnpremium/output.mpd
+#EXTINF:-1 tvg-id="608dtv.cl" tvg-name="ESPN 4 Chile" tvg-logo="https://i.ibb.co/RSj4jMk/espn-4.png" group-title="DEPORTES",ESPN 4 HD
+http://161.132.108.75:50001/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-id="1620dtv.cl" tvg-name="ESPN Extra" tvg-logo="https://i.ibb.co/K7HvhqG/espn-extra.png" group-title="DEPORTES",ESPN EXTRA HD
-http://iptel-allende.origin.rcs.net.ar/mnp/espn_extra/output.mpd
+http://45.232.210.1:47000/play/a05e
 
 #EXTINF:-1 tvg-id="4399dtv.cl" tvg-name="FOX Sports 1 Chile" tvg-logo="https://i.ibb.co/3v1V88p/fox-sports-1.png" group-title="DEPORTES",FOX SPORTS 1 HD
 http://45.232.210.1:47000/play/a07k
