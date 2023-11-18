@@ -249,14 +249,11 @@ https://comodoro.cdn.rcs.net.ar/mnp/tntseries/output.mpd
 #EXTINF:-1 tvg-id="TruTV.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tru_tv-mediano.png" group-title="CINE Y SERIES",TRUTV HD
 https://comodoro.cdn.rcs.net.ar/mnp/trutv/output.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",UNIVERSAL COMEDY HD
-http://138.59.177.34:8000/play/a05w/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",UNIVERSAL CINEMA HD
-http://138.59.177.34:8000/play/a07c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/S61THZ5/universal.png" group-title="CINE Y SERIES",UNIVERSAL HD
+https://comodoro.cdn.rcs.net.ar/mnp/universal/output.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",UNIVERSAL PREMIER HD
-http://138.59.177.34:8000/play/a05s/index.m3u8
+
 
 
 ----------INFANTILES----------
