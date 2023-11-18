@@ -251,13 +251,13 @@ https://tvup-ccpv2-live.secure2.footprint.net/tcm/tcm.mpd
 https://tvup-ccpv2-live.secure2.footprint.net/telenovelas/telenovelas.mpd
 
 #EXTINF:-1 tvg-id="502dtv.cl" tvg-name="TNT Chile" tvg-logo="https://i.ibb.co/WcnmY6M/tnt.png" group-title="CINE Y SERIES",TNT HD
-http://iptel-allende.origin.rcs.net.ar/mnp/tnt/output.mpd
+https://comodoro.cdn.rcs.net.ar/mnp/tnt/output.mpd
 
 #EXTINF:-1 tvg-id="213dtv.cl" tvg-name="TNT Series" tvg-logo="https://i.ibb.co/L54DLLj/tnt-series.png" group-title="CINE Y SERIES",TNT SERIES HD
-http://iptel-allende.origin.rcs.net.ar/mnp/tntseries/output.mpd
+https://comodoro.cdn.rcs.net.ar/mnp/tntseries/output.mpd
 
 #EXTINF:-1 tvg-id="TruTV.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tru_tv-mediano.png" group-title="CINE Y SERIES",TRUTV HD
-http://iptel-allende.origin.rcs.net.ar/mnp/trutv/output.mpd
+https://comodoro.cdn.rcs.net.ar/mnp/trutv/output.mpd
 
 
 ----------INFANTILES----------
