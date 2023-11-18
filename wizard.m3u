@@ -183,7 +183,7 @@ http://iptel-allende.origin.rcs.net.ar/mnp/hbofam/output.mpd
 http://iptel-allende.origin.rcs.net.ar/mnp/hbomund/output.mpd
 
 #EXTINF:-1 tvg-id="526dtv.cl" tvg-name="HBO Plus (Este)" tvg-logo="https://i.ibb.co/z8C20TC/hbo-plus.png" group-title="CINE Y SERIES",HBO+ HD
-http://iptel-allende.origin.rcs.net.ar/mnp/hboplus/output.mpd
+https://edge-mix01-mps.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd
 
 #EXTINF:-1 tvg-id="541dtv.cl" tvg-name="HBO Pop" tvg-logo="https://i.ibb.co/Lk0vJ32/hbo-pop.png" group-title="CINE Y SERIES",HBO POP HD
 http://iptel-allende.origin.rcs.net.ar/mnp/hbopop/output.mpd
