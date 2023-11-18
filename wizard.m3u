@@ -187,9 +187,7 @@ http://161.132.108.75:50001/play/a03i/index.m3u8
 http://45.232.210.1:47000/play/a0fb
 
 #EXTINF:-1 tvg-id="215dtv.cl" tvg-name="Comedy Central ARG/CHI/COL/PE" tvg-logo="https://i.ibb.co/LP0mBPz/comedy-channel.png" group-title="CINE Y SERIES",COMEDY CENTRAL HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2GtEwGB7k6L8MFxikeovBA", "kid":"mBXjmhuIVJmDgug5n1ywSQ" },{ "kty":"oct", "k":"dw174uCOZLJZK+8KLKqwKA", "kid":"ooRvknxWV5i6oEg9SBbeKQ" },{ "kty":"oct", "k":"2Avp9KbNfg7IaLAlpU4xdw", "kid":"99X5F1gAUz66my2qUXF+QQ" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/comedycentral/comedycentral.mpd
+https://comodoro.cdn.rcs.net.ar/mnp/comedy/output.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula-mediano.png" group-title="CINE Y SERIES",DE PELICULA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -207,12 +205,10 @@ https://tvup-ccpv2-live.secure2.footprint.net/dhe/dhe.mpd
 https://tvup-ccpv2-live.secure2.footprint.net/europa/europa.mpd
 
 #EXTINF:-1 tvg-id="FilmandArts.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png" group-title="CINE Y SERIES",FILM & ARTS HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"SIu3074Y5jVczbqdSLYzNw", "kid":"TBXRF8CwWVW1CsS8kLnrJQ" },{ "kty":"oct", "k":"NhnCvWFXLuAFrt06c7E67A", "kid":"8smPctvDUtKvUGdXap0ThA" },{ "kty":"oct", "k":"QY19wiAYZyDNh8XWUJwvFQ", "kid":"mZKhXxmcVj6cHkbhZXR5rg" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/filmandart/filmandart.mpd
+https://comodoro.cdn.rcs.net.ar/mnp/filmsarts/output.mpd
 
 #EXTINF:-1 tvg-id="217dtv.cl" tvg-name="FX (ARG/CHI/COL/PER)" tvg-logo="https://i.ibb.co/mNKr3gp/fx.png" group-title="CINE Y SERIES",FX HD
-http://iptel-allende.origin.rcs.net.ar/mnp/fx/output.mpd
+https://comodoro.cdn.rcs.net.ar/mnp/fx/output.mpd
 
 #EXTINF:-1 tvg-id="1503dtv.cl" tvg-name="Golden Plus" tvg-logo="https://i.ibb.co/vqnXz1w/golden-plus.png" group-title="CINE Y SERIES",GOLDEN PLUS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -220,15 +216,13 @@ http://iptel-allende.origin.rcs.net.ar/mnp/fx/output.mpd
 https://tvup-ccpv2-live.secure2.footprint.net/goldenplus/goldenplus.mpd
 
 #EXTINF:-1 tvg-id="ISAT.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/i_sat-mediano.png" group-title="CINE Y SERIES",ISAT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aGMrrRb2BgTbBL4mZCySsA", "kid":"qW6/tazgXxCRVHg3KwLuag" },{ "kty":"oct", "k":"DTwkdba/f+pyrqu9+G2KPQ", "kid":"gyBy71FHU7uot4ybmluJ0A" },{ "kty":"oct", "k":"nlj4VPwmDzNX0zS7a3pgkQ", "kid":"jsEjd52NWuWD6Om+OMKYNw" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/isat/isat.mpd
+https://comodoro.cdn.rcs.net.ar/mnp/isat/output.mpd
 
 #EXTINF:-1 tvg-id="ParamountNetwork.ar" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png" group-title="CINE Y SERIES",PARAMOUNT HD
-http://iptel-allende.origin.rcs.net.ar/mnp/paramount/output.mpd
+https://comodoro.cdn.rcs.net.ar/mnp/paramount/output.mpd
 
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png" group-title="CINE Y SERIES",SPACE HD
-http://iptel-allende.origin.rcs.net.ar/mnp/space/output.mpd
+https://comodoro.cdn.rcs.net.ar/mnp/space/output.mpd
 
 #EXTINF:-1 tvg-id="202dtv.cl" tvg-name="STAR Channel CHI" tvg-logo="https://i.ibb.co/kBS1sFh/star-channel.png" group-title="CINE Y SERIES",STAR CHANNEL HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -236,14 +230,10 @@ http://iptel-allende.origin.rcs.net.ar/mnp/space/output.mpd
 https://tvup-ccpv2-live.secure2.footprint.net/starchannel/starchannel.mpd
 
 #EXTINF:-1 tvg-id="TBS.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tbs-mediano.png" group-title="CINE Y SERIES",TBS HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/QOj6N+Fl5xnyj/D9kDGtA", "kid":"u/NOkwyhUwSwGY2oKvaV5w" },{ "kty":"oct", "k":"o7orqRD+lXjvXxCbomhyGA", "kid":"nXsmWC0KVsaj3mbQt7Z50g" },{ "kty":"oct", "k":"tN+wHKI/5gm680Pitp8fjw", "kid":"VtOLXRjwWvyOuEbyaEgC4Q" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/tbs/tbs.mpd
+https://comodoro.cdn.rcs.net.ar/mnp/tbs/output.mpd
 
 #EXTINF:-1 tvg-id="TCM.ar" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tcm-mediano.png" group-title="CINE Y SERIES",TCM HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"n+15NhkCUCRPngcQnhjTpg", "kid":"R4XtchgaVK6NSMCMQTQX/Q" },{ "kty":"oct", "k":"tU9xw1ytySK0xhyp9lVh2g", "kid":"ax0skxtmU96mw1+DpwJsuw" },{ "kty":"oct", "k":"QkUlfIow2wdFTqTJJRwzlw", "kid":"y8hmDQjvWHipwcgjzx+jNg" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/tcm/tcm.mpd
+https://comodoro.cdn.rcs.net.ar/mnp/tcm/output.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png" group-title="CINE Y SERIES",TLNOVELAS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
