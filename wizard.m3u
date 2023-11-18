@@ -121,9 +121,6 @@ http://45.232.210.1:47000/play/a0ax
 #EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 3 Andina" tvg-logo="https://i.ibb.co/P6PNRg0/espn-3.png" group-title="DEPORTES",ESPN 3 HD
 http://45.232.210.1:47000/play/espn3hd
 
-#EXTINF:-1 tvg-id="608dtv.cl" tvg-name="ESPN 4 Chile" tvg-logo="https://i.ibb.co/RSj4jMk/espn-4.png" group-title="DEPORTES",ESPN 4 HD
-http://161.132.108.75:50001/play/a00v/index.m3u8
-
 #EXTINF:-1 tvg-id="1620dtv.cl" tvg-name="ESPN Extra" tvg-logo="https://i.ibb.co/K7HvhqG/espn-extra.png" group-title="DEPORTES",ESPN EXTRA HD
 http://45.232.210.1:47000/play/a05e
 
