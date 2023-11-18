@@ -24,9 +24,7 @@ http://45.232.210.1:47000/play/laredhd
 https://tvup-ccpv2-live.secure2.footprint.net/cnnchile/cnnchile.mpd
 
 #EXTINF:-1 tvg-id="24horas.cl" tvg-name="24 Horas (CHI)" tvg-logo="https://i.ibb.co/dMGyMM0/24-horas.png" group-title="NACIONAL",CANAL 24 HORAS HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zSOxtp56O70UKi7bcW0Lng", "kid":"5kew/IVKU3Sv39LlQaGLiA" },{ "kty":"oct", "k":"NMDiAtUlcACKQXbggZ3NWw", "kid":"s9i1EzgGXOy7LIvbZhaX+g" },{ "kty":"oct", "k":"RZLnubTd0vPn+Pi4QHpNpg", "kid":"nnXhDQZvUOCqKGXVeD1n/w" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/24horas/24horas.mpd
+https://mdstrm.com/live-stream-playlist-v/57d1a22064f5d85712b20dab.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/t13-en-vivo.png" group-title="NACIONAL",T13
 #KODIPROP:inputstream.adaptive.license_type=clearkey
