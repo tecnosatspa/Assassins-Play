@@ -127,14 +127,14 @@ http://iptel-allende.origin.rcs.net.ar/mnp/espnpremium/output.mpd
 #EXTINF:-1 tvg-id="1620dtv.cl" tvg-name="ESPN Extra" tvg-logo="https://i.ibb.co/K7HvhqG/espn-extra.png" group-title="DEPORTES",ESPN EXTRA HD
 http://iptel-allende.origin.rcs.net.ar/mnp/espn_extra/output.mpd
 
-#EXTINF:-1 tvg-id="4399dtv.cl" tvg-name="FOX Sports 1 Chile" tvg-logo="https://i.ibb.co/3v1V88p/fox-sports-1.png" group-title="DEPORTES",FOX SPORTS HD
-http://iptel-allende.origin.rcs.net.ar/mnp/fox_sport/output.mpd
+#EXTINF:-1 tvg-id="4399dtv.cl" tvg-name="FOX Sports 1 Chile" tvg-logo="https://i.ibb.co/3v1V88p/fox-sports-1.png" group-title="DEPORTES",FOX SPORTS 1 HD
+http://45.232.210.1:47000/play/a07k
 
 #EXTINF:-1 tvg-id="3082dtv.cl" tvg-name="Fox Sports 2" tvg-logo="https://i.ibb.co/mXDtP12/fox-sports-2.png" group-title="DEPORTES",FOX SPORTS 2 HD
-http://iptel-allende.origin.rcs.net.ar/mnp/fox_sport2/output.mpd
+http://45.232.210.1:47000/play/a0at
 
 #EXTINF:-1 tvg-id="3081dtv.cl" tvg-name="Fox Sports 3" tvg-logo="https://i.ibb.co/6gSpv0L/fox-sports-3.png" group-title="DEPORTES",FOX SPORTS 3 HD
-http://iptel-allende.origin.rcs.net.ar/mnp/fox_sport3/output.mpd
+http://45.232.210.1:47000/play/foxsports3hd
 
 
 ----------CINE Y SERIES----------
@@ -171,13 +171,13 @@ http://iptel-allende.origin.rcs.net.ar/mnp/cinecanal/output.mpd
 http://iptel-allende.origin.rcs.net.ar/mnp/cinemax/output.mpd
 
 #EXTINF:-1 tvg-id="1481dtv.cl" tvg-name="HBO CHI" tvg-logo="https://i.ibb.co/xfmMRRY/6142369c8f67e63df4b248bb-hbopremium.png" group-title="CINE Y SERIES",HBO HD
-http://iptel-allende.origin.rcs.net.ar/mnp/hbo/output.mpd
+http://45.232.210.1:47000/play/a08o
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Rhmnzgk/hbo-2.png" group-title="CINE Y SERIES",HBO 2 HD
 http://iptel-allende.origin.rcs.net.ar/mnp/hbo2/output.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/q7NKc9t/hbo-family.png" group-title="CINE Y SERIES",HBO FAMILY HD
-http://iptel-allende.origin.rcs.net.ar/mnp/hbofam/output.mpd
+http://45.232.210.1:47000/play/a0fa
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/DfBGtPM/hbo-mundi.png" group-title="CINE Y SERIES", HBO MUNDI HD
 http://iptel-allende.origin.rcs.net.ar/mnp/hbomund/output.mpd
@@ -192,7 +192,7 @@ http://iptel-allende.origin.rcs.net.ar/mnp/hbopop/output.mpd
 http://iptel-allende.origin.rcs.net.ar/mnp/hbosig/output.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/LNfZmpK/hbo-extreme.png" group-title="CINE Y SERIES",HBO XTREME HD
-http://iptel-allende.origin.rcs.net.ar/mnp/hboxtr/output.mpd
+http://45.232.210.1:47000/play/a0fb
 
 #EXTINF:-1 tvg-id="215dtv.cl" tvg-name="Comedy Central ARG/CHI/COL/PE" tvg-logo="https://i.ibb.co/LP0mBPz/comedy-channel.png" group-title="CINE Y SERIES",COMEDY CENTRAL HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
