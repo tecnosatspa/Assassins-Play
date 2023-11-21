@@ -100,7 +100,15 @@ https://tvup-ccpv2-live.secure2.footprint.net/vitalidadtv1c/vitalidadtv1c.mpd
 
 ----------DEPORTES----------
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES", ESPN 2 ARG HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=579fc0cd11842bce9c045a0d55aa4872:bf54d928e27061a13fafdde934146472 
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(ESPN2)/master.mpd
 
 #EXTINF:-1 tvg-id="tntsports.cl" tvg-name="TNT Sports  Chile" tvg-logo="https://i.ibb.co/R4VLN8f/tnt-sports.png" group-title="DEPORTES",TNT SPORTS HD
 http://45.232.210.1:8062/play/a05l/index.m3u8
@@ -136,15 +144,7 @@ http://45.232.210.1:47000/play/foxsports3hd
 https://comodoro.cdn.rcs.net.ar/mnp/tyc/output.mpd
 
 ----------CINE Y SERIES----------
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",HBO FAMILY MX HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=https://cubmu.ceriatv.workers.dev/
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="HD",HBO Familyy
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",TNT MEXICO HD
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TNTHD)/index.m3u8
