@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="DEPORTES" ,CLARO SPORTS 
+#EXTINF:-1 tvg-id="", tvg-logo="" group-title="DEPORTES",CLARO SPORTS 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
