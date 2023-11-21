@@ -106,19 +106,38 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
 
-#EXTINF:-1 group-title="NOTICIAS" tvg-id="mega.cl", tvg-logo="https://i.imgur.com/qLzjO1U.png", Mega Chile
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8f63dac3923823a6fdfac3ce7f2a21:45be5c78b14caf1fa16535950d765b76
-https://1162-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VIgmlHNIdPKAJZ-4tnZqsw","kid":"Zu6B_r52iHWuL-5bj1EuFQ"}],"type":"temporary"}
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://logo.iptveditor.com/espn.png", ESPN
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://universalplus.com/files/channels/731381553.png" group-title="PREMIUM",UNIVERSAL CINEMA
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CINEMA_HD)/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d7103c488b2074130894cdd94cd7223:e23595762d2924120685682ec1180b61 
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPNHDPAN)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/600px-Espn_deportes.svg.png" group-title="DEPORTES",ESPN DEPORTES HD
+http://208.88.246.77:5473/encoder82/evento16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+#EXTINF:-1 group-title="DEPORTES" tvg-id="fox-sports.mx", tvg-logo="https://i.imgur.com/TJsHUSM.png", Fox Sports 🇲🇽 (DTV)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/706|user-agent=UniversoSport
+
+#EXTINF:-1 group-title="DEPORTES" tvg-id="fox-sports-2.mx" tvg-logo="https://i.imgur.com/yedU8Gq.png", Fox Sports 2 🇲🇽 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5cc8b545c2c167f04a1d98494e12c21:adfc9cd03c1bbafce166805e8da8401c
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOXSP2MXHD)/manifest.mpd
+
+#EXTINF:-1 group-title="DEPORTES" tvg-id="fox-sports-3.mx" tvg-logo="https://i.imgur.com/GvWFYrE.png", Fox Sports 3 🇲🇽 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e35b104fc991055ec682c4653e9a188:9d763dc1c922fbe7182f4ac3190d7cba
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOXSP3MXHD)/manifest.mpd
