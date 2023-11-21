@@ -111,14 +111,6 @@ http://45.232.210.1:8062/play/a08a/index.m3u8
 #EXTINF:-1 tvg-id="tntsports3.cl" tvg-name="TNT Sports 3 Chile" tvg-logo="https://i.ibb.co/W0gsj6w/tnt-sports-3.png" group-title="DEPORTES",TNT SPORTS 3 HD
 http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",TNT SPORTS 1 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005f5067d785a42dc5167ba06126ca8:8f9987d3153d003a23f34994501141d9
-#https://linear014-ie-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tntsport1)/manifest_hd.mpd
-http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt1sport50)/manifest_hd.mpd
-
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-name="ESPN Chile" tvg-logo="https://i.ibb.co/k5WgfJ1/espn.png" group-title="DEPORTES",ESPN HD
 http://45.232.210.1:47000/play/a06j
 
@@ -291,6 +283,9 @@ https://tvup-ccpv2-live.secure2.footprint.net/cartoonitohd/cartoonitohd.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PVOC7P5GUQgqkIG+I79K7A", "kid":"eFVn0W+iWFKuU2spASfnlA" },{ "kty":"oct", "k":"7f4HzBy3CNJWER6kGw0pzg", "kid":"h/906tjwXMSwe332mDDZgQ" },{ "kty":"oct", "k":"wRq4xfZ6t8LrIsH2B+xo5g", "kid":"8IJQYsBGUX26qmeb7IAH0w" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/cartoonnetwork/cartoonnetwork.mpd
+
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="" tvg-logo="https://i.ibb.co/Y333Xbq/cartoon-network.png" group-title="INFANTILES",CARTOON NETWORK
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/index.m3u8 
 
 #EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="" tvg-logo="https://i.ibb.co/PtKd97J/discovery-kids.png" group-title="INFANTILES",DISCOVERY KIDS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
