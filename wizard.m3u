@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
 
-#EXTINF:-1 group-title="DEPORTES" tvg-id="ChileVision.cl", tvg-logo="https://i.imgur.com/f31Xmha.png",Chilevision
+#EXTINF:-1 tvg-id="chv.cl" tvg-name="CL | Chilevisión" tvg-logo="https://i.ibb.co/60YtW1H/chv.png" group-title="NACIONAL",CHILEVISION 2 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -107,7 +107,7 @@ https://tvup-ccpv2-live.secure2.footprint.net/vitalidadtv1c/vitalidadtv1c.mpd
 
 ----------DEPORTES----------
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.imgur.com/7afOgRS.png", RCN Colombia
+#EXTINF:-1 tvg-id="", tvg-logo="" group-title="DEPORTES",RCN Colombia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
