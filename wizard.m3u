@@ -454,7 +454,8 @@ https://tvup-ccpv2-live.secure2.footprint.net/discovery/discovery.mpd
 https://tvup-ccpv2-live.secure2.footprint.net/discohh/discohh.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CULTURA Y ENTRETENIMIENTO",HISTORY HD
-http://iptel-allende.origin.rcs.net.ar/mnp/history/output.mpd
+#EXTVLCOPT:http-user-agent=UniversoSport
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/711
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CULTURA Y ENTRETENIMIENTO",H2 HD
 http://45.232.210.1:47000/play/a0e4
