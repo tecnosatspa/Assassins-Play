@@ -137,7 +137,7 @@ https://comodoro.cdn.rcs.net.ar/mnp/tyc/output.mpd
 
 ----------CINE Y SERIES----------
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/gMggelI.png", group-title="PREMIUM", TNT Mexico
+#EXTINF:-1, tvg-logo="https://i.imgur.com/gMggelI.png", group-title="CINE Y SERIES", TNT Mexico
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TNTHD)/index.m3u8
 
 
