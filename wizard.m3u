@@ -367,7 +367,7 @@ https://tvup-ccpv2-live.secure2.footprint.net/antena3/antena3.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IfMfbjCFXVq3fa/PguIl5A", "kid":"1NmkmY6nWziQRT9n9UZflA" },{ "kty":"oct", "k":"rGFF1wpXRDV3EauV88jDIA", "kid":"HDHAz/avVDSqGoVN7pykKA" },{ "kty":"oct", "k":"hhQeK6JaPoRWyvsfl7sjaQ", "kid":"ou9LdusFW66QrAZDzJmzUA" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/cnnespanol/cnnespanol.mpd
 
-#EXTINF:-1 tvg-id="", tvg-logo="" group-title="INTERNACIONAL",RCN COLOMBIA HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INTERNACIONAL",RCN COLOMBIA HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
