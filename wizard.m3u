@@ -110,7 +110,7 @@ https://tvup-ccpv2-live.secure2.footprint.net/vitalidadtv1c/vitalidadtv1c.mpd
 #KODIPROP:inputstream.adaptive.license_key=2fa59463176f3dc2964b91b4f7ae1d7c:81d5b95cc9057d6b0f85c78e6f0e41e7
 https://1059-vos.dtvott.com/DASH/manifest.mpd
 
-#EXTINF:-1 tvg-id="610dtv.ar", tvg-logo="https://i.imgur.com/7bJVo9V.png" group-title="DEPORTES", DS SPORTS 2 HD
+#EXTINF:-1 tvg-id="", tvg-logo="" group-title="DEPORTES", DS SPORTS 2 HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
