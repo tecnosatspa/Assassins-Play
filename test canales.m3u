@@ -141,3 +141,28 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(F
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e35b104fc991055ec682c4653e9a188:9d763dc1c922fbe7182f4ac3190d7cba
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOXSP3MXHD)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1024px-Discovery_Turbo_logo.svg.png" group-title="CULTURA" ,Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c0ae81216e60e67b762fb5f12106850:a7250440acea79969f79c74f7f93132b 
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(DISCOVERY_TURBO_HD)/manifest.mpd
+
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/640px-2015_Discovery_theater_HD_logo.svg.png", DISCOVERY THEATER
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50b848449e373bec925946db30cc0634:a2523f96ee3baee69dc96210d6257a54
+https://1080-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/disworld.webp",Discovery World
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=650b2a2c9d993175a95cff9f4379bf77:1261346c61c4ec61927dead8fc0cc057
+https://1082-vos.dtvott.com/DASH/manifest.mpd
