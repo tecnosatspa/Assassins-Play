@@ -28,7 +28,7 @@ https://1063-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=f19c3a8c638d52c2ab77b9566bcb2996:7400a9f905f172d5d74d7dc440724c8e
 https://1071-abc-da-bpk.dtvott.com/dash_live_1071/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="DEPORTES", TNT Sports 1
+#EXTINF:-1 tvg-id="", tvg-logo="" group-title="DEPORTES",TNT Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
