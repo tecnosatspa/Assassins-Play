@@ -284,7 +284,7 @@ https://tvup-ccpv2-live.secure2.footprint.net/cartoonitohd/cartoonitohd.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PVOC7P5GUQgqkIG+I79K7A", "kid":"eFVn0W+iWFKuU2spASfnlA" },{ "kty":"oct", "k":"7f4HzBy3CNJWER6kGw0pzg", "kid":"h/906tjwXMSwe332mDDZgQ" },{ "kty":"oct", "k":"wRq4xfZ6t8LrIsH2B+xo5g", "kid":"8IJQYsBGUX26qmeb7IAH0w" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/cartoonnetwork/cartoonnetwork.mpd
 
-#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="" tvg-logo="https://i.ibb.co/Y333Xbq/cartoon-network.png" group-title="INFANTILES",CARTOON NETWORK
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="" tvg-logo="https://i.ibb.co/Y333Xbq/cartoon-network.png" group-title="INFANTILES",CARTOON NETWORK MX HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/index.m3u8 
 
 #EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="" tvg-logo="https://i.ibb.co/PtKd97J/discovery-kids.png" group-title="INFANTILES",DISCOVERY KIDS
