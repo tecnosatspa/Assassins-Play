@@ -132,7 +132,7 @@ https://3.ultimate2019.com/stream/hls/14|user-agent=Dalvik/2.1.0 (Linux; U; Andr
 #EXTINF:-1 tvg-id="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="PREMIUM", SONY
 https://3.ultimate2019.com/stream/hls/498|user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 
-#EXTINF:-1 group-title="PREMIUM" ,HBO PLUS 
+#EXTINF:-1 group-title="PREMIUM" ,HBO FAMILY
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 https://3.ultimate2019.com/stream/hls/63
 
@@ -155,10 +155,6 @@ https://3.ultimate2019.com/stream/hls/102
 
 #EXTINF:-1 group-title="INFANTILES" ,CARTOON NETWORK
 https://3.ultimate2019.com/stream/hls/17|user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" group-title="PREMIUM",HBO Pop 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/977
 
 #EXTINF:-1 group-title="PREMIUM" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png", DE PELICULA  
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
