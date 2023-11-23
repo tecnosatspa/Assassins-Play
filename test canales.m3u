@@ -136,10 +136,6 @@ https://3.ultimate2019.com/stream/hls/63
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="24/7", LOCOMOTION
 https://3.ultimate2019.com/stream/hls/721|user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 
-#EXTINF:-1 tvg-id="WarnerChannelSouth.us", tvg-logo="https://i.imgur.com/fyYJUFQ.png", group-title="PREMIUM", Warner Channel
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/102
-
 #EXTINF:-1 group-title="INFANTILES" ,CARTOON NETWORK
 https://3.ultimate2019.com/stream/hls/17|user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 
