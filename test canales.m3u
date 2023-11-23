@@ -129,22 +129,9 @@ https://3.ultimate2019.com/stream/hls/3
 #EXTINF:-1 tvg-id="34" tvg-logo="https://logo.iptveditor.com/canal5.png" group-title="MEXICO",CANAL 5
 https://3.ultimate2019.com/stream/hls/14|user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 
-#EXTINF:-1 tvg-id="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="PREMIUM", SONY
-https://3.ultimate2019.com/stream/hls/498|user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-
 #EXTINF:-1 group-title="PREMIUM" ,HBO FAMILY
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 https://3.ultimate2019.com/stream/hls/63
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="PREMIUM", TELEMUNDO
-https://3.ultimate2019.com/stream/hls/92|user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-
-#EXTINF:-1 group-title="INFANTILES" tvg-id="308dtv.cl", tvg-logo="https://i.imgur.com/roN9yBg.png", NICK
-https://3.ultimate2019.com/stream/hls/645|user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-
-#EXTINF:-1 tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/cero_en_conducta.png" group-title="24/7",CERO EN CONDUCTA
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/989
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="24/7", LOCOMOTION
 https://3.ultimate2019.com/stream/hls/721|user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
@@ -155,14 +142,6 @@ https://3.ultimate2019.com/stream/hls/102
 
 #EXTINF:-1 group-title="INFANTILES" ,CARTOON NETWORK
 https://3.ultimate2019.com/stream/hls/17|user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-
-#EXTINF:-1 group-title="PREMIUM" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png", DE PELICULA  
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/481
-
-#EXTINF:-1 tvg-id="40" tvg-logo="https://logo.iptveditor.com/cinecanal.png"  group-title="PREMIUM", Cinecanal
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/479
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.imgur.com/YcZ6VfT.png", Dazn 1 🇩🇪
 #KODIPROP:inputstreamaddon=inputstream.adaptive
