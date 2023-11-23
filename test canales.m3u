@@ -57,19 +57,19 @@ http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/ch
 #KODIPROP:inputstream.adaptive.license_key=00032335f1860c8cf0f5e4510c9619d9:fa0830e62a308d00d09a916df66ccd1a
 http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt4sport50)/manifest_hd.mpd
 
-#EXTINF:-1 tvg-id="", tvg-logo="" group-title="DEPORTES",SERIE A
+#EXTINF:-1 tvg-id="", tvg-logo="" group-title="DEPORTES",DAZN SERIE A
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5cf725ed7c2a4acb99d9028564608b37:0b81472f439628c2f23c639725d3db3e
 https://mtv-c-liveusp-b.akamaized.net/live/TELIA_MAXSPORT2/TELIA_MAXSPORT2.isml/MAXSPORT2.mpd
 
-#EXTINF:-1 tvg-id="", tvg-logo="" group-title="DEPORTES",PREMIER LEAGUE
+#EXTINF:-1 tvg-id="", tvg-logo="" group-title="DEPORTES",DAZN PREMIER LEAGUE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TV2-2021.svg/300px-TV2-2021.svg.png", tvg-id="ksport1hd" group-title="DEPORTES", sport 2 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TV2-2021.svg/300px-TV2-2021.svg.png", tvg-id="ksport1hd" group-title="DEPORTES", SPORTS 2 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -81,7 +81,7 @@ https://aws-appeartv-cdn.rikstv.no/rikstv/1468/2/dash/TV2_Sport_1/manifest.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="DEPORTES" , Dazn 1 🇪🇸
+#EXTINF:-1 group-title="DEPORTES" , DAZN 1 🇪🇸
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -91,7 +91,7 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="DEPORTES" , Dazn 2 🇪🇸
+#EXTINF:-1 group-title="DEPORTES" , DAZN 2 🇪🇸
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -106,54 +106,24 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
 
-#EXTINF:-1 group-title="DEPORTES" tvg-id="fox-sports.mx", tvg-logo="https://i.imgur.com/TJsHUSM.png", Fox Sports 🇲🇽 (DTV)
+#EXTINF:-1 group-title="DEPORTES" tvg-id="fox-sports.mx", tvg-logo="https://i.imgur.com/TJsHUSM.png", FOX SPORTS 🇲🇽
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/706|user-agent=UniversoSport
 
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/1600px-Tlc_logo_discovery.svg.png",DISCOVERY TLC
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/87
-
-#EXTINF:-1 tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="DEPORTES", UNIVISION
-https://3.ultimate2019.com/stream/hls/99|user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-
-#EXTINF:-1 group-title="INFANTILES", tvg-id="334dtv.cl", tvg-logo="https://i.imgur.com/9JEnv7G.png", Cartoonito
-https://3.ultimate2019.com/stream/hls/11|user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-
-#EXTINF:-1 tvg-id="51" tvg-logo="https://i.imgur.com/6UTSdAi.png"  group-title="INFANTILES", TOONCAST
-https://3.ultimate2019.com/stream/hls/95|user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-
-#EXTINF:-1 tvg-id="19" tvg-logo="https://logo.iptveditor.com/animalplanet.png"  group-title="CULTURA",ANIMAL PLANET HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/3
-
-#EXTINF:-1 tvg-id="34" tvg-logo="https://logo.iptveditor.com/canal5.png" group-title="MEXICO",CANAL 5
-https://3.ultimate2019.com/stream/hls/14|user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-
-#EXTINF:-1 group-title="PREMIUM" ,HBO FAMILY
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/63
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="24/7", LOCOMOTION
-https://3.ultimate2019.com/stream/hls/721|user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-
-#EXTINF:-1 group-title="INFANTILES" ,CARTOON NETWORK
-https://3.ultimate2019.com/stream/hls/17|user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.imgur.com/YcZ6VfT.png", Dazn 1 🇩🇪
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.imgur.com/YcZ6VfT.png", DAZN 1 🇩🇪
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.imgur.com/YcZ6VfT.png", Dazn 2 🇩🇪
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.imgur.com/YcZ6VfT.png", DAZN 2 🇩🇪
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 group-title="DEPORTES" , ESPN 3 🇲🇽 (DTV)
+#EXTINF:-1 group-title="DEPORTES" , ESPN 3 MX
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695|user-agent=UniversoSport
 
 #EXTINF:-1 group-title="PREMIUM" tvg-id="216dtv.cl", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/WTV_Hits_2022.svg/revision/latest?cb=20220308160901", MTV HITS 
@@ -164,20 +134,20 @@ https://ott.zapitv.com/live/eds_c2/mtv_hits/dash_live_enc/mtv_hits.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1432px-Logo_tlnovelas_feb2019.png" group-title="MEXICO", TL NOVELAS  
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TLNOVELAS)/index.m3u8|user-agent=Chrome/61.0.3163.100
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VtcbFMy/espn.png" group-title="DEPORTES", ESPN 🇲🇽  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VtcbFMy/espn.png" group-title="DEPORTES", ESPN MX  
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ESPNHD)/index.m3u8
 
 #EXTINF:-1  group-title="CABLE", CUBAVISION 
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CUBAVISION)/index.m3u8|user-agent=Chrome/61.0.3163.100
 
-#EXTINF:-1  group-title="PREMIUM", Multipremier
+#EXTINF:-1  group-title="PREMIUM", MULTIPRMIER
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MULTIPREMIER)/index.m3u8|user-agent=Chrome/61.0.3163.100
 
-#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOF.png?raw=true" group-title="MEXICO",HBO Family 
+#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOF.png?raw=true" group-title="MEXICO",HBO FAMILY 
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOFAMILYHD)/index.m3u8
 
 #EXTINF:-1 group-title="MEXICO" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://logo.iptveditor.com/bit.png", BITME  
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(BITME)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/latinopl.png", group-title="PREMIUM", Cine Latino
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/latinopl.png", group-title="PREMIUM", CINE LATINO
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CINELATINO)/index.m3u8|user-agent=Chrome/61.0.3163.10
