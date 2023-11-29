@@ -388,8 +388,8 @@ https://comodoro.cdn.rcs.net.ar/mnp/space/output.mpd
 
 #EXTINF:-1 tvg-id="202dtv.cl" tvg-name="STAR Channel CHI" tvg-logo="https://i.ibb.co/kBS1sFh/star-channel.png" group-title="CINE Y SERIES",STAR CHANNEL HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1HPfRCu90lA6N4kO2dJcQ", "kid":"gomXrZc8XQS0kRQAjxA1QQ" },{ "kty":"oct", "k":"b1PP61GG5HgKSo+3rKW2og", "kid":"Hxxmjo4TUyywjyj3A2sRNQ" },{ "kty":"oct", "k":"shEppwnbI0P5j5Yh0XAjiw", "kid":"DXMq+ErJWwGS8IB5BB+Sfg" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/starchannel/starchannel.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zX7mfh9XOLJx4mvRrRLVGQ", "kid":"f8LFNfTGVpCmWiZYC8xQIg" },{ "kty":"oct", "k":"lxhZxBdCDgtCxKq4wmZong", "kid":"jlH4MonUWc6LcoQAxE5iiQ" },{ "kty":"oct", "k":"yDdrmyhI0j8GHe0XeOcM3w", "kid":"u7qbT2QaXFWN5vqQNDeE0Q" } ], "type":"temporary" }
+https://cdn-live.mundogo.cl/starchannel/starchannel.mpd
 
 #EXTINF:-1 tvg-id="TBS.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tbs-mediano.png" group-title="CINE Y SERIES",TBS HD
 https://comodoro.cdn.rcs.net.ar/mnp/tbs/output.mpd
