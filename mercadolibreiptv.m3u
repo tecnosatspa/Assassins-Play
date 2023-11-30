@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
+#EXTM3U url-tvg="https://epg.stationlink.cl/tempest_config/epg/Guia.xml.gz"
 
 
 ----------NACIONALES----------
@@ -61,7 +61,7 @@ http://45.232.210.1:47000/play/a06d
 http://45.232.210.1:47000/play/a06g
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",STUDIO UNIVERSAL HD
 http://45.232.210.1:47000/play/studiouniversalhd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",TNT HD
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="" group-title="CINE Y SERIES",TNT HD
 http://45.232.210.1:47000/play/a06w
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",TNT SERIES HD
 http://45.232.210.1:47000/play/a0bf
