@@ -1,43 +1,57 @@
 #EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",A&E HD
+----------CINE Y SERIES----------
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",A&E HD
 http://45.232.210.1:47000/play/aehd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",AMC HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",AMC HD
 http://45.232.210.1:47000/play/a056
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",AXN HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",AXN HD
 http://45.232.210.1:47000/play/a06f
-#EXTINF:-1 tvg-id="animalplanethd" tvg-name="Animal Planet HD" tvg-logo="" group-title="",ANIMAL PLANET HD
-http://45.232.210.1:47000/play/animalplanethd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CHV HD
-http://45.232.210.1:47000/play/a08n
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CNN CHILE HD
-http://45.232.210.1:47000/play/cnnchilehd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CANAL 13 HD
-http://45.232.210.1:47000/play/a07a
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CANAL 24 HORAS HD
-http://45.232.210.1:47000/play/a07d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CARTOON NETWORK HD
-http://45.232.210.1:47000/play/a05i
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CINECANAL HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",CINECANAL HD
 http://45.232.210.1:47000/play/a05c
-#EXTINF:-1 tvg-id="CinecanalHD" tvg-name="Cinemax HD" tvg-logo="" group-title="",CINEMAX HD
+#EXTINF:-1 tvg-id="CinecanalHD" tvg-name="Cinemax HD" tvg-logo="CINE Y SERIES" group-title="",CINEMAX HD
 http://45.232.210.1:47000/play/cinemaxhd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",COMEDY CENTRAL HD
-http://45.232.210.1:47000/play/comedycentralhd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DHE HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",DHE HD
 http://45.232.210.1:47000/play/a0dz
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DISCOVERY H&H HD
-http://45.232.210.1:47000/play/a0al
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DISCOVERY HD
-http://45.232.210.1:47000/play/a0e1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DISCOVERY KIDS HD
-http://45.232.210.1:47000/play/a0ak
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DISCOVERY THEATER HD
-http://45.232.210.1:47000/play/a0am
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DISCOVERY WORLD HD
-http://45.232.210.1:47000/play/a05b
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DISNEY HD
-http://45.232.210.1:47000/play/disneyhd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",FOX HD
+http://45.232.210.1:47000/play/a0ao
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",FX HD
+http://45.232.210.1:47000/play/a0aw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",GOLDEN HD
+http://45.232.210.1:47000/play/goldenhd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",HBO FAMILY HD
+http://45.232.210.1:47000/play/a0fa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",HBO HD
+http://45.232.210.1:47000/play/a08o
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",HBO XTREME HD
+http://45.232.210.1:47000/play/a0fb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",HBO XTREME HD
+http://45.232.210.1:47000/play/a0fc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",PARAMOUNT HD
+http://45.232.210.1:47000/play/a05j
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",SONY HD
+http://45.232.210.1:47000/play/a06d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",SPACE HD
+http://45.232.210.1:47000/play/a06g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",STUDIO UNIVERSAL HD
+http://45.232.210.1:47000/play/studiouniversalhd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",TNT HD
+http://45.232.210.1:47000/play/a06w
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",TNT SERIES HD
+http://45.232.210.1:47000/play/a0bf
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",UNIVERSAL CHANNEL HD
+http://45.232.210.1:47000/play/a0ap
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES"WARNER CHANNEL HD
+http://45.232.210.1:47000/play/a06e
+
+
+----------DEPORTES----------
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TNT SPORTS HD
+http://45.232.210.1:47000/play/cdfhd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ESPN HD
 http://45.232.210.1:47000/play/a06j
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ESPN 2 HD
@@ -46,73 +60,96 @@ http://45.232.210.1:47000/play/a0ax
 http://45.232.210.1:47000/play/espn3hd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ESPN EXTRA HD
 http://45.232.210.1:47000/play/a05e
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",EL GOURMET HD
-http://45.232.210.1:47000/play/a074
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FOX HD
-http://45.232.210.1:47000/play/a0ao
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FX HD
-http://45.232.210.1:47000/play/a0aw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FOOD NETWORK HD
-http://45.232.210.1:47000/play/foodnetworkhd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FOX SPORTS 1 HD
 http://45.232.210.1:47000/play/a07k
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FOX SPORTS 2 HD
 http://45.232.210.1:47000/play/a0at
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FOX SPORTS 3 HD
 http://45.232.210.1:47000/play/foxsports3hd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GOLDEN HD
-http://45.232.210.1:47000/play/goldenhd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO FAMILY HD
-http://45.232.210.1:47000/play/a0fa
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO HD
-http://45.232.210.1:47000/play/a08o
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO XTREME HD
-http://45.232.210.1:47000/play/a0fb
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO XTREME HD
-http://45.232.210.1:47000/play/a0fc
+
+
+
+----------NACONALES----------
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CANAL 13 HD
+http://45.232.210.1:47000/play/a07a
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CHV HD
+http://45.232.210.1:47000/play/a08n
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MEGA HD
+http://45.232.210.1:47000/play/a08g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TVN HD
+http://45.232.210.1:47000/play/a06r
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TV+ HD
+http://45.232.210.1:47000/play/a058
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",LA RED HD
+http://45.232.210.1:47000/play/laredhd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CNN CHILE HD
+http://45.232.210.1:47000/play/cnnchilehd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CANAL 24 HORAS HD
+http://45.232.210.1:47000/play/a07d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TV! EDUCA CHILE
+http://45.232.210.1:47000/play/a057
+
+
+
+----------INFANTILES----------
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CARTOON NETWORK HD
+http://45.232.210.1:47000/play/a05i
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DISCOVERY KIDS HD
+http://45.232.210.1:47000/play/a0ak
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DISNEY HD
+http://45.232.210.1:47000/play/disneyhd
+
+
+----------ENTRETENIMIENTO----------
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TCL-CANAL13
+http://45.232.210.1:47000/play/a0fe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",COMEDY CENTRAL HD
+http://45.232.210.1:47000/play/comedycentralhd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DISCOVERY H&H HD
+http://45.232.210.1:47000/play/a0al
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",EL GOURMET HD
+http://45.232.210.1:47000/play/a074
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FOOD NETWORK HD
+http://45.232.210.1:47000/play/foodnetworkhd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PASIONES HD
+http://45.232.210.1:47000/play/pasioneshd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SUN CHANNEL HD
+http://45.232.210.1:47000/play/a0aj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TRUTV HD
+http://45.232.210.1:47000/play/a073
+
+
+----------EDUCATIVOS----------
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HISTORY 2 HD
 http://45.232.210.1:47000/play/a0e4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HISTORY CHANNEL HD
 http://45.232.210.1:47000/play/a06b
+#EXTINF:-1 tvg-id="animalplanethd" tvg-name="Animal Planet HD" tvg-logo="" group-title="",ANIMAL PLANET HD
+http://45.232.210.1:47000/play/animalplanethd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DISCOVERY HD
+http://45.232.210.1:47000/play/a0e1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DISCOVERY THEATER HD
+http://45.232.210.1:47000/play/a0am
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DISCOVERY WORLD HD
+http://45.232.210.1:47000/play/a05b
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ID HD
 http://45.232.210.1:47000/play/idhd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",LA RED HD
-http://45.232.210.1:47000/play/laredhd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MEGA HD
-http://45.232.210.1:47000/play/a08g
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MTV HD
-http://45.232.210.1:47000/play/mtvhd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NAT GEO HD
 http://45.232.210.1:47000/play/a05a
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PARAMOUNT HD
-http://45.232.210.1:47000/play/a05j
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PASIONES HD
-http://45.232.210.1:47000/play/pasioneshd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SONY HD
-http://45.232.210.1:47000/play/a06d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SPACE HD
-http://45.232.210.1:47000/play/a06g
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",STUDIO UNIVERSAL HD
-http://45.232.210.1:47000/play/studiouniversalhd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SUN CHANNEL HD
-http://45.232.210.1:47000/play/a0aj
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TCL-CANAL13
-http://45.232.210.1:47000/play/a0fe
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TNT HD
-http://45.232.210.1:47000/play/a06w
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TNT SPORTS HD
-http://45.232.210.1:47000/play/cdfhd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TNT SERIES HD
-http://45.232.210.1:47000/play/a0bf
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TRUTV HD
-http://45.232.210.1:47000/play/a073
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TV! EDUCA CHILE
-http://45.232.210.1:47000/play/a057
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TV+ HD
-http://45.232.210.1:47000/play/a058
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TVN HD
-http://45.232.210.1:47000/play/a06r
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",UNIVERSAL CHANNEL HD
-http://45.232.210.1:47000/play/a0ap
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title=""WARNER CHANNEL HD
-http://45.232.210.1:47000/play/a06e
+
+
+----------MUSICA----------
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MTV HD
+http://45.232.210.1:47000/play/mtvhd
