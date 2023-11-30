@@ -1,5 +1,29 @@
 #EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
 
+
+----------NACIONALES----------
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NACIONALES",CANAL 13 HD
+http://45.232.210.1:47000/play/a07a
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NACIONALES",CHV HD
+http://45.232.210.1:47000/play/a08n
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NACIONALES",MEGA HD
+http://45.232.210.1:47000/play/a08g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NACIONALES",TVN HD
+http://45.232.210.1:47000/play/a06r
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NACIONALES",TV+ HD
+http://45.232.210.1:47000/play/a058
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NACIONALES",LA RED HD
+http://45.232.210.1:47000/play/laredhd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NACIONALES",CNN CHILE HD
+http://45.232.210.1:47000/play/cnnchilehd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NACONALES",CANAL 24 HORAS HD
+http://45.232.210.1:47000/play/a07d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NACIONALES",TV! EDUCA CHILE
+http://45.232.210.1:47000/play/a057
+
+
 ----------CINE Y SERIES----------
 
 
@@ -68,34 +92,7 @@ http://45.232.210.1:47000/play/a0at
 http://45.232.210.1:47000/play/foxsports3hd
 
 
-
-----------NACONALES----------
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NACONALES",CANAL 13 HD
-http://45.232.210.1:47000/play/a07a
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NACONALES",CHV HD
-http://45.232.210.1:47000/play/a08n
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NACONALES",MEGA HD
-http://45.232.210.1:47000/play/a08g
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NACONALES",TVN HD
-http://45.232.210.1:47000/play/a06r
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NACONALES",TV+ HD
-http://45.232.210.1:47000/play/a058
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NACONALES",LA RED HD
-http://45.232.210.1:47000/play/laredhd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NACONALES",CNN CHILE HD
-http://45.232.210.1:47000/play/cnnchilehd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NACONALES",CANAL 24 HORAS HD
-http://45.232.210.1:47000/play/a07d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NACONALES",TV! EDUCA CHILE
-http://45.232.210.1:47000/play/a057
-
-
-
 ----------INFANTILES----------
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INFANTILES",CARTOON NETWORK HD
