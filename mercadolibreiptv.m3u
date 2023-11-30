@@ -1,10 +1,10 @@
-#EXTM3U url-tvg="https://epg.stationlink.cl/tempest_config/epg/Guia.xml.gz"
+#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
 
 
 ----------NACIONALES----------
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NACIONALES",CANAL 13 HD
+#EXTINF:-1 tvg-id="1156dtv.cl" tvg-name="" tvg-logo="" group-title="NACIONALES",CANAL 13 HD
 http://45.232.210.1:47000/play/a07a
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NACIONALES",CHV HD
 http://45.232.210.1:47000/play/a08n
