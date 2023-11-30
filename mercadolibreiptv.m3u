@@ -8,7 +8,7 @@
 http://45.232.210.1:47000/play/a07a
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NACIONALES",CHV HD
 http://45.232.210.1:47000/play/a08n
-#EXTINF:-1 tvg-id="Mega HD" tvg-name="" tvg-logo="" group-title="NACIONALES",MEGA HD
+#EXTINF:-1 tvg-id="Mega HD" tvg-name="Mega HD" tvg-logo="" group-title="NACIONALES",MEGA HD
 http://45.232.210.1:47000/play/a08g
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NACIONALES",TVN HD
 http://45.232.210.1:47000/play/a06r
