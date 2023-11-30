@@ -4,7 +4,7 @@
 ----------NACIONALES----------
 
 
-#EXTINF:-1 tvg-id="1156dtv.cl" tvg-name="Canal 13 Cable CHI" tvg-logo="https://i.ibb.co/hsPWxXx/canal-13.png" group-title="NACIONAL",CANAL 13 HD
+#EXTINF:-1 tvg-id="1156dtv.cl" tvg-name="Canal 13 Cable CHI" tvg-logo="https://i.ibb.co/hsPWxXx/canal-13.png" group-title="NACIONALES",CANAL 13 HD
 http://45.232.210.1:47000/play/a07a
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NACIONALES",CHV HD
 http://45.232.210.1:47000/play/a08n
