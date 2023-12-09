@@ -717,7 +717,7 @@ https://i.mjh.nz/PlutoTV/5defde6d6c07b50009cf0757-alt.m3u8
 
 
 
-<?xml version="1.0" encoding="UTF-8"?>
+#EXTINF:-1
 <playlist>
   <entry>
     <title>Harry Potter y la piedra filosofal</title>
