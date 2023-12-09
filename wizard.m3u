@@ -711,3 +711,36 @@ https://i.mjh.nz/PlutoTV/5fcea359e533cb0007215c71-alt.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PLUTO TV",NUESTRO CINE
 https://i.mjh.nz/PlutoTV/5defde6d6c07b50009cf0757-alt.m3u8
+
+
+----------PELICULAS----------
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.imdb.com/title/tt0241527/mediaviewer/rm2919985408/?ref_=tt_ov_i" group-title="PELICULAS",Harry Potter y la piedra filosofal
+http://144.217.70.79/VODS-M/1080P/Harry%20Potter%20and%20the%20Sorcerers%20Stone%202001.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.imdb.com/title/tt0295297/mediaviewer/rm3589240064/?ref_=tt_ov_i" group-title="PELICULAS",Harry Potter y la cámara secreta
+http://144.217.70.79/VODS-M/1080P/Harry%20Potter%20And%20The%20Chamber%20Of%20Secrets%202002.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PELICULAS",
+http://144.217.70.79/VODS-M/1080P/Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban%202004.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PELICULAS",
+http://144.217.70.79/VODS-M/1080P/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%202005.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PELICULAS",
+http://144.217.70.79/VODS-M/1080P/Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix%202007.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PELICULAS",
+http://144.217.70.79/VODS-M/1080P/Harry%20Potter%20and%20the%20Half-Blood%20Prince%202009.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PELICULAS",
+http://144.217.70.79/VODS-M/1080P/Harry%20Potter%20and%20the%20Deathly%20Hallows%20Part%201%202010.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PELICULAS",
+http://144.217.70.79/VODS-M/1080P/Harry%20Potter%20and%20the%20Deathly%20Hallows%20Part%202%202011.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PELICULAS",
+http://144.217.70.79/VODS-M/1080P/Harry%20Potter%2020th%20Anniversary%20Return%20to%20Hogwarts%202022.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PELICULAS",
