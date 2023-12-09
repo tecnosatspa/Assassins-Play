@@ -330,22 +330,22 @@ http://45.232.210.1:47000/play/a0fa
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOFAMILYHD)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/DfBGtPM/hbo-mundi.png" group-title="CINE Y SERIES", HBO MUNDI HD
-https://barone.cdn.rcs.net.ar/mnp/hbomund/output.mpd
+http://190.11.130.46/mnp/hbomund/output.mpd
 
 #EXTINF:-1 tvg-id="526dtv.cl" tvg-name="HBO Plus (Este)" tvg-logo="https://i.ibb.co/z8C20TC/hbo-plus.png" group-title="CINE Y SERIES",HBO+ HD
-https://barone.cdn.rcs.net.ar/mnp/hboplus/output.mpd
+http://190.11.130.46/mnp/hboplus/output.mpd
 
 #EXTINF:-1 tvg-id="541dtv.cl" tvg-name="HBO Pop" tvg-logo="https://i.ibb.co/Lk0vJ32/hbo-pop.png" group-title="CINE Y SERIES",HBO POP HD
-https://barone.cdn.rcs.net.ar/mnp/hbopop/output.mpd
+http://190.11.130.46/mnp/hbopop/output.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/LNmHbQH/hbo-signature.png" group-title="CINE Y SERIES",HBO SIGNATURE HD
-https://barone.cdn.rcs.net.ar/mnp/hbosig/output.mpd
+http://190.11.130.46/mnp/hbosig/output.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/LNfZmpK/hbo-extreme.png" group-title="CINE Y SERIES",HBO XTREME HD
-https://barone.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
+http://190.11.130.46/mnp/hboxtr/output.mpd
 
 #EXTINF:-1 tvg-id="215dtv.cl" tvg-name="Comedy Central ARG/CHI/COL/PE" tvg-logo="https://i.ibb.co/LP0mBPz/comedy-channel.png" group-title="CINE Y SERIES",COMEDY CENTRAL HD
-https://barone.cdn.rcs.net.ar/mnp/comedy/output.mpd
+http://190.11.130.46/mnp/comedy/output.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula-mediano.png" group-title="CINE Y SERIES",DE PELICULA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -363,10 +363,10 @@ https://tvup-ccpv2-live.secure2.footprint.net/dhe/dhe.mpd
 https://tvup-ccpv2-live.secure2.footprint.net/europa/europa.mpd
 
 #EXTINF:-1 tvg-id="FilmandArts.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png" group-title="CINE Y SERIES",FILM & ARTS HD
-https://comodoro.cdn.rcs.net.ar/mnp/filmsarts/output.mpd
+http://190.11.130.46/mnp/filmsarts/output.mpd
 
 #EXTINF:-1 tvg-id="217dtv.cl" tvg-name="FX (ARG/CHI/COL/PER)" tvg-logo="https://i.ibb.co/mNKr3gp/fx.png" group-title="CINE Y SERIES",FX HD
-https://comodoro.cdn.rcs.net.ar/mnp/fx/output.mpd
+http://190.11.130.46/mnp/fx/output.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",FX MEXICO HD
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(FXHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
@@ -377,13 +377,16 @@ https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(FXH
 https://tvup-ccpv2-live.secure2.footprint.net/goldenplus/goldenplus.mpd
 
 #EXTINF:-1 tvg-id="ISAT.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/i_sat-mediano.png" group-title="CINE Y SERIES",ISAT
-https://comodoro.cdn.rcs.net.ar/mnp/isat/output.mpd
+http://190.11.130.46/mnp/isat/output.mpd
 
 #EXTINF:-1 tvg-id="ParamountNetwork.ar" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png" group-title="CINE Y SERIES",PARAMOUNT HD
-https://comodoro.cdn.rcs.net.ar/mnp/paramount/output.mpd
+http://190.11.130.46/mnp/paramount/output.mpd
 
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png" group-title="CINE Y SERIES",SPACE HD
-https://comodoro.cdn.rcs.net.ar/mnp/space/output.mpd
+http://190.11.130.46/mnp/space/output.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",SONY CINE HD
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="202dtv.cl" tvg-name="STAR Channel CHI" tvg-logo="https://i.ibb.co/kBS1sFh/star-channel.png" group-title="CINE Y SERIES",STAR CHANNEL HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -391,10 +394,10 @@ https://comodoro.cdn.rcs.net.ar/mnp/space/output.mpd
 https://cdn-live.mundogo.cl/starchannel/starchannel.mpd
 
 #EXTINF:-1 tvg-id="TBS.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tbs-mediano.png" group-title="CINE Y SERIES",TBS HD
-https://comodoro.cdn.rcs.net.ar/mnp/tbs/output.mpd
+http://190.11.130.46/mnp/tbs/output.mpd
 
 #EXTINF:-1 tvg-id="TCM.ar" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tcm-mediano.png" group-title="CINE Y SERIES",TCM HD
-https://comodoro.cdn.rcs.net.ar/mnp/tcm/output.mpd
+http://190.11.130.46/mnp/tcm/output.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png" group-title="CINE Y SERIES",TLNOVELAS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -402,19 +405,19 @@ https://comodoro.cdn.rcs.net.ar/mnp/tcm/output.mpd
 https://tvup-ccpv2-live.secure2.footprint.net/telenovelas/telenovelas.mpd
 
 #EXTINF:-1 tvg-id="502dtv.cl" tvg-name="TNT Chile" tvg-logo="https://i.ibb.co/WcnmY6M/tnt.png" group-title="CINE Y SERIES",TNT HD
-https://comodoro.cdn.rcs.net.ar/mnp/tnt/output.mpd
+http://190.11.130.46/mnp/tnt/output.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",TNT MEXICO HD
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TNTHD)/index.m3u8
 
 #EXTINF:-1 tvg-id="213dtv.cl" tvg-name="TNT Series" tvg-logo="https://i.ibb.co/L54DLLj/tnt-series.png" group-title="CINE Y SERIES",TNT SERIES HD
-https://comodoro.cdn.rcs.net.ar/mnp/tntseries/output.mpd
+http://190.11.130.46/mnp/tntseries/output.mpd
 
 #EXTINF:-1 tvg-id="TruTV.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tru_tv-mediano.png" group-title="CINE Y SERIES",TRUTV HD
-https://comodoro.cdn.rcs.net.ar/mnp/trutv/output.mpd
+http://190.11.130.46/mnp/trutv/output.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/S61THZ5/universal.png" group-title="CINE Y SERIES",UNIVERSAL HD
-https://comodoro.cdn.rcs.net.ar/mnp/universal/output.mpd
+http://190.11.130.46/mnp/universal/output.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",UNIVERSAL CINEMA HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
