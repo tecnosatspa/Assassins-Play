@@ -321,7 +321,7 @@ http://45.232.210.1:47000/play/cinemaxhd
 http://45.232.210.1:47000/play/a08o
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Rhmnzgk/hbo-2.png" group-title="CINE Y SERIES",HBO 2 HD
-https://barone.cdn.rcs.net.ar/mnp/hbo2/output.mpd
+http://190.11.130.46/mnp/hbo2/output.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/q7NKc9t/hbo-family.png" group-title="CINE Y SERIES",HBO FAMILY HD
 http://45.232.210.1:47000/play/a0fa
