@@ -717,8 +717,20 @@ https://i.mjh.nz/PlutoTV/5defde6d6c07b50009cf0757-alt.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y la piedra filosofal" tvg-logo="https://www.themoviedb.org/t/p/w1280/7xXJ15VEf7G9GdAuV1dO769yC73.jpg" group-title="SAGA HARRY POTTER", Harry Potter y la piedra filosofal
-http://144.217.70.79/VODS-M/1080P/Harry%20Potter%20and%20the%20Sorcerers%20Stone%202001.mkv
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist>
+  <entry>
+    <title>Harry Potter y la piedra filosofal</title>
+    <url>http://144.217.70.79/VODS-M/1080P/Harry%20Potter%20and%20the%20Sorcerers%20Stone%202001.mkv</url>
+    <tvg-id></tvg-id>
+    <tvg-name>Harry Potter y la piedra filosofal</tvg-name>
+    <tvg-logo>https://www.themoviedb.org/t/p/w1280/7xXJ15VEf7G9GdAuV1dO769yC73.jpg</tvg-logo>
+    <group-title>SAGA HARRY POTTER</group-title>
+    <synopsis>
+      Harry Potter es un huérfano que vive con sus crueles tíos y su primo. En su décimo primer cumpleaños, Harry descubre que es un mago y que ha sido aceptado en el Colegio Hogwarts de Magia y Hechicería.
+    </synopsis>
+  </entry>
+</playlist>
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/bhCfAzeMMg7GyLDT11yVM2i1NPh.jpg" group-title="SAGA HARRY POTTER",Harry Potter y la cámara secreta
 http://144.217.70.79/VODS-M/1080P/Harry%20Potter%20And%20The%20Chamber%20Of%20Secrets%202002.mkv
