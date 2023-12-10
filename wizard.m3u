@@ -305,20 +305,54 @@ https://tvup-ccpv2-live.secure2.footprint.net/antena3seriesinternacional/antena3
 #EXTINF:-1 tvg-id="207dtv.cl" tvg-name="AE (ARG/CHI/COL/PER)" tvg-logo="https://i.ibb.co/Ld3vtST/a-e.png" group-title="CINE Y SERIES",A&E HD
 http://45.232.210.1:47000/play/aehd
 
+#EXTINF:-1 tvg-id="207dtv.cl" tvg-name="AE (ARG/CHI/COL/PER)" tvg-logo="https://i.ibb.co/Ld3vtST/a-e.png" group-title="CINE Y SERIES",A&E HD (2)
+http://190.11.130.46/mnp/ae/output.mpd
+
 #EXTINF:-1 tvg-id="209dtv.cl" tvg-name="AXN ARG/CHI" tvg-logo="https://i.ibb.co/5jBfMj7/axn.png" group-title="CINE Y SERIES",AXN HD
 http://45.232.210.1:47000/play/a06f
+
+#EXTINF:-1 tvg-id="209dtv.cl" tvg-name="AXN ARG/CHI" tvg-logo="https://i.ibb.co/5jBfMj7/axn.png" group-title="CINE Y SERIES",AXN HD (2)
+http://190.11.130.46/mnp/axn/output.mpd
 
 #EXTINF:-1 tvg-id="AMC.ar" tvg-name="" tvg-logo="https://i.ibb.co/ncDh80L/amc.png" group-title="CINE Y SERIES",AMC HD
 http://45.232.210.1:47000/play/a056
 
+#EXTINF:-1 tvg-id="AMC.ar" tvg-name="" tvg-logo="https://i.ibb.co/ncDh80L/amc.png" group-title="CINE Y SERIES",AMC HD (2)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GVFbx8pjeg1CI37tqxzaNA", "kid":"Y85VB+d9Ue22f5NqFWn6LA" },{ "kty":"oct", "k":"2gprWYO99kohlF0r3pdZMw", "kid":"O9yxlNjzWiWEl6ZtfT2nAQ" },{ "kty":"oct", "k":"DqvfKLiZ9uISRQCi7SRFHg", "kid":"L0KUyzkVWI6ylUErrhAcpg" } ], "type":"temporary" }
+https://cdn-live.mundogo.cl/amc/amc.mpd
+
+#EXTINF:-1 tvg-id="AMC.ar" tvg-name="" tvg-logo="https://i.ibb.co/ncDh80L/amc.png" group-title="CINE Y SERIES",AMC HD (3)
+http://190.11.130.46/mnp/amc/output.mpd
+
 #EXTINF:-1 tvg-id="507dtv.co" tvg-name="Cinecanal (COL)" tvg-logo="https://i.ibb.co/tYK9Prg/cinecanal.png" group-title="CINE Y SERIES",CINECANAL HD
 http://45.232.210.1:47000/play/a05c
+
+#EXTINF:-1 tvg-id="507dtv.co" tvg-name="Cinecanal (COL)" tvg-logo="https://i.ibb.co/tYK9Prg/cinecanal.png" group-title="CINE Y SERIES",CINECANAL HD (2)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N8gpQaiNf/+5ILKiXgKXDQ", "kid":"84wOHCBwU0Klw7cU+lrjhQ" },{ "kty":"oct", "k":"pAsZpSC2uHkjR0Z9VdBRcA", "kid":"qhPnvGwrWhuSpXgHKWxUAQ" },{ "kty":"oct", "k":"dLv2md2qzzeXdFNwYiiezw", "kid":"6u/OgO5/WnKkb6DrU94RfQ" } ], "type":"temporary" }
+https://cdn-live.mundogo.cl/cinecanalhd/cinecanalhd.mpd
+
+#EXTINF:-1 tvg-id="507dtv.co" tvg-name="Cinecanal (COL)" tvg-logo="https://i.ibb.co/tYK9Prg/cinecanal.png" group-title="CINE Y SERIES",CINECANAL HD (3)
+http://190.11.130.46/mnp/cinecanal/output.mpd
 
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="Cinemax CHI/COL/ECU/PER" tvg-logo="https://i.ibb.co/72RBXLk/cinemax.png" group-title="CINE Y SERIES",CINEMAX HD
 http://45.232.210.1:47000/play/cinemaxhd
 
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="Cinemax CHI/COL/ECU/PER" tvg-logo="https://i.ibb.co/72RBXLk/cinemax.png" group-title="CINE Y SERIES",CINEMAX HD (2)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uonr6GM1NDtzniQMUlsV2w", "kid":"ZpY6KI+QVouSiu3/hm5kmA" },{ "kty":"oct", "k":"2SnvSx/PHBOZ9YvdAGf48A", "kid":"GL5/frzHWM6VonXR86bqHw" } ], "type":"temporary" }
+https://tvup-ccs-live.secure2.footprint.net/cinemax/cinemax.mpd
+
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="Cinemax CHI/COL/ECU/PER" tvg-logo="https://i.ibb.co/72RBXLk/cinemax.png" group-title="CINE Y SERIES",CINEMAX HD (3)
+http://190.11.130.46/mnp/cinemax/output.mpd
+
 #EXTINF:-1 tvg-id="1481dtv.cl" tvg-name="HBO CHI" tvg-logo="https://i.ibb.co/xfmMRRY/6142369c8f67e63df4b248bb-hbopremium.png" group-title="CINE Y SERIES",HBO HD
 http://45.232.210.1:47000/play/a08o
+
+#EXTINF:-1 tvg-id="1481dtv.cl" tvg-name="HBO CHI" tvg-logo="https://i.ibb.co/xfmMRRY/6142369c8f67e63df4b248bb-hbopremium.png" group-title="CINE Y SERIES",HBO HD (2)
+http://190.11.130.46/mnp/hbo/output.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Rhmnzgk/hbo-2.png" group-title="CINE Y SERIES",HBO 2 HD
 http://190.11.130.46/mnp/hbo2/output.mpd
@@ -326,7 +360,10 @@ http://190.11.130.46/mnp/hbo2/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/q7NKc9t/hbo-family.png" group-title="CINE Y SERIES",HBO FAMILY HD
 http://45.232.210.1:47000/play/a0fa
 
-#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOF.png?raw=true" group-title="CINE Y SERIES",HBO FAMILY HD (2)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/q7NKc9t/hbo-family.png" group-title="CINE Y SERIES",HBO FAMILY HD (2)
+http://190.11.130.46/mnp/hbofam/output.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/q7NKc9t/hbo-family.png" group-title="CINE Y SERIES",HBO FAMILY HD (3)
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOFAMILYHD)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/DfBGtPM/hbo-mundi.png" group-title="CINE Y SERIES", HBO MUNDI HD
@@ -344,8 +381,19 @@ http://190.11.130.46/mnp/hbosig/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/LNfZmpK/hbo-extreme.png" group-title="CINE Y SERIES",HBO XTREME HD
 http://190.11.130.46/mnp/hboxtr/output.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/LNfZmpK/hbo-extreme.png" group-title="CINE Y SERIES",HBO XTREME HD (2)
+http://45.232.210.1:47000/play/a0fb
+
 #EXTINF:-1 tvg-id="215dtv.cl" tvg-name="Comedy Central ARG/CHI/COL/PE" tvg-logo="https://i.ibb.co/LP0mBPz/comedy-channel.png" group-title="CINE Y SERIES",COMEDY CENTRAL HD
 http://190.11.130.46/mnp/comedy/output.mpd
+
+#EXTINF:-1 tvg-id="215dtv.cl" tvg-name="Comedy Central ARG/CHI/COL/PE" tvg-logo="https://i.ibb.co/LP0mBPz/comedy-channel.png" group-title="CINE Y SERIES",COMEDY CENTRAL HD (2)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2GtEwGB7k6L8MFxikeovBA", "kid":"mBXjmhuIVJmDgug5n1ywSQ" },{ "kty":"oct", "k":"dw174uCOZLJZK+8KLKqwKA", "kid":"ooRvknxWV5i6oEg9SBbeKQ" },{ "kty":"oct", "k":"2Avp9KbNfg7IaLAlpU4xdw", "kid":"99X5F1gAUz66my2qUXF+QQ" } ], "type":"temporary" }
+https://cdn-live.mundogo.cl/comedycentral/comedycentral.mpd
+
+#EXTINF:-1 tvg-id="215dtv.cl" tvg-name="Comedy Central ARG/CHI/COL/PE" tvg-logo="https://i.ibb.co/LP0mBPz/comedy-channel.png" group-title="CINE Y SERIES",COMEDY CENTRAL HD (3)
+http://45.232.210.1:47000/play/comedycentralhd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula-mediano.png" group-title="CINE Y SERIES",DE PELICULA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
