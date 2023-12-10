@@ -16,6 +16,9 @@ http://45.232.210.1:47000/play/a08n
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dqUhhx1yCBJDp1mzJJA6qg", "kid":"knfaekUMU3qMu2yCnJOLyQ" },{ "kty":"oct", "k":"E6pTzM3gwIdabnVpMs8u9Q", "kid":"hEWhRQNyXVGot2MJPkkH+g" },{ "kty":"oct", "k":"F0VQQyWzeSLA1a2u6sgDwg", "kid":"c+/00+G8XmGaLGIc/6H4gg" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd
 
+#EXTINF:-1 tvg-id="chv.cl" tvg-name="CL | Chilevisión" tvg-logo="https://i.ibb.co/60YtW1H/chv.png" group-title="NACIONAL",CHILEVISION HD (3)
+https://tvup-ccpv2-live.secure2.footprint.net/chilevisionhd/chilevisionhd.mpd
+
 #EXTINF:-1 tvg-id="mega.cl" tvg-name="CL | Mega" tvg-logo="https://i.ibb.co/KVwyHBQ/mega.png" group-title="NACIONAL",MEGA HD
 http://45.232.210.1:47000/play/a08g
 
@@ -397,8 +400,8 @@ http://45.232.210.1:47000/play/comedycentralhd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula-mediano.png" group-title="CINE Y SERIES",DE PELICULA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0HeHf2wmysJETrdyydwYqg", "kid":"aAELNlWPWqyX6itic2YWRw" },{ "kty":"oct", "k":"jpZ6OkwwSvTBWTIZdRKDYQ", "kid":"R2oK48pjWmGKcvL6y2lv2Q" },{ "kty":"oct", "k":"npqi0DBWNUgD+UnqhHB1dA", "kid":"6MhYJuEGUline3S5Gnba5g" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/depelicula/depelicula.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Duc1ujfe3hBm9GTtiBA+jA", "kid":"EXkspSAEU1KkFv8hbmwN4Q" },{ "kty":"oct", "k":"sZoLvyDt3956rRhd99EZmQ", "kid":"9aA5YeVWUOussxp6ZO6NpA" },{ "kty":"oct", "k":"sYpCElxPNG8PelttBmNoYw", "kid":"8jlSPgyiWouiwQCxSSeHbA" } ], "type":"temporary" }
+https://cdn-live.mundogo.cl/depelicula/depelicula.mpd
 
 #EXTINF:-1 tvg-id="1513dtv.cl" tvg-name="DHE" tvg-logo="https://i.ibb.co/fCChwm2/dhe.png" group-title="CINE Y SERIES",DHE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
