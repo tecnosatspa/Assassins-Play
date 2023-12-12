@@ -120,10 +120,6 @@ https://tvup-ccpv2-live.secure2.footprint.net/vitalidadtv1c/vitalidadtv1c.mpd
 
 ----------DEPORTES----------
 
-#EXTINF:-1 tvg-id="610dtv.ar", tvg-logo="https://i.ibb.co/DgrM3zW/directv-sports.png" group-title="DEPORTES",DIRECTV SPORTS HD CL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvcl.json
-https://dtvott-abc.akamaized.net/dash_live_1058/manifest.mpd
 
 #EXTINF:-1 tvg-id="tntsports.cl" tvg-name="TNT Sports  Chile" tvg-logo="https://i.ibb.co/R4VLN8f/tnt-sports.png" group-title="DEPORTES",TNT SPORTS HD
 http://45.232.210.1:8062/play/a05l/index.m3u8
@@ -136,6 +132,26 @@ http://45.232.210.1:8062/play/a08a/index.m3u8
 
 #EXTINF:-1 tvg-id="tntsports3.cl" tvg-name="TNT Sports 3 Chile" tvg-logo="https://i.ibb.co/W0gsj6w/tnt-sports-3.png" group-title="DEPORTES",TNT SPORTS 3 HD
 http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-id="610dtv.ar", tvg-logo="https://i.ibb.co/DgrM3zW/directv-sports.png" group-title="DEPORTES",DIRECTV SPORTS HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fa59463176f3dc2964b91b4f7ae1d7c:81d5b95cc9057d6b0f85c78e6f0e41e7
+https://1059-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 tvg-id="610dtv.ar", tvg-logo="https://i.ibb.co/mD8KRCy/directv-plus.png" group-title="DEPORTES", DIRECTV SPORTS+ HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f19c3a8c638d52c2ab77b9566bcb2996:7400a9f905f172d5d74d7dc440724c8e
+https://1071-abc-da-bpk.dtvott.com/dash_live_1071/manifest.mpd
 
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-name="ESPN Chile" tvg-logo="https://i.ibb.co/k5WgfJ1/espn.png" group-title="DEPORTES",ESPN HD
 http://45.232.210.1:47000/play/a0ax
@@ -208,36 +224,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762e
 
 #EXTINF:-1 tvg-id="", tvg-logo="" group-title="DEPORTES",TIGO SPORTS HD
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist_1024x576.m3u8
-
-#EXTINF:-1 tvg-id="610dtv.ar", tvg-logo="https://i.ibb.co/DgrM3zW/directv-sports.png" group-title="DEPORTES",DIRECTV SPORTS HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2fa59463176f3dc2964b91b4f7ae1d7c:81d5b95cc9057d6b0f85c78e6f0e41e7
-https://1059-vos.dtvott.com/DASH/manifest.mpd
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Fm9nnbM/directv-sports-2.png",DIRECTV SPORTS 2 HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab020a1710d630168de21698375a439c:235898cdb10b0cdba35ea2ce94fbb1fb 
-https://1063-vos.dtvott.com/DASH/manifest.mpd
-
-#EXTINF:-1 tvg-id="610dtv.ar", tvg-logo="https://i.ibb.co/mD8KRCy/directv-plus.png" group-title="DEPORTES", DIRECTV SPORTS+ HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f19c3a8c638d52c2ab77b9566bcb2996:7400a9f905f172d5d74d7dc440724c8e
-https://1071-abc-da-bpk.dtvott.com/dash_live_1071/manifest.mpd
 
 #EXTINF:-1 tvg-id="", tvg-logo="" group-title="DEPORTES",TNT SPORTS 1 UK HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
