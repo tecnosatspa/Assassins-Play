@@ -120,7 +120,7 @@ https://tvup-ccpv2-live.secure2.footprint.net/vitalidadtv1c/vitalidadtv1c.mpd
 
 ----------DEPORTES----------
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDfNp51/dtvcl.png" tvg-group="DEPORTES", DIRECTV SPORTS CL
+#EXTINF:-1 tvg-id="610dtv.ar", tvg-logo="https://i.ibb.co/DgrM3zW/directv-sports.png" group-title="DEPORTES",DIRECTV SPORTS HD CL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvcl.json
 https://dtvott-abc.akamaized.net/dash_live_1058/manifest.mpd
