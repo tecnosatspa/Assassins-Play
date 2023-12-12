@@ -730,13 +730,11 @@ https://tvup-ccpv2-live.secure2.footprint.net/tlc/tlc.mpd
 ----------PLUTO TV----------
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PLUTO TV",GRAN HERMANO CHILE
-https://i.mjh.nz/PlutoTV/645505747cb4b10008492e03-alt.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PLUTO TV",NARUTO
-https://i.mjh.nz/PlutoTV/15ee92e72fb286e0007285fec-alt.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PLUTO TV",NARUTO SHIPPUDEN
+https://i.mjh.nz/PlutoTV/15ee92e72fb286e0007285fec-alt.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PLUTO TV",NARUTO
 https://i.mjh.nz/PlutoTV/164c92fea3c3344000869e8a9-alt.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PLUTO TV", BOB ESPONJA
