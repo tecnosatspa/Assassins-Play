@@ -123,6 +123,9 @@ https://tvup-ccpv2-live.secure2.footprint.net/vitalidadtv1c/vitalidadtv1c.mpd
 #EXTINF:-1 tvg-id="tntsports.cl" tvg-name="TNT Sports  Chile" tvg-logo="https://i.ibb.co/R4VLN8f/tnt-sports.png" group-title="DEPORTES",TNT SPORTS HD
 http://45.232.210.1:8062/play/a05l/index.m3u8
 
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-name="TNT Sports  Chile" tvg-logo="https://i.ibb.co/R4VLN8f/tnt-sports.png" group-title="DEPORTES",TNT SPORTS HD (2)
+http://45.232.210.1:47000/play/cdfhd
+
 #EXTINF:-1 tvg-id="tntsports2.cl" tvg-name="TNT Sports 2 Chile" tvg-logo="https://i.ibb.co/C1NzVrX/tnt-sports-2.png" group-title="DEPORTES",TNT SPORTS 2
 http://45.232.210.1:8062/play/a08a/index.m3u8
 
