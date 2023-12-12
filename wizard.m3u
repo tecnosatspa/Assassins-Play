@@ -120,6 +120,11 @@ https://tvup-ccpv2-live.secure2.footprint.net/vitalidadtv1c/vitalidadtv1c.mpd
 
 ----------DEPORTES----------
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDfNp51/dtvcl.png" tvg-group="DEPORTES", DIRECTV SPORTS CL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvcl.json
+https://dtvott-abc.akamaized.net/dash_live_1058/manifest.mpd
+
 #EXTINF:-1 tvg-id="tntsports.cl" tvg-name="TNT Sports  Chile" tvg-logo="https://i.ibb.co/R4VLN8f/tnt-sports.png" group-title="DEPORTES",TNT SPORTS HD
 http://45.232.210.1:8062/play/a05l/index.m3u8
 
