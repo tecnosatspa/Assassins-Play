@@ -204,9 +204,10 @@ http://45.232.210.1:47000/play/a07k
 http://45.232.210.1:47000/play/a0at
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",FOX SPORTS 3 HD
 http://45.232.210.1:47000/play/foxsports3hd
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",TELETRAK
 http://45.238.21.84:8000/play/a0c0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",TELETRAK HD
+https://list.iptvcat.com/my_list/s/d8cedf15e27d988d28f8fbd221191e9c.m3u8
 
 
 ----------INFANTILES----------
