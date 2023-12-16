@@ -388,10 +388,10 @@ http://190.11.130.46/mnp/cinemax/output.mpd
 http://45.232.210.1:47000/play/a08o
 
 #EXTINF:-1 tvg-id="1481dtv.cl" tvg-name="HBO CHI" tvg-logo="https://i.ibb.co/xfmMRRY/6142369c8f67e63df4b248bb-hbopremium.png" group-title="CINE Y SERIES",HBO HD (2)
-http://190.11.130.46/mnp/hbo/output.mpd
+http://181.78.22.70:8000/play/a02q/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Rhmnzgk/hbo-2.png" group-title="CINE Y SERIES",HBO 2 HD
-http://190.11.130.46/mnp/hbo2/output.mpd
+http://181.78.22.70:8000/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/q7NKc9t/hbo-family.png" group-title="CINE Y SERIES",HBO FAMILY HD
 http://45.232.210.1:47000/play/a0fa
@@ -409,7 +409,7 @@ http://190.11.130.46/mnp/hbomund/output.mpd
 http://190.11.130.46/mnp/hboplus/output.mpd
 
 #EXTINF:-1 tvg-id="541dtv.cl" tvg-name="HBO Pop" tvg-logo="https://i.ibb.co/Lk0vJ32/hbo-pop.png" group-title="CINE Y SERIES",HBO POP HD
-http://190.11.130.46/mnp/hbopop/output.mpd
+http://181.78.22.70:8000/play/a06e/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/LNmHbQH/hbo-signature.png" group-title="CINE Y SERIES",HBO SIGNATURE HD
 http://190.11.130.46/mnp/hbosig/output.mpd
