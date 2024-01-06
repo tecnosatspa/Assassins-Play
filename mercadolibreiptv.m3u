@@ -8,6 +8,8 @@
 http://45.232.210.1:47000/play/a07a
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NACIONALES",CHV HD
 http://45.232.210.1:47000/play/a08n
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NACIONALES",CHV HD (2)
+http://181.78.22.70:8000/play/a068/index.m3u8
 #EXTINF:-1 tvg-id="Mega HD" tvg-name="Mega HD" tvg-logo="" group-title="NACIONALES",MEGA HD
 http://45.232.210.1:47000/play/a08g
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NACIONALES",TVN HD
@@ -39,20 +41,33 @@ https://tvup-ccpv2-live.secure2.footprint.net/antena3seriesinternacional/antena3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",A&E HD
 http://45.232.210.1:47000/play/aehd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",A&E HD (2)
+http://181.78.22.70:8000/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",AMC HD
 http://45.232.210.1:47000/play/a056
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",AMC HD (2)
+http://181.78.22.70:8000/play/a02p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",AXN HD
 http://45.232.210.1:47000/play/a06f
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",AXN HD (2)
+http://181.78.22.70:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",CINECANAL HD
 http://45.232.210.1:47000/play/a05c
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",CINECANAL HD (2)
+http://181.78.22.70:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES", CINE LATINO
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CINELATINO)/index.m3u8|user-agent=Chrome/61.0.3163.10
-
 #EXTINF:-1 tvg-id="CinecanalHD" tvg-name="Cinemax HD" tvg-logo="CINE Y SERIES" group-title="",CINEMAX HD
 http://45.232.210.1:47000/play/cinemaxhd
+#EXTINF:-1 tvg-id="CinecanalHD" tvg-name="Cinemax HD" tvg-logo="CINE Y SERIES" group-title="",CINEMAX HD (2)
+http://181.78.22.70:8000/play/a05g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" HD" tvg-logo="CINE Y SERIES" group-title="",CLOVER HD
+http://181.78.22.70:8000/play/a06f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",DHE HD
 http://45.232.210.1:47000/play/a0dz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",DHE HD (2)
+http://181.78.22.70:8000/play/a05v/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",STAR CHANNEL HD
 http://45.232.210.1:47000/play/a0ao
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",FX HD
@@ -210,6 +225,8 @@ http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/ch
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INFANTILES",CARTOON NETWORK HD
 http://45.232.210.1:47000/play/a05i
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INFANTILES",CARTOON NETWORK HD (2)
+http://181.78.22.70:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INFANTILES",DISCOVERY KIDS HD
 http://45.232.210.1:47000/play/a0ak
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INFANTILES",DISNEY HD
@@ -223,8 +240,14 @@ http://45.232.210.1:47000/play/disneyhd
 http://45.232.210.1:47000/play/a0fe
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTRETENIMIENTO",COMEDY CENTRAL HD
 http://45.232.210.1:47000/play/comedycentralhd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTRETENIMIENTO",COMEDY CENTRAL HD (2)
+http://181.78.22.70:8000/play/a05h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTRETENIMIENTO",DISCOVERY H&H HD
 http://45.232.210.1:47000/play/a0al
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTRETENIMIENTO",DISCOVERY H&H HD (2)
+http://181.78.22.70:8000/play/a02e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTRETENIMIENTO",DISCOVERY ID HD
+http://181.78.22.70:8000/play/a05i/index.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTRETENIMIENTO",EL GOURMET HD
 http://45.232.210.1:47000/play/a074
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTRETENIMIENTO",FOOD NETWORK HD
@@ -248,10 +271,14 @@ http://45.232.210.1:47000/play/a0e4
 http://45.232.210.1:47000/play/a06b
 #EXTINF:-1 tvg-id="animalplanethd" tvg-name="Animal Planet HD" tvg-logo="" group-title="EDUCATIVOS",ANIMAL PLANET HD
 http://45.232.210.1:47000/play/animalplanethd
+#EXTINF:-1 tvg-id="animalplanethd" tvg-name="Animal Planet HD" tvg-logo="" group-title="EDUCATIVOS",ANIMAL PLANET HD (2)
+http://181.78.22.70:8000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="EDUCATIVOS",DISCOVERY HD
 http://45.232.210.1:47000/play/a0e1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="EDUCATIVOS",DISCOVERY THEATER HD
 http://45.232.210.1:47000/play/a0am
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="EDUCATIVOS",DISCOVERY THEATER HD (2)
+http://181.78.22.70:8000/play/a04o/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="EDUCATIVOS",DISCOVERY WORLD HD
 http://45.232.210.1:47000/play/a05b
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="EDUCATIVOS",NAT GEO HD
