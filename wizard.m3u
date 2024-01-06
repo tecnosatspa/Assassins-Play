@@ -489,9 +489,15 @@ http://190.11.130.46/mnp/tcm/output.mpd
 https://tvup-ccpv2-live.secure2.footprint.net/telenovelas/telenovelas.mpd
 
 #EXTINF:-1 tvg-id="502dtv.cl" tvg-name="TNT Chile" tvg-logo="https://i.ibb.co/WcnmY6M/tnt.png" group-title="CINE Y SERIES",TNT HD
-http://190.11.130.46/mnp/tnt/output.mpd
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica-mediano.png" group-title="CINE Y SERIES",TNT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZaIZqmQXvYPGUBg6SC+t8Q", "kid":"5Hd/mUc1VTSNPPkxu0nqOQ" },{ "kty":"oct", "k":"/hFkQYGELm+amtLeWL/elw", "kid":"zt2r9DVHUwqqib8ULBIy7w" },{ "kty":"oct", "k":"aeAi9LG7bvQVSYH8smOkKg", "kid":"jBMEIcbDX223EcpjrBWAvg" } ], "type":"temporary" }
+https://cdn-live.mundogo.cl/tnthd/tnthd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",TNT MEXICO HD
+#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="TNT Chile" tvg-logo="https://i.ibb.co/WcnmY6M/tnt.png" group-title="CINE Y SERIES",TNT HD (2)
+http://45.232.210.1:47000/play/a06w
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",TNT HD (3)
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TNTHD)/index.m3u8
 
 #EXTINF:-1 tvg-id="213dtv.cl" tvg-name="TNT Series" tvg-logo="https://i.ibb.co/L54DLLj/tnt-series.png" group-title="CINE Y SERIES",TNT SERIES HD
