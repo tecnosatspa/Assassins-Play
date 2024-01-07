@@ -861,3 +861,6 @@ http://144.217.70.79/VODS-M/1080P/The%20Terminal%202004.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PELICULAS",28 SEMANAS DESPUES (2007)
 http://144.217.70.79/VODS-M/1080P/28%20Weeks%20Later%202007.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/527/posters/60cded8a8920d.jpg" group-title="PELICULAS",PROMETHEUS (2012)
+http://144.217.70.79/VODS-M/1080P/Prometheus%202012.mkv
