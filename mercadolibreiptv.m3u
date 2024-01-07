@@ -10,23 +10,23 @@ http://45.232.210.1:47000/play/a07a
 http://45.232.210.1:47000/play/a08n
 #EXTINF:-1 tvg-id="chv.cl" tvg-name="CL | Chilevisión" tvg-logo="https://i.ibb.co/60YtW1H/chv.png" group-title="NACIONALES",CHV HD (2)
 http://181.78.22.70:8000/play/a068/index.m3u8
-#EXTINF:-1 tvg-id="mega.cl" tvg-name="CL | Mega" tvg-logo="https://ibb.co/XF8JT6d" group-title="NACIONALES",MEGA HD
+#EXTINF:-1 tvg-id="mega.cl" tvg-name="CL | Mega" tvg-logo="https://i.ibb.co/KVwyHBQ/mega.png" group-title="NACIONALES",MEGA HD
 http://45.232.210.1:47000/play/a08g
-#EXTINF:-1 tvg-id="mega.cl" tvg-name="CL | Mega" tvg-logo="https://ibb.co/XF8JT6d" group-title="NACIONALES",MEGA HD
+#EXTINF:-1 tvg-id="mega.cl" tvg-name="CL | Mega" tvg-logo="https://i.ibb.co/KVwyHBQ/mega.png" group-title="NACIONALES",MEGA HD
 http://181.78.22.70:8000/play/a05z/index.m3u8
-#EXTINF:-1 tvg-id="149dtv.cl" tvg-name="CL | TVN" tvg-logo="https://ibb.co/6P0dCPS" group-title="NACIONALES",TVN HD
+#EXTINF:-1 tvg-id="149dtv.cl" tvg-name="CL | TVN" tvg-logo="https://i.ibb.co/3NmJZNb/tvn.png" group-title="NACIONALES",TVN HD
 http://45.232.210.1:47000/play/a06r
-#EXTINF:-1 tvg-id="149dtv.cl" tvg-name="CL | TVN" tvg-logo="https://ibb.co/6P0dCPS" group-title="NACIONALES",TVN HD (2)
+#EXTINF:-1 tvg-id="149dtv.cl" tvg-name="CL | TVN" tvg-logo="https://i.ibb.co/3NmJZNb/tvn.png" group-title="NACIONALES",TVN HD (2)
 http://181.78.22.70:8000/play/a067/index.m3u8
 #EXTINF:-1 tvg-id="tvmas.cl" tvg-name="CL | TV+" tvg-logo="https://i.ibb.co/SP9HQH8/tv.png" group-title="NACIONALES",TV+ HD
 http://45.232.210.1:47000/play/a058
 #EXTINF:-1 tvg-id="tvmas.cl" tvg-name="CL | TV+" tvg-logo="https://i.ibb.co/SP9HQH8/tv.png" group-title="NACIONALES",TV+ HD (2)
 http://181.78.22.70:8000/play/a05y/index.m3u8
-#EXTINF:-1 tvg-id="lared.cl" tvg-name="CL | La Red" tvg-logo="https://ibb.co/59dvJD2" group-title="NACIONALES",LA RED HD
+#EXTINF:-1 tvg-id="lared.cl" tvg-name="CL | La Red" tvg-logo="https://i.ibb.co/VNdDky3/la-red.png" group-title="NACIONALES",LA RED HD
 http://45.232.210.1:47000/play/laredhd
-#EXTINF:-1 tvg-id="lared.cl" tvg-name="CL | La Red" tvg-logo="https://ibb.co/59dvJD2" group-title="NACIONALES",LA RED HD (2)
+#EXTINF:-1 tvg-id="lared.cl" tvg-name="CL | La Red" tvg-logo="https://i.ibb.co/VNdDky3/la-red.png" group-title="NACIONALES",LA RED HD (2)
 http://181.78.22.70:8000/play/a06h/index.m3u8
-#EXTINF:-1 tvg-id="707dtv.cl" tvg-name="CNN Chile" tvg-logo="https://ibb.co/7zrHqn7" group-title="NACIONALES",CNN CHILE HD
+#EXTINF:-1 tvg-id="707dtv.cl" tvg-name="CNN Chile" tvg-logo="https://i.ibb.co/YWf6xcv/cnn-chile.png" group-title="NACIONALES",CNN CHILE HD
 http://45.232.210.1:47000/play/cnnchilehd
 #EXTINF:-1 tvg-id="24horas.cl" tvg-name="24 Horas (CHI)" tvg-logo="https://i.ibb.co/dMGyMM0/24-horas.png" group-title="NACIONALES",CANAL 24 HORAS HD
 http://45.232.210.1:47000/play/a07d
