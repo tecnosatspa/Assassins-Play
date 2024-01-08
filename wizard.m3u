@@ -867,3 +867,7 @@ http://144.217.70.79/VODS-M/1080P/Prometheus%202012.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/132448/posters/62e8608966841.jpg" group-title="PELICULAS",SPIDERMAN SIN CAMINO A CASA
 http://144.217.70.79/VODS-M/1080P/Spider%20Man%20No%20Way%20Home%202022.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/movies/145/posters/5f61e83356f9a.jpg" group-title="PELICULAS",DOCTOR STRANGE (2016)
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/32426/posters/624dd7c78224b.jpg" group-title="PELICULAS",DOCTOR STRANGE EN EL MULTIVERSO DE LA LOCURA (2022)
