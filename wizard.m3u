@@ -875,5 +875,8 @@ http://144.217.70.79/VODS-M/1080P/Doctor%20Strange%20in%20the%20Multiverse%20of%
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/movies/9610/posters/9610.jpg" group-title="PELICULAS",EL CIELO ES REAL
 http://144.217.70.79/VODS-M/1080P/Heaven%20Is%20for%20Real%202014.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="COMEDIA",VIRGEN A LOS 40
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/1362/posters/6445515c13df0.jpg" group-title="COMEDIA",VIRGEN A LOS 40
 http://144.217.70.79/VODS-M/1080P/The%2040-Year-Old%20Virgin%202005.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/movies/11882/posters/11882.jpg" group-title="COMEDIA",DIOS NO ESTA MUERTO
+http://144.217.70.79/VODS-M/1080P/Gods%20Not%20Dead%202014.mkv
