@@ -45,7 +45,7 @@ http://190.119.178.44:8000/play/a00y/index.m3u8
 http://45.232.210.1:47000/play/a058
 
 #EXTINF:-1 tvg-id="tvmas.cl" tvg-name="CL | TV+" tvg-logo="https://i.ibb.co/SP9HQH8/tv.png" group-title="NACIONAL",TV+ HD (2)
-http://181.78.22.70:8000/play/a05y/index.m3u8
+http://190.119.178.44:8000/play/a01v/index.m3u8
 
 #EXTINF:-1 tvg-id="tvmas.cl" tvg-name="CL | TV+" tvg-logo="https://i.ibb.co/SP9HQH8/tv.png" group-title="NACIONAL",TV+ HD (3)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -56,7 +56,7 @@ https://cdn-live.mundogo.cl/tvp/tvp.mpd
 http://45.232.210.1:47000/play/laredhd
 
 #EXTINF:-1 tvg-id="lared.cl" tvg-name="CL | La Red" tvg-logo="https://i.ibb.co/VNdDky3/la-red.png" group-title="NACIONAL",LA RED HD (2)
-http://181.78.22.70:8000/play/a06h/index.m3u8
+http://190.119.178.44:8000/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-id="lared.cl" tvg-name="CL | La Red" tvg-logo="https://i.ibb.co/VNdDky3/la-red.png" group-title="NACIONAL",LA RED HD (3)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -159,7 +159,7 @@ http://45.232.210.1:8062/play/a05l/index.m3u8
 http://45.232.210.1:47000/play/cdfhd
 
 #EXTINF:-1 tvg-id="tntsports.cl" tvg-name="TNT Sports  Chile" tvg-logo="https://i.ibb.co/R4VLN8f/tnt-sports.png" group-title="DEPORTES",TNT SPORTS HD (3)
-http://181.78.22.70:8000/play/a06d/index.m3u8
+http://190.119.178.44:8000/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-id="tntsports2.cl" tvg-name="TNT Sports 2 Chile" tvg-logo="https://i.ibb.co/C1NzVrX/tnt-sports-2.png" group-title="DEPORTES",TNT SPORTS 2
 http://45.232.210.1:8062/play/a08a/index.m3u8
@@ -186,7 +186,7 @@ http://45.232.210.1:47000/play/a0ax
 https://cdn-live.mundogo.cl/espn/espn.mpd
 
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-name="ESPN Chile" tvg-logo="https://i.ibb.co/k5WgfJ1/espn.png" group-title="DEPORTES",ESPN HD (3)
-http://181.78.22.70:8000/play/a02b/index.m3u8
+http://190.119.178.44:8000/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-id="431dtv.cl" tvg-name="ESPN 2 Chile" tvg-logo="https://i.ibb.co/LzVBL3t/espn-2.png" group-title="DEPORTES",ESPN 2 HD
 http://45.232.210.1:47000/play/a06j
@@ -197,7 +197,7 @@ http://45.232.210.1:47000/play/a06j
 https://cdn-live.mundogo.cl/espn2/espn2.mpd
 
 #EXTINF:-1 tvg-id="431dtv.cl" tvg-name="ESPN 2 Chile" tvg-logo="https://i.ibb.co/LzVBL3t/espn-2.png" group-title="DEPORTES",ESPN 2 HD (3)
-http://181.78.22.70:8000/play/a05d/index.m3u8
+http://190.119.178.44:8000/play/a00s/index.m3u8
 
 #EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 3 Andina" tvg-logo="https://i.ibb.co/P6PNRg0/espn-3.png" group-title="DEPORTES",ESPN 3 HD
 http://45.232.210.1:47000/play/espn3hd
@@ -208,7 +208,7 @@ http://45.232.210.1:47000/play/espn3hd
 https://cdn-live.mundogo.cl/espn3/espn3.mpd
 
 #EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 3 Andina" tvg-logo="https://i.ibb.co/P6PNRg0/espn-3.png" group-title="DEPORTES",ESPN 3 HD (3)
-http://181.78.22.70:8000/play/a05b/index.m3u8
+http://190.119.178.44:8000/play/a014/index.m3u8
 
 #EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 3 Andina" tvg-logo="https://i.ibb.co/RSj4jMk/espn-4.png" group-title="DEPORTES",ESPN 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -216,7 +216,7 @@ http://181.78.22.70:8000/play/a05b/index.m3u8
 https://cdn-live.mundogo.cl/espn4/espn4.mpd
 
 #EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 3 Andina" tvg-logo="https://i.ibb.co/RSj4jMk/espn-4.png" group-title="DEPORTES",ESPN 4 HD (2)
-http://181.78.22.70:8000/play/a02h/index.m3u8
+http://190.119.178.44:8000/play/a01m/index.m3u8
 
 #EXTINF:-1 tvg-id="1620dtv.cl" tvg-name="ESPN Extra" tvg-logo="https://i.ibb.co/K7HvhqG/espn-extra.png" group-title="DEPORTES",ESPN EXTRA HD
 http://45.232.210.1:47000/play/a05e
@@ -227,7 +227,7 @@ http://45.232.210.1:47000/play/a05e
 https://cdn-live.mundogo.cl/espnplus/espnplus.mpd
 
 #EXTINF:-1 tvg-id="1620dtv.cl" tvg-name="ESPN Extra" tvg-logo="https://i.ibb.co/K7HvhqG/espn-extra.png" group-title="DEPORTES",ESPN EXTRA HD (3)
-http://181.78.22.70:8000/play/a04q/index.m3u8
+http://190.119.178.44:8000/play/a021/index.m3u8
 
 #EXTINF:-1 tvg-id="4399dtv.cl" tvg-name="FOX Sports 1 Chile" tvg-logo="https://i.ibb.co/3v1V88p/fox-sports-1.png" group-title="DEPORTES",FOX SPORTS 1 HD
 http://45.232.210.1:47000/play/a07k
@@ -236,6 +236,9 @@ http://45.232.210.1:47000/play/a07k
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"x+rfVdrgv95hjjsGbhso6g", "kid":"4TITG4AEWLyasGxvEZaE7A" },{ "kty":"oct", "k":"WfGpBdqxzc7lPZ89NnvNJA", "kid":"xWiw17LzU5SyUUrTtFOsQw" },{ "kty":"oct", "k":"/CxrrJuCKpXgR1za6SCZRA", "kid":"sxv/jim1Wl6UxAj0XPIXRA" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/foxsports1/foxsports1.mpd
+
+#EXTINF:-1 tvg-id="4399dtv.cl" tvg-name="FOX Sports 1 Chile" tvg-logo="https://i.ibb.co/3v1V88p/fox-sports-1.png" group-title="DEPORTES",FOX SPORTS 1 HD (3)
+http://190.119.178.44:8000/play/a035/index.m3u8
 
 #EXTINF:-1 tvg-id="3082dtv.cl" tvg-name="Fox Sports 2" tvg-logo="https://i.ibb.co/mXDtP12/fox-sports-2.png" group-title="DEPORTES",FOX SPORTS 2 HD
 http://45.232.210.1:47000/play/a0at
@@ -246,7 +249,7 @@ http://45.232.210.1:47000/play/a0at
 https://cdn-live.mundogo.cl/foxsports2/foxsports2.mpd
 
 #EXTINF:-1 tvg-id="3082dtv.cl" tvg-name="Fox Sports 2" tvg-logo="https://i.ibb.co/mXDtP12/fox-sports-2.png" group-title="DEPORTES",FOX SPORTS 2 HD (3)
-http://181.78.22.70:8000/play/a02i/index.m3u8
+http://190.119.178.44:8000/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-id="3081dtv.cl" tvg-name="Fox Sports 3" tvg-logo="https://i.ibb.co/6gSpv0L/fox-sports-3.png" group-title="DEPORTES",FOX SPORTS 3 HD
 http://45.232.210.1:47000/play/foxsports3hd
@@ -257,7 +260,7 @@ http://45.232.210.1:47000/play/foxsports3hd
 https://cdn-live.mundogo.cl/foxsports3/foxsports3.mpd
 
 #EXTINF:-1 tvg-id="3081dtv.cl" tvg-name="Fox Sports 3" tvg-logo="https://i.ibb.co/6gSpv0L/fox-sports-3.png" group-title="DEPORTES",FOX SPORTS 3 HD (3)
-http://181.78.22.70:8000/play/a05c/index.m3u8
+http://190.119.178.44:8000/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-id="3081dtv.cl" tvg-name="" tvg-logo="" group-title="DEPORTES",TYC SPORTS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -268,7 +271,7 @@ https://cdn-live.mundogo.cl/tycsports/tycsports.mpd
 http://181.78.22.70:8000/play/a028/index.m3u8
 
 #EXTINF:-1 tvg-id="3081dtv.cl" tvg-name="" tvg-logo="" group-title="DEPORTES",WIN SPORTS + HD
-http://181.78.22.70:8000/play/a02u/index.m3u8
+http://190.119.178.44:8000/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-id="", tvg-logo="" group-title="DEPORTES",PARAMOUNT+ SPORTS HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -380,7 +383,7 @@ https://cdn-live.mundogo.cl/antena3seriesinternacional/antena3seriesinternaciona
 http://45.232.210.1:47000/play/aehd
 
 #EXTINF:-1 tvg-id="207dtv.cl" tvg-name="AE (ARG/CHI/COL/PER)" tvg-logo="https://i.ibb.co/Ld3vtST/a-e.png" group-title="CINE Y SERIES",A&E HD (2)
-http://181.78.22.70:8000/play/a022/index.m3u8
+http://190.119.178.44:8000/play/a09k/index.m3u8
 
 #EXTINF:-1 tvg-id="209dtv.cl" tvg-name="AXN ARG/CHI" tvg-logo="https://i.ibb.co/5jBfMj7/axn.png" group-title="CINE Y SERIES",AXN HD
 http://45.232.210.1:47000/play/a06f
