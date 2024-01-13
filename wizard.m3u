@@ -17,7 +17,7 @@ http://45.232.210.1:47000/play/a08n
 https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd
 
 #EXTINF:-1 tvg-id="chv.cl" tvg-name="CL | Chilevisión" tvg-logo="https://i.ibb.co/60YtW1H/chv.png" group-title="NACIONAL",CHILEVISION HD (3)
-http://181.78.22.70:8000/play/a068/index.m3u8
+http://190.119.178.44:8000/play/a00z/index.m3u8
 
 #EXTINF:-1 tvg-id="mega.cl" tvg-name="CL | Mega" tvg-logo="https://i.ibb.co/KVwyHBQ/mega.png" group-title="NACIONAL",MEGA HD
 http://45.232.210.1:47000/play/a08g
@@ -28,7 +28,7 @@ http://45.232.210.1:47000/play/a08g
 https://cdn-live.mundogo.cl/megahd/megahd.mpd
 
 #EXTINF:-1 tvg-id="mega.cl" tvg-name="CL | Mega" tvg-logo="https://i.ibb.co/KVwyHBQ/mega.png" group-title="NACIONAL",MEGA HD (3)
-http://181.78.22.70:8000/play/a05z/index.m3u8
+http://190.119.178.44:8000/play/a01w/index.m3u8
 
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-name="CL | TVN" tvg-logo="https://i.ibb.co/3NmJZNb/tvn.png" group-title="NACIONAL",TVN HD
 http://45.232.210.1:47000/play/a06r
@@ -39,7 +39,7 @@ http://45.232.210.1:47000/play/a06r
 https://cdn-live.mundogo.cl/tvn/tvn.mpd
 
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-name="CL | TVN" tvg-logo="https://i.ibb.co/3NmJZNb/tvn.png" group-title="NACIONAL",TVN HD (3)
-http://181.78.22.70:8000/play/a067/index.m3u8
+http://190.119.178.44:8000/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-id="tvmas.cl" tvg-name="CL | TV+" tvg-logo="https://i.ibb.co/SP9HQH8/tv.png" group-title="NACIONAL",TV+ HD
 http://45.232.210.1:47000/play/a058
@@ -438,7 +438,7 @@ http://45.232.210.1:47000/play/a0fa
 http://190.11.130.46/mnp/hboplus/output.mpd
 
 #EXTINF:-1 tvg-id="541dtv.cl" tvg-name="HBO Pop" tvg-logo="https://i.ibb.co/Lk0vJ32/hbo-pop.png" group-title="CINE Y SERIES",HBO POP HD
-http://181.78.22.70:8000/play/a06e/index.m3u8
+http://190.119.178.44:8000/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/LNmHbQH/hbo-signature.png" group-title="CINE Y SERIES",HBO SIGNATURE HD
 http://190.11.130.46/mnp/hbosig/output.mpd
