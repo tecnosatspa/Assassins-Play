@@ -896,3 +896,6 @@ http://144.217.70.79/VODS-M/1080P/The%20Basketball%20Diaries%201995.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/1095/posters/6421f07f16d51.jpg" group-title="PELICULAS",Un puente hacia Terabithia
 http://144.217.70.79/VODS-M/1080P/Bridge%20to%20Terabithia%202007.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/movies/9020/posters/9020.jpg" group-title="PELICULAS",The Discovery
+http://144.217.70.79/VODS-M/1080P/The%20Discovery%202017.mkv
