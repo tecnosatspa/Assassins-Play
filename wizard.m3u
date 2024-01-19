@@ -829,73 +829,71 @@ https://tvup-ccpv2-live.secure2.footprint.net/tlc/tlc.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Harry Potter y la piedra filosofal" tvg-logo="https://www.themoviedb.org/t/p/w1280/7xXJ15VEf7G9GdAuV1dO769yC73.jpg" group-title="SAGA HARRY POTTER", Harry Potter y la piedra filosofal
 http://144.217.70.79/VODS-M/1080P/Harry%20Potter%20and%20the%20Sorcerers%20Stone%202001.mkv
-#EXTINF:synopsis, Harry Potter es un huérfano que vive con sus crueles tíos y su primo. En su décimo primer cumpleaños, Harry descubre que es un mago y que ha sido aceptado en el Colegio Hogwarts de Magia y Hechicería.
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/bhCfAzeMMg7GyLDT11yVM2i1NPh.jpg" group-title="SAGA HARRY POTTER",Harry Potter y la cámara secreta
 http://144.217.70.79/VODS-M/1080P/Harry%20Potter%20And%20The%20Chamber%20Of%20Secrets%202002.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el prisionero de Azkaban" tvg-logo="https://www.themoviedb.org/t/p/w1280/oabaGVDN9pqLzMT6w5qMGdFawH5.jpg" group-title="PELICULAS",Harry Potter y el prisionero de Azkaban
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el prisionero de Azkaban" tvg-logo="https://www.themoviedb.org/t/p/w1280/oabaGVDN9pqLzMT6w5qMGdFawH5.jpg" group-title="SAGA HARRY POTTER",Harry Potter y el prisionero de Azkaban
 http://144.217.70.79/VODS-M/1080P/Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban%202004.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el cáliz de fuego" tvg-logo="https://www.themoviedb.org/t/p/w1280/5hrrncgY7GfRHz6JmnhPlvJUONe.jpg" group-title="PELICULAS",Harry Potter y el cáliz de fuego
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el cáliz de fuego" tvg-logo="https://www.themoviedb.org/t/p/w1280/5hrrncgY7GfRHz6JmnhPlvJUONe.jpg" group-title="SAGA HARRY POTTER",Harry Potter y el cáliz de fuego
 http://144.217.70.79/VODS-M/1080P/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%202005.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y la Orden del Fénix" tvg-logo="https://www.themoviedb.org/t/p/w1280/xxXiM2Ij7plbzibKWW9BfDk23aI.jpg" group-title="PELICULAS",Harry Potter y la Orden del Fénix
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y la Orden del Fénix" tvg-logo="https://www.themoviedb.org/t/p/w1280/xxXiM2Ij7plbzibKWW9BfDk23aI.jpg" group-title="SAGA HARRY POTTER",Harry Potter y la Orden del Fénix
 http://144.217.70.79/VODS-M/1080P/Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix%202007.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el misterio del príncipe" tvg-logo="https://www.themoviedb.org/t/p/w1280/tO0UGkNuQoxyXve0mvwtXP49NAO.jpg" group-title="PELICULAS",Harry Potter y el misterio del príncipe
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el misterio del príncipe" tvg-logo="https://www.themoviedb.org/t/p/w1280/tO0UGkNuQoxyXve0mvwtXP49NAO.jpg" group-title="SAGA HARRY POTTER",Harry Potter y el misterio del príncipe
 http://144.217.70.79/VODS-M/1080P/Harry%20Potter%20and%20the%20Half-Blood%20Prince%202009.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y las Reliquias de la Muerte - Parte 1" tvg-logo="https://www.themoviedb.org/t/p/w1280/w6wsYKdXERaXRdByPsI2O9rn20b.jpg" group-title="PELICULAS",Harry Potter y las Reliquias de la Muerte - Parte 1
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y las Reliquias de la Muerte - Parte 1" tvg-logo="https://www.themoviedb.org/t/p/w1280/w6wsYKdXERaXRdByPsI2O9rn20b.jpg" group-title="SAGA HARRY POTTER",Harry Potter y las Reliquias de la Muerte - Parte 1
 http://144.217.70.79/VODS-M/1080P/Harry%20Potter%20and%20the%20Deathly%20Hallows%20Part%201%202010.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y las Reliquias de la Muerte - Parte 2" tvg-logo="https://www.themoviedb.org/t/p/w1280/73qT8nFOkRDGhKIpH5Yr1DmrAeF.jpg" group-title="PELICULAS",Harry Potter y las Reliquias de la Muerte - Parte 2
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y las Reliquias de la Muerte - Parte 2" tvg-logo="https://www.themoviedb.org/t/p/w1280/73qT8nFOkRDGhKIpH5Yr1DmrAeF.jpg" group-title="SAGA HARRY POTTER",Harry Potter y las Reliquias de la Muerte - Parte 2
 http://144.217.70.79/VODS-M/1080P/Harry%20Potter%20and%20the%20Deathly%20Hallows%20Part%202%202011.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter, 20º Aniversario: Regreso a Hogwarts" tvg-logo="https://www.themoviedb.org/t/p/w1280/sSLk8GLlFE5shKnze0smVBJ2uFA.jpg" group-title="PELICULAS",Harry Potter, 20º Aniversario: Regreso a Hogwarts
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter, 20º Aniversario: Regreso a Hogwarts" tvg-logo="https://www.themoviedb.org/t/p/w1280/sSLk8GLlFE5shKnze0smVBJ2uFA.jpg" group-title="SAGA HARRY POTTER",Harry Potter, 20º Aniversario: Regreso a Hogwarts
 http://144.217.70.79/VODS-M/1080P/Harry%20Potter%2020th%20Anniversary%20Return%20to%20Hogwarts%202022.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PELICULAS",LA ISLA SINIESTRA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/558/posters/6442ce72341cd.jpg" group-title="Terror / Thriller",LA ISLA SINIESTRA
 http://144.217.70.79/VODS-M/1080P/Shutter%20Island%202010.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PELICULAS",LA TERMINAL (2004)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/movies/1278/posters/1278.jpg" group-title="Comedia / Drama",LA TERMINAL (2004)
 http://144.217.70.79/VODS-M/1080P/The%20Terminal%202004.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PELICULAS",28 SEMANAS DESPUES (2007)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/movies/835/posters/835.jpg" group-title="Terror / Thriller",28 SEMANAS DESPUES (2007)
 http://144.217.70.79/VODS-M/1080P/28%20Weeks%20Later%202007.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/527/posters/60cded8a8920d.jpg" group-title="PELICULAS",PROMETHEUS (2012)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/527/posters/60cded8a8920d.jpg" group-title="Aventura / Ciencia ficcion",Prometheus (2012)
 http://144.217.70.79/VODS-M/1080P/Prometheus%202012.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/132448/posters/62e8608966841.jpg" group-title="PELICULAS",SPIDERMAN SIN CAMINO A CASA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/132448/posters/62e8608966841.jpg" group-title="Aventura / Ciencia ficcion",Spider-Man: No Way Home
 http://144.217.70.79/VODS-M/1080P/Spider%20Man%20No%20Way%20Home%202022.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/movies/145/posters/5f61e83356f9a.jpg" group-title="PELICULAS",DOCTOR STRANGE (2016)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/movies/145/posters/5f61e83356f9a.jpg" group-title="Aventura / Ciencia ficcion",Doctor Strange (2016)
 http://144.217.70.79/VODS-M/1080P/Doctor%20strange%202016.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/32426/posters/624dd7c78224b.jpg" group-title="PELICULAS",DOCTOR STRANGE EN EL MULTIVERSO DE LA LOCURA (2022)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/32426/posters/624dd7c78224b.jpg" group-title="Aventura / Ciencia ficcion",Doctor Strangue : Multiverso De Locura (2022)
 http://144.217.70.79/VODS-M/1080P/Doctor%20Strange%20in%20the%20Multiverse%20of%20Madness%202022.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/8/posters/60bc273188ee0.jpg" group-title="PELICULAS",Vengadores: Infinity War
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/8/posters/60bc273188ee0.jpg" group-title="Aventura / Ciencia ficcion",Vengadores: Infinity War
 http://144.217.70.79/VODS-M/1080P/Avengers%20Infinity%20War%202018.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/movies/148/posters/5f21e4031fea4.jpg" group-title="PELICULAS",Vengadores: Endgame
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/movies/148/posters/5f21e4031fea4.jpg" group-title="Aventura / Ciencia ficcion",Vengadores: Endgame
 http://144.217.70.79/VODS-M/1080P/Avengers%20Endgame%202019.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/movies/9610/posters/9610.jpg" group-title="PELICULAS",EL CIELO ES REAL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/movies/9610/posters/9610.jpg" group-title="Drama / Religion",EL CIELO ES REAL
 http://144.217.70.79/VODS-M/1080P/Heaven%20Is%20for%20Real%202014.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/1362/posters/6445515c13df0.jpg" group-title="COMEDIA",VIRGEN A LOS 40
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/1362/posters/6445515c13df0.jpg" group-title="COMEDIA",Virgen a los 40
 http://144.217.70.79/VODS-M/1080P/The%2040-Year-Old%20Virgin%202005.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/movies/11882/posters/11882.jpg" group-title="COMEDIA",DIOS NO ESTA MUERTO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/movies/11882/posters/11882.jpg" group-title="Drama / Religion",Dios no esta muerto
 http://144.217.70.79/VODS-M/1080P/Gods%20Not%20Dead%202014.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/3168/posters/627a37304fe04.jpg" group-title="PELICULAS",DIARIO DE UN REBELDE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/3168/posters/627a37304fe04.jpg" group-title="Drama / Crimen",DIARIO DE UN REBELDE
 http://144.217.70.79/VODS-M/1080P/The%20Basketball%20Diaries%201995.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/1095/posters/6421f07f16d51.jpg" group-title="PELICULAS",Un puente hacia Terabithia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/1095/posters/6421f07f16d51.jpg" group-title="Drama / Aventura",Un puente hacia Terabithia
 http://144.217.70.79/VODS-M/1080P/Bridge%20to%20Terabithia%202007.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/movies/9020/posters/9020.jpg" group-title="PELICULAS",The Discovery
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/movies/9020/posters/9020.jpg" group-title="Drama / Thriller",The Discovery
 http://144.217.70.79/VODS-M/1080P/The%20Discovery%202017.mkv
