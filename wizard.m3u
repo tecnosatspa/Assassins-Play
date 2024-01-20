@@ -897,3 +897,6 @@ http://144.217.70.79/VODS-M/1080P/Bridge%20to%20Terabithia%202007.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/movies/9020/posters/9020.jpg" group-title="Drama / Thriller",The Discovery
 http://144.217.70.79/VODS-M/1080P/The%20Discovery%202017.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/movies/2362/posters/2362.jpg" group-title="Terror / Thriller",Destino final 2 (2003)
+http://144.217.70.79/VODS-M/1080P/Final%20Destination%202%202003.mkv
