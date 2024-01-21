@@ -1,5 +1,9 @@
 #EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
 
+
+----------NACIONALES----------
+
+
 #EXTINF:-1 tvg-id="1156dtv.cl" tvg-name="Canal 13 Cable CHI" tvg-logo="https://i.ibb.co/hsPWxXx/canal-13.png" group-title="NACIONAL",CANAL 13 HD
 http://45.232.210.1:47000/play/a07a
 
@@ -76,77 +80,6 @@ https://mdstrm.com/live-stream-playlist-v/57d1a22064f5d85712b20dab.m3u8
 
 #EXTINF:-1 tvg-id="24horas.cl" tvg-name="24 Horas (CHI)" tvg-logo="https://i.ibb.co/dMGyMM0/24-horas.png" group-title="NACIONAL",CANAL 24 HORAS HD (2)
 http://45.232.210.1:47000/play/a07d
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/t13-en-vivo.png" group-title="NACIONAL",T13
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Lwg/joVoKHLD+fjOdfn89w", "kid":"1WYteWLWWQ6XFnDDm2uGMQ" },{ "kty":"oct", "k":"XJGA4BWIzA2tVJT1VUAv1A", "kid":"5S9VgPDyXeqnFBu/yKmhRw" },{ "kty":"oct", "k":"9S5fCNm0Y6mRxophBseEFA", "kid":"UiZPw7pZWaKAvHVx4Th8Hg" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/t13vivo/t13vivo.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_aprendolibre.jpg" group-title="NACIONAL",APRENDO LIBRE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hkUDPBWTvGobvl+XXuJINA", "kid":"rX5L+k84VbiHxhMP4TERRQ" },{ "kty":"oct", "k":"W9fUoj5Toc5HUNnYWLk58w", "kid":"F5lAnGDEWPOrPUZHnL8R0Q" },{ "kty":"oct", "k":"SRdibecUAZj8ckY30LXXtQ", "kid":"zJyqOzSlXvma9qezaO3DRA" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/aprendolibre/aprendolibre.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_canal9.jpg" group-title="NACIONAL",CANAL 9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4IwyA/aoLsjr1RodfqzcLQ", "kid":"XSKOyp6iV9Ghc96SPg7Xkg" },{ "kty":"oct", "k":"rVssohF7QsGRmoPHbsP7yw", "kid":"sGJv9y1sUfqXbC7R297EMQ" },{ "kty":"oct", "k":"wRmg8i1PpsatRlxauq/DHw", "kid":"onOIQvDzWyOL12+lgFmLVA" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/canal9regional/canal9regional.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_canal21.jpg" group-title="NACIONAL",CANAL 21 (CHILLAN)
-http://live.mundogo.cl/mundo/Canal21/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_culturaonline.jpg" group-title="NACIONAL",CULTURA ONLINE
-http://live.mundogo.cl/mundo/Culturaonline/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_exprezion.jpg" group-title="NACIONAL",EXPREZION
-http://live.mundogo.cl/mundo/Exprezion/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_funbox.jpg" group-title="NACIONAL",FUNBOX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9lGko6jBj/mStOsdoAHRxg", "kid":"3UiTNQ5KWk2cel786MD3yQ" },{ "kty":"oct", "k":"jVjXLcPLmTWssTxG6hoMvg", "kid":"N77deXskWsG2UCvDOOQdmA" },{ "kty":"oct", "k":"YQBRFLLRDqz8KP+XQxegwg", "kid":"XgY0f91nVMiv/6OSgIej4Q" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/funbox/funbox.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_gozatv.jpg" group-title="NACIONAL",GOZATV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"38Z/21+eTG23JepNF35e2A", "kid":"fi5srAr/WJycxjUxCaOPVw" },{ "kty":"oct", "k":"u0R8bFjvTbINmRHtIMPLAg", "kid":"raHwMuchWiCrZcCiKbzFyQ" },{ "kty":"oct", "k":"DNJo39htfK3I4MOGqdeW0A", "kid":"u6BTcTxFXl6NkQjFLpS/MA" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/gozatv/gozatv.mpd
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_mundoeducativo.jpg" group-title="NACIONAL",MUNDO EDUCATIVO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HqZt00AJZTFY7tedm/2Rdg", "kid":"tyJtXinAUX2NHTCSWfPvOQ" },{ "kty":"oct", "k":"fvrCdjSWKeXqWHnSkw7LmA", "kid":"ggWPJcZoXmCpcTpogVKQCA" },{ "kty":"oct", "k":"+O7lNtuD9UUFdxn6Z5LPDA", "kid":"5w1iZA89Wxak8Pn467kBRw" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/mundoeducativo/mundoeducativo.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_mundotv.jpg" group-title="NACIONAL",MUNDO TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HqZt00AJZTFY7tedm/2Rdg", "kid":"tyJtXinAUX2NHTCSWfPvOQ" },{ "kty":"oct", "k":"fvrCdjSWKeXqWHnSkw7LmA", "kid":"ggWPJcZoXmCpcTpogVKQCA" },{ "kty":"oct", "k":"+O7lNtuD9UUFdxn6Z5LPDA", "kid":"5w1iZA89Wxak8Pn467kBRw" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/mundotv/mundotv.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_ntv.jpg" group-title="NACIONAL",NTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PHrea9yLD1VeH4rJrhF6nw", "kid":"F1eJdtg2X2iAJp8fX1ssHQ" },{ "kty":"oct", "k":"hX0yJ3MJLG9sIaRfE9/JvQ", "kid":"Tmi8sW5iVd+u8eMxUETjww" },{ "kty":"oct", "k":"9j5BJGVWRWMggzLb90UUjg", "kid":"AHL5NvNuUDKCE+r1bkdxBA" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/ntv/ntv.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_puntajenacionalcl.jpg" group-title="NACIONAL",PUNTAJE NACIONAL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N8U7f0nadVu3j8iuSgHm6A", "kid":"LFPUXG61UQigcTmdY8VpYw" },{ "kty":"oct", "k":"c1KAcuh7zf8+egrfyJuJjA", "kid":"xpEJEdqaWq6LR3EeE5n5Kg" },{ "kty":"oct", "k":"ho2t/nZmn02nU+rnMx0h8w", "kid":"hNermT1rXLStkRcd9J9W+Q" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/puntajenacional/puntajenacional.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.senpaitv.com/wp-content/uploads/2022/03/logosenpai.png" group-title="NACIONAL",SENPAI TV
-http://live.mundogo.cl/senpaitv/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_tvu-12.jpg" group-title="NACIONAL",TVU
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5PXElsMtdy8XkQvPA31wHQ", "kid":"FnYbVCffXle5v6gf3XrPpg" },{ "kty":"oct", "k":"yVulQhUwFlju0HTPZLTIcA", "kid":"kWL/OuZjW9+OwBNoKLm7Ew" },{ "kty":"oct", "k":"p3RR13Jo0q8hRK5Wa8rUsA", "kid":"Qe/V8bftV8eVKlHbI5AeQg" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/tvu/tvu.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_uatv.jpg" group-title="NACIONAL",UATV
-http://live.mundogo.cl/mundo/UATV/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_vitalidadtv.jpg" group-title="NACIONAL",VITALIDAD TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"H+Ijh6TRIszJauVcaLIq2Q", "kid":"JgSEWXrxXUGBILyZ+9oXrA" },{ "kty":"oct", "k":"StkrL4rMVWlF9cLUD6H3hw", "kid":"ROOVAV94XQeUOGiYSYB5dA" },{ "kty":"oct", "k":"qkHVD5ws3TAzOkDb91dCkw", "kid":"50Hsq4KfUXWxM1olXKK6+w" } ], "type":"temporary" }
-https://tvup-ccpv2-live.secure2.footprint.net/vitalidadtv1c/vitalidadtv1c.mpd
 
 
 ----------DEPORTES----------
@@ -927,3 +860,6 @@ http://144.217.70.79/VODS-M/1080P/American%20Reunion%202012.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/movies/141216/posters/5f7cf1b889f32.jpg" group-title="Comedia",American Pie Presenta: Las chicas mandan (2020)
 http://144.217.70.79/VODS-M/1080P/American%20Pie%20Presents%20Girls%20Rules%202020.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/2110/posters/6448c05f2ed8d.jpg" group-title="Comedia",Dick y Jane, ladrones de risa (2005)
+http://144.217.70.79/VODS-M/1080P/Fun%20with%20Dick%20and%20Jane%202005.mkv
