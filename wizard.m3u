@@ -348,13 +348,10 @@ http://181.78.105.146:6060/play/a03d
 http://45.232.210.1:47000/play/cinemaxhd
 
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="Cinemax CHI/COL/ECU/PER" tvg-logo="https://i.ibb.co/72RBXLk/cinemax.png" group-title="CINE Y SERIES",CINEMAX HD (2)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uonr6GM1NDtzniQMUlsV2w", "kid":"ZpY6KI+QVouSiu3/hm5kmA" },{ "kty":"oct", "k":"2SnvSx/PHBOZ9YvdAGf48A", "kid":"GL5/frzHWM6VonXR86bqHw" } ], "type":"temporary" }
-https://tvup-ccs-live.secure2.footprint.net/cinemax/cinemax.mpd
+http://190.61.46.126:8000/play/a04v/index.m3u8
 
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="Cinemax CHI/COL/ECU/PER" tvg-logo="https://i.ibb.co/72RBXLk/cinemax.png" group-title="CINE Y SERIES",CINEMAX HD (3)
-http://181.78.22.70:8000/play/a05g/index.m3u8
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/54
 
 #EXTINF:-1 tvg-id="1524dtv.co" tvg-name="HBO AR/CO/EC/PE" tvg-logo="https://i.ibb.co/xfmMRRY/6142369c8f67e63df4b248bb-hbopremium.png" group-title="CINE Y SERIES",HBO HD
 http://45.232.210.1:47000/play/a08o
