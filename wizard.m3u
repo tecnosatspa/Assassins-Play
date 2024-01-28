@@ -342,7 +342,7 @@ http://45.232.210.1:47000/play/a05c
 https://cdn-live.mundogo.cl/cinecanalhd/cinecanalhd.mpd
 
 #EXTINF:-1 tvg-id="507dtv.co" tvg-name="Cinecanal (COL)" tvg-logo="https://i.ibb.co/tYK9Prg/cinecanal.png" group-title="CINE Y SERIES",CINECANAL HD (3)
-http://181.78.22.70:8000/play/a02o/index.m3u8
+http://181.78.105.146:6060/play/a03d
 
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="Cinemax CHI/COL/ECU/PER" tvg-logo="https://i.ibb.co/72RBXLk/cinemax.png" group-title="CINE Y SERIES",CINEMAX HD
 http://45.232.210.1:47000/play/cinemaxhd
