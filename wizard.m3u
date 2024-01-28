@@ -322,7 +322,7 @@ http://190.119.178.44:8000/play/a09k/index.m3u8
 http://45.232.210.1:47000/play/a06f
 
 #EXTINF:-1 tvg-id="209dtv.cl" tvg-name="AXN ARG/CHI" tvg-logo="https://i.ibb.co/5jBfMj7/axn.png" group-title="CINE Y SERIES",AXN HD (2)
-http://181.78.22.70:8000/play/a025/index.m3u8
+http://161.132.108.75:50001/play/a005/index.m3u8
 
 #EXTINF:-1 tvg-id="210dtv.cl" tvg-name="AMC" tvg-logo="https://i.ibb.co/ncDh80L/amc.png" group-title="CINE Y SERIES",AMC HD
 http://45.232.210.1:47000/play/a056
