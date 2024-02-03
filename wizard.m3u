@@ -357,7 +357,7 @@ http://177.234.230.226:8010/play/a00b/index.m3u8
 http://45.232.210.1:47000/play/a05j
 
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png" group-title="CINE Y SERIES",SPACE HD
-http://161.132.108.75:50001/play/a006/index.m3u8
+http://190.11.130.46/mnp/space/output.mpd
 
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png" group-title="CINE Y SERIES",SPACE HD (2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -365,7 +365,7 @@ http://161.132.108.75:50001/play/a006/index.m3u8
 https://cdn-live.mundogo.cl/spacehd/spacehd.mpd
 
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png" group-title="CINE Y SERIES",SPACE HD (3)
-http://45.232.210.1:47000/play/a06g
+http://177.53.153.20:8001/play/a01w/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",SONY CINE HD
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
