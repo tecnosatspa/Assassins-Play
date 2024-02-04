@@ -723,6 +723,10 @@ http://144.217.70.79/VODS-M/1080P/The%20Father%202020.mkv
 
 ----------COMEDIA----------
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/115/posters/633e92ab1e8c9.jpg" group-title="Comedia",DeadPool (2016)
+http://144.217.70.79/VODS-M/1080P/Deadpool%202016.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/628/posters/64331027af86e.jpg" group-title="Comedia",21 Jump Street (2012)
 http://144.217.70.79/VODS-M/1080P/21%20Jump%20Street%202012.mkv
 
