@@ -148,8 +148,8 @@ http://190.119.178.44:8000/play/a014/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1FazyuiKt/2HupBGknthRg", "kid":"PMsKjc70Wkai/CTkv3vqjA" },{ "kty":"oct", "k":"+0r80+bO7sT5PpRAGi4bSg", "kid":"PXi3cmqtVAqgD9COfDRG9Q" },{ "kty":"oct", "k":"2e55A1+R0WZvp8QMAkkT6g", "kid":"nrRTndHSXkuRldhNVEooOw" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/espn4/espn4.mpd
 
-#EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 3 Andina" tvg-logo="https://i.ibb.co/RSj4jMk/espn-4.png" group-title="DEPORTES",ESPN 4 HD (2)
-http://190.119.178.44:8000/play/a01m/index.m3u8
+#EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 3 Andina" tvg-logo="https://i.ibb.co/RSj4jMk/espn-4.png" group-title="DEPORTES",ESPN PREMIUM HD (2)
+http://190.11.130.46/mnp/espnpremium/output.mpd
 
 #EXTINF:-1 tvg-id="1620dtv.cl" tvg-name="ESPN Extra" tvg-logo="https://i.ibb.co/K7HvhqG/espn-extra.png" group-title="DEPORTES",ESPN EXTRA HD
 http://45.232.210.1:47000/play/a05e
