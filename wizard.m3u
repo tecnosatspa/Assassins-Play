@@ -1,4 +1,6 @@
-#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
+#EXTM3U x-tvg-url="https://epg.stationlink.cl/tempest_config/epg/epglista.xml.gz"
+#EXTM3U url-tvg="https://epg.stationlink.cl/tempest_config/epg/epglista.xml.gz"
+
 
 
 ----------NACIONALES----------
@@ -281,10 +283,10 @@ http://190.11.130.46/mnp/hboplus/output.mpd
 #EXTINF:-1 tvg-id="526dtv.cl" tvg-name="HBO Plus (Este)" tvg-logo="https://i.ibb.co/z8C20TC/hbo-plus.png" group-title="CINE Y SERIES",HBO+ HD (2)
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/193
 
-#EXTINF:-1 tvg-id="541dtv.cl" tvg-name="HBO Pop" tvg-logo="https://i.ibb.co/Lk0vJ32/hbo-pop.png" group-title="CINE Y SERIES",HBO POP HD
+#EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/Lk0vJ32/hbo-pop.png" group-title="CINE Y SERIES",HBO POP HD
 http://190.11.130.46/mnp/hbopop/output.mpd
 
-#EXTINF:-1 tvg-id="541dtv.cl" tvg-name="HBO Pop" tvg-logo="https://i.ibb.co/Lk0vJ32/hbo-pop.png" group-title="CINE Y SERIES",HBO POP HD (2)
+#EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/Lk0vJ32/hbo-pop.png" group-title="CINE Y SERIES",HBO POP HD (2)
 http://177.53.153.20:8001/play/a01y/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/LNmHbQH/hbo-signature.png" group-title="CINE Y SERIES",HBO SIGNATURE HD
