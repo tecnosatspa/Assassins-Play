@@ -78,7 +78,7 @@ https://cdn-live.mundogo.cl/espn3/espn3.mpd
 #EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 3 Andina" tvg-logo="https://i.ibb.co/P6PNRg0/espn-3.png" group-title="DEPORTES",ESPN 3 HD (2)
 http://190.11.130.46/mnp/espn3/output.mpd
 
-#EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 3 Andina" tvg-logo="https://i.ibb.co/RSj4jMk/espn-4.png" group-title="DEPORTES",ESPN 4 HD
+#EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 3 Andina" tvg-logo="https://i.ibb.co/RSj4jMk/espn-4.png" group-title="DEPORTES",ESPN 5 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1FazyuiKt/2HupBGknthRg", "kid":"PMsKjc70Wkai/CTkv3vqjA" },{ "kty":"oct", "k":"+0r80+bO7sT5PpRAGi4bSg", "kid":"PXi3cmqtVAqgD9COfDRG9Q" },{ "kty":"oct", "k":"2e55A1+R0WZvp8QMAkkT6g", "kid":"nrRTndHSXkuRldhNVEooOw" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/espn4/espn4.mpd
@@ -94,18 +94,18 @@ https://cdn-live.mundogo.cl/espnplus/espnplus.mpd
 #EXTINF:-1 tvg-id="1620dtv.cl" tvg-name="ESPN Extra" tvg-logo="https://i.ibb.co/K7HvhqG/espn-extra.png" group-title="DEPORTES",ESPN EXTRA HD (2)
 http://190.11.130.46/mnp/espn_extra/output.mpd
 
-#EXTINF:-1 tvg-id="4399dtv.cl" tvg-name="FOX Sports 1 Chile" tvg-logo="https://i.ibb.co/3v1V88p/fox-sports-1.png" group-title="DEPORTES",FOX SPORTS 1 HD
+#EXTINF:-1 tvg-id="4399dtv.cl" tvg-name="FOX Sports 1 Chile" tvg-logo="https://i.ibb.co/3v1V88p/fox-sports-1.png" group-title="DEPORTES",ESPN PREMIUM HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"x+rfVdrgv95hjjsGbhso6g", "kid":"4TITG4AEWLyasGxvEZaE7A" },{ "kty":"oct", "k":"WfGpBdqxzc7lPZ89NnvNJA", "kid":"xWiw17LzU5SyUUrTtFOsQw" },{ "kty":"oct", "k":"/CxrrJuCKpXgR1za6SCZRA", "kid":"sxv/jim1Wl6UxAj0XPIXRA" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/foxsports1/foxsports1.mpd
 
-#EXTINF:-1 tvg-id="4399dtv.cl" tvg-name="FOX Sports 1 Chile" tvg-logo="https://i.ibb.co/3v1V88p/fox-sports-1.png" group-title="DEPORTES",FOX SPORTS 1 HD (2)
-http://190.11.130.46/mnp/fox_sport/output.mpd
-
-#EXTINF:-1 tvg-id="3082dtv.cl" tvg-name="Fox Sports 2" tvg-logo="https://i.ibb.co/mXDtP12/fox-sports-2.png" group-title="DEPORTES",FOX SPORTS 2 HD
+#EXTINF:-1 tvg-id="3082dtv.cl" tvg-name="Fox Sports 2" tvg-logo="https://i.ibb.co/mXDtP12/fox-sports-2.png" group-title="DEPORTES",ESPN 7 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JBjZmJSbJLznVY2TyjhYIA", "kid":"P5fiZSZWWNKKk8lhQh9pdg" },{ "kty":"oct", "k":"tbrby9+XopAhS175f6z/sQ", "kid":"vAdgdB9mWweSubljnLzeag" },{ "kty":"oct", "k":"ZrlFjgZJjMPjM5eSFzKaRQ", "kid":"mf/BC5gQU1WohzAXKDWd5g" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/foxsports2/foxsports2.mpd
+
+#EXTINF:-1 tvg-id="4399dtv.cl" tvg-name="FOX Sports 1 Chile" tvg-logo="https://i.ibb.co/3v1V88p/fox-sports-1.png" group-title="DEPORTES",ESPN 7 HD (2)
+http://190.11.130.46/mnp/fox_sport/output.mpd
 
 #EXTINF:-1 tvg-id="3082dtv.cl" tvg-name="Fox Sports 2" tvg-logo="https://i.ibb.co/mXDtP12/fox-sports-2.png" group-title="DEPORTES",FOX SPORTS 2 HD (2)
 http://190.11.130.46/mnp/fox_sport2/output.mpd
