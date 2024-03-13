@@ -78,6 +78,11 @@ https://cdn-live.mundogo.cl/espn3/espn3.mpd
 #EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 3 Andina" tvg-logo="https://i.ibb.co/P6PNRg0/espn-3.png" group-title="DEPORTES",ESPN 3 HD (2)
 http://190.11.130.46/mnp/espn3/output.mpd
 
+#EXTINF:-1 tvg-id="1620dtv.cl" tvg-name="ESPN Extra" tvg-logo="https://i.ibb.co/K7HvhqG/espn-extra.png" group-title="DEPORTES",ESPN 4 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NdHEjsJOX3Yu7x+FPPylDw", "kid":"bLa3/xlrXgCSmGUxbSABnw" },{ "kty":"oct", "k":"en18Q+DFMEZj/ccDE+WpuQ", "kid":"ZxgmFkQtUam2lPBoRB7zjQ" },{ "kty":"oct", "k":"HOqya7ue8iJogGJO5J99sw", "kid":"443ecU7nX2qvfpGjMoqrcg" } ], "type":"temporary" }
+https://cdn-live.mundogo.cl/espnplus/espnplus.mpd
+
 #EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 3 Andina" tvg-logo="https://i.ibb.co/RSj4jMk/espn-4.png" group-title="DEPORTES",ESPN 5 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1FazyuiKt/2HupBGknthRg", "kid":"PMsKjc70Wkai/CTkv3vqjA" },{ "kty":"oct", "k":"+0r80+bO7sT5PpRAGi4bSg", "kid":"PXi3cmqtVAqgD9COfDRG9Q" },{ "kty":"oct", "k":"2e55A1+R0WZvp8QMAkkT6g", "kid":"nrRTndHSXkuRldhNVEooOw" } ], "type":"temporary" }
@@ -85,11 +90,6 @@ https://cdn-live.mundogo.cl/espn4/espn4.mpd
 
 #EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 3 Andina" tvg-logo="https://i.ibb.co/RSj4jMk/espn-4.png" group-title="DEPORTES",ESPN PREMIUM HD
 http://190.11.130.46/mnp/espnpremium/output.mpd
-
-#EXTINF:-1 tvg-id="1620dtv.cl" tvg-name="ESPN Extra" tvg-logo="https://i.ibb.co/K7HvhqG/espn-extra.png" group-title="DEPORTES",ESPN EXTRA HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NdHEjsJOX3Yu7x+FPPylDw", "kid":"bLa3/xlrXgCSmGUxbSABnw" },{ "kty":"oct", "k":"en18Q+DFMEZj/ccDE+WpuQ", "kid":"ZxgmFkQtUam2lPBoRB7zjQ" },{ "kty":"oct", "k":"HOqya7ue8iJogGJO5J99sw", "kid":"443ecU7nX2qvfpGjMoqrcg" } ], "type":"temporary" }
-https://cdn-live.mundogo.cl/espnplus/espnplus.mpd
 
 #EXTINF:-1 tvg-id="1620dtv.cl" tvg-name="ESPN Extra" tvg-logo="https://i.ibb.co/K7HvhqG/espn-extra.png" group-title="DEPORTES",ESPN EXTRA HD (2)
 http://190.11.130.46/mnp/espn_extra/output.mpd
@@ -134,16 +134,16 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist_1024x576.m3
 
 
 #EXTINF:-1 tvg-id="207dtv.cl" tvg-name="AE (ARG/CHI/COL/PER)" tvg-logo="https://i.ibb.co/Ld3vtST/a-e.png" group-title="CINE Y SERIES",A&E HD
-http://190.11.130.46/mnp/ae/output.mpd
+http://38.56.109.19/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-id="209dtv.cl" tvg-name="AXN ARG/CHI" tvg-logo="https://i.ibb.co/5jBfMj7/axn.png" group-title="CINE Y SERIES",AXN HD
-http://190.11.130.46/mnp/axn/output.mpd
+http://201.159.113.219:49000/play/a04f/index.m3u8
 
 #EXTINF:-1 tvg-id="210dtv.cl" tvg-name="AMC" tvg-logo="https://i.ibb.co/ncDh80L/amc.png" group-title="CINE Y SERIES",AMC HD
-http://190.11.130.46/mnp/amc/output.mpd
+http://38.56.109.19/play/a01d/index.m3u8
 
 #EXTINF:-1 tvg-id="507dtv.co" tvg-name="Cinecanal (COL)" tvg-logo="https://i.ibb.co/tYK9Prg/cinecanal.png" group-title="CINE Y SERIES",CINECANAL HD
-http://190.11.130.46/mnp/cinecanal/output.mpd
+http://201.159.113.219:49000/play/a03i/index.m3u8
 
 #EXTINF:-1 tvg-id="507dtv.co" tvg-name="Cinecanal (COL)" tvg-logo="https://i.ibb.co/tYK9Prg/cinecanal.png" group-title="CINE Y SERIES",CINECANAL HD (2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -151,7 +151,7 @@ http://190.11.130.46/mnp/cinecanal/output.mpd
 https://cdn-live.mundogo.cl/cinecanalhd/cinecanalhd.mpd
 
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="Cinemax CHI/COL/ECU/PER" tvg-logo="https://i.ibb.co/72RBXLk/cinemax.png" group-title="CINE Y SERIES",CINEMAX HD
-http://190.11.130.46/mnp/cinemax/output.mpd
+http://38.56.109.19/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-id="1524dtv.co" tvg-name="HBO AR/CO/EC/PE" tvg-logo="https://i.ibb.co/xfmMRRY/6142369c8f67e63df4b248bb-hbopremium.png" group-title="CINE Y SERIES",HBO HD
 http://190.11.130.46/mnp/hbo/output.mpd
