@@ -313,13 +313,13 @@ http://190.11.130.46/mnp/tooncast/output.mpd
 
 ----------MUSICA----------
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSICA",HTV
 http://190.11.130.46/mnp/htv/output.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSICA",MTV
 http://190.11.130.46/mnp/mtv/output.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MTV HITS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSICA",MTV HITS
 http://190.11.130.46/mnp/mtv_hits/output.mpd
 
 
