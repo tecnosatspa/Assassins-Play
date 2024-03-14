@@ -78,6 +78,9 @@ https://cdn-live.mundogo.cl/espn2/espn2.mpd
 #EXTINF:-1 tvg-id="431dtv.cl" tvg-name="ESPN 2 Chile" tvg-logo="https://i.ibb.co/LzVBL3t/espn-2.png" group-title="DEPORTES",ESPN 2 HD (2)
 http://190.11.130.46/mnp/espn2/output.mpd
 
+#EXTINF:-1 tvg-id="431dtv.cl" tvg-name="ESPN 2 Chile" tvg-logo="https://i.ibb.co/LzVBL3t/espn-2.png" group-title="DEPORTES",ESPN 2 HD (3)
+http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
+
 #EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 3 Andina" tvg-logo="https://i.ibb.co/P6PNRg0/espn-3.png" group-title="DEPORTES",ESPN 3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E0piombH8SyZGHBHK9bKqg", "kid":"f3sW+4VIU0WEkgDBeO5txA" },{ "kty":"oct", "k":"FE2UtV7Nnc/t/0niCdb+ow", "kid":"PH56/q6eVriN7szAbtdFcw" },{ "kty":"oct", "k":"PQbApCxcCr3AtSnVb7iNQw", "kid":"UsazpgNeX2KFgw/LL5GhQA" } ], "type":"temporary" }
@@ -123,6 +126,12 @@ http://190.11.130.46/mnp/fox_sport3/output.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MQrvhoM8JmlsH2aCk0Uwzg", "kid":"HGcfIC8DX8aCleKFRA4fBg" },{ "kty":"oct", "k":"rzBjcCC9gGUO96x6V/BUBQ", "kid":"MmnMH/3IVtOdbSesquucVw" },{ "kty":"oct", "k":"qunyrZDV0p20MUWGr5tBTw", "kid":"mMCh+w1CX4i/4cKtCYV1rg" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/tycsports/tycsports.mpd
 
+#EXTINF:-1 tvg-id="3081dtv.cl" tvg-name="" tvg-logo="" group-title="DEPORTES",GOLTV HD
+http://livex.pop-app.live/s4n/poplive/ch552/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3081dtv.cl" tvg-name="" tvg-logo="" group-title="DEPORTES",WIN SPORTS PLUS HD
+http://livex.pop-app.live/s4n/poplive/ch562/playlist.m3u8
+
 #EXTINF:-1 tvg-id="", tvg-logo="" group-title="DEPORTES",PARAMOUNT+ SPORTS HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -136,11 +145,20 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist_1024x576.m3
 #EXTINF:-1 tvg-id="207dtv.cl" tvg-name="AE (ARG/CHI/COL/PER)" tvg-logo="https://i.ibb.co/Ld3vtST/a-e.png" group-title="CINE Y SERIES",A&E HD
 http://38.56.109.19/play/a01b/index.m3u8
 
+#EXTINF:-1 tvg-id="207dtv.cl" tvg-name="AE (ARG/CHI/COL/PER)" tvg-logo="https://i.ibb.co/Ld3vtST/a-e.png" group-title="CINE Y SERIES",A&E HD (2)
+http://190.11.130.46/mnp/ae/output.mpd
+
 #EXTINF:-1 tvg-id="209dtv.cl" tvg-name="AXN ARG/CHI" tvg-logo="https://i.ibb.co/5jBfMj7/axn.png" group-title="CINE Y SERIES",AXN HD
 http://201.159.113.219:49000/play/a04f/index.m3u8
 
+#EXTINF:-1 tvg-id="209dtv.cl" tvg-name="AXN ARG/CHI" tvg-logo="https://i.ibb.co/5jBfMj7/axn.png" group-title="CINE Y SERIES",AXN HD (2)
+http://190.11.130.46/mnp/axn/output.mpd
+
 #EXTINF:-1 tvg-id="210dtv.cl" tvg-name="AMC" tvg-logo="https://i.ibb.co/ncDh80L/amc.png" group-title="CINE Y SERIES",AMC HD
 http://38.56.109.19/play/a01d/index.m3u8
+
+#EXTINF:-1 tvg-id="210dtv.cl" tvg-name="AMC" tvg-logo="https://i.ibb.co/ncDh80L/amc.png" group-title="CINE Y SERIES",AMC HD (2)
+http://190.11.130.46/mnp/amc/output.mpd
 
 #EXTINF:-1 tvg-id="507dtv.co" tvg-name="Cinecanal (COL)" tvg-logo="https://i.ibb.co/tYK9Prg/cinecanal.png" group-title="CINE Y SERIES",CINECANAL HD
 http://201.159.113.219:49000/play/a03i/index.m3u8
@@ -150,8 +168,14 @@ http://201.159.113.219:49000/play/a03i/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N8gpQaiNf/+5ILKiXgKXDQ", "kid":"84wOHCBwU0Klw7cU+lrjhQ" },{ "kty":"oct", "k":"pAsZpSC2uHkjR0Z9VdBRcA", "kid":"qhPnvGwrWhuSpXgHKWxUAQ" },{ "kty":"oct", "k":"dLv2md2qzzeXdFNwYiiezw", "kid":"6u/OgO5/WnKkb6DrU94RfQ" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/cinecanalhd/cinecanalhd.mpd
 
+#EXTINF:-1 tvg-id="507dtv.co" tvg-name="Cinecanal (COL)" tvg-logo="https://i.ibb.co/tYK9Prg/cinecanal.png" group-title="CINE Y SERIES",CINECANAL HD (3)
+http://190.11.130.46/mnp/cinecanal/output.mpd
+
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="Cinemax CHI/COL/ECU/PER" tvg-logo="https://i.ibb.co/72RBXLk/cinemax.png" group-title="CINE Y SERIES",CINEMAX HD
 http://38.56.109.19/play/a01j/index.m3u8
+
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="Cinemax CHI/COL/ECU/PER" tvg-logo="https://i.ibb.co/72RBXLk/cinemax.png" group-title="CINE Y SERIES",CINEMAX HD
+http://190.11.130.46/mnp/cinemax/output.mpd
 
 #EXTINF:-1 tvg-id="1524dtv.co" tvg-name="HBO AR/CO/EC/PE" tvg-logo="https://i.ibb.co/xfmMRRY/6142369c8f67e63df4b248bb-hbopremium.png" group-title="CINE Y SERIES",HBO HD
 http://45.160.12.253:8000/play/017
@@ -162,6 +186,9 @@ http://38.43.140.97:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="hbo-family.mx" tvg-name="MX | HBO Family" tvg-logo="https://i.ibb.co/q7NKc9t/hbo-family.png" group-title="CINE Y SERIES",HBO FAMILY HD
 http://45.160.12.253:8000/play/018
 
+#EXTINF:-1 tvg-id="hbo-family.mx" tvg-name="MX | HBO Family" tvg-logo="https://i.ibb.co/q7NKc9t/hbo-family.png" group-title="CINE Y SERIES",HBO FAMILY HD (2)
+http://livex.pop-app.live/s4n/poplive/ch511/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS" tvg-logo="https://i.ibb.co/z8C20TC/hbo-plus.png" group-title="CINE Y SERIES",HBO+ HD
 http://190.11.130.46/mnp/hboplus/output.mpd
 
@@ -169,7 +196,7 @@ http://190.11.130.46/mnp/hboplus/output.mpd
 http://38.41.8.1:8000/play/a00d
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/LNmHbQH/hbo-signature.png" group-title="CINE Y SERIES",HBO SIGNATURE HD
-http://190.11.130.46/mnp/hbosig/output.mpd
+http://livex.pop-app.live/s4n/poplive/ch517/playlist.m3u8
 
 #EXTINF:-1 tvg-id="542dtv.cl" tvg-name="HBO Xtreme" tvg-logo="https://i.ibb.co/LNfZmpK/hbo-extreme.png" group-title="CINE Y SERIES",HBO XTREME HD
 http://45.160.12.253:8000/play/020
@@ -251,13 +278,16 @@ http://190.11.130.46/mnp/universal/output.mpd
 
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/Y333Xbq/cartoon-network.png" group-title="INFANTILES",CARTOON NETWORK HD
-http://45.232.210.1:47000/play/a05i
+http://190.11.130.46/mnp/cartoon/output.mpd
+
+#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="CARTOONITO" tvg-logo="" group-title="INFANTILES",CARTOONITO HD
+http://livex.pop-app.live/s4n/poplive/ch545/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/PtKd97J/discovery-kids.png" group-title="INFANTILES",DISCOVERY KIDS HD
-http://45.232.210.1:47000/play/a0ak
+http://38.41.8.1:8000/play/a016
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/Lk9TH8f/disney-channel.png" group-title="INFANTILES",DISNEY CHANNEL HD
-http://45.232.210.1:47000/play/disneyhd
+http://190.11.130.46/mnp/disney/output.mpd
 
 #EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="DISNEY JUNIOR" tvg-logo="https://i.ibb.co/MSXFY3T/disney-jr.png" group-title="INFANTILES",DISNEY JR HD
 http://190.11.130.46/mnp/disneyjr/output.mpd
@@ -357,10 +387,8 @@ http://45.232.210.1:47000/play/a06b
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CULTURA Y ENTRETENIMIENTO",H2 HD
 http://45.232.210.1:47000/play/a0e4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/investigation_discovery_latinoamerica-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",INVESTIGATION DISCOVERY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"f8O3vyUcHuS9YrKci6XXUQ", "kid":"OvZBjT+/Vga6IZVRac6cmQ" },{ "kty":"oct", "k":"lTb4oeFeUgFLQo9OZpfYqQ", "kid":"YH30d9IOXoGt6BjaRggeSw" },{ "kty":"oct", "k":"UDhr/xWQ9JTS8xqGOr1sAQ", "kid":"EDtxHa7rX7m2NmXbkPW6mg" } ], "type":"temporary" }
-https://cdn-live.mundogo.cl/iddiscovery/iddiscovery.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/investigation_discovery_latinoamerica-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",DISCOVERY ID HD
+http://livex.pop-app.live/s4n/poplive/ch525/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_science-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",DISCOVERY SCIENCE
 http://190.11.130.46/mnp/dsc_sci/output.mpd
@@ -370,6 +398,9 @@ http://45.232.210.1:47000/play/a0am
 
 #EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",DISCOVERY TURBO
 http://190.11.130.46/mnp/dsc_turbo/output.mpd
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",DISCOVERY TURBO (2)
+http://livex.pop-app.live/s4n/poplive/ch556/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_world-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",DISCOVERY WORLD
 http://45.232.210.1:47000/play/a05b
@@ -403,8 +434,11 @@ https://cdn-live.mundogo.cl/maschic/maschic.mpd
 #EXTINF:-1 tvg-id="NationalGeographic.ar" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/national_geographic_latinoamerica-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",NATIONAL GEOGRAPHIC
 http://45.232.210.1:47000/play/a05a
 
-#EXTINF:-1 tvg-id="TLC.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",TLC
-http://190.11.130.46/mnp/dsc_tlc/output.mpd
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",TLC HD
+http://190.11.130.46/mnp/dsc_tlc/output.
+
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",TLC HD (2)
+http://livex.pop-app.live/s4n/poplive/ch527/playlist.m3u8
 
 
 ----------PELICULAS----------
