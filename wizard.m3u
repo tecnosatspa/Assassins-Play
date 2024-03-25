@@ -48,10 +48,10 @@ https://mdstrm.com/live-stream-playlist-v/57d1a22064f5d85712b20dab.m3u8
 ----------DEPORTES----------
 
 
-#EXTINF:-1 tvg-id="TNT Sports HD" tvg-name="TNT Sports HD" tvg-logo="https://i.ibb.co/R4VLN8f/tnt-sports.png" group-title="DEPORTES",TNT SPORTS HD | ⚽
-http://45.160.12.253:8000/play/233
+#EXTINF:-1 tvg-id="TNT Sports HD" tvg-name="TNT Sports HD" tvg-logo="https://i.ibb.co/R4VLN8f/tnt-sports.png" group-title="DEPORTES",TNT SPORTS PREMIUM HD | ⚽
+http://181.78.208.237:8000/play/a00a/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT Sports 3 HD" tvg-name="TNT Sports 3 HD" tvg-logo="https://i.ibb.co/W0gsj6w/tnt-sports-3.png" group-title="DEPORTES",TNT SPORTS 3 HD
+#EXTINF:-1 tvg-id="TNT Sports 3 HD" tvg-name="TNT Sports 3 HD" tvg-logo="https://i.ibb.co/W0gsj6w/tnt-sports-3.png" group-title="DEPORTES",TNT SPORTS BASICO HD
 http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 3 Andina" tvg-logo="https://i.ibb.co/RSj4jMk/espn-4.png" group-title="DEPORTES",ESPN PREMIUM HD
@@ -486,12 +486,6 @@ http://144.217.70.79/VODS-M/1080P/What%20Dreams%20May%20Come%201998.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/4423/posters/641bb1c26a49c.jpg" group-title="Terror",La Llave Mastra (2005)
 http://144.217.70.79/VODS-M/1080P/The%20Skeleton%20Key%202005.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/105875/posters/651176c57c557.jpg" group-title="Acción/Terror",Resident Evil 4: Ultratumba (2010)
-http://144.217.70.79/VODS-M/1080P/Resident%20evil%20afterlife%202010.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/movies/2068/posters/2068.jpg" group-title="Crimen",The Lovely Bones (2009)
-http://144.217.70.79/VODS-M/1080P/The%20Lovely%20Bones%202009.mkv
 
 ----------COMEDIA----------
 
