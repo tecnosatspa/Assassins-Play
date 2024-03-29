@@ -171,8 +171,8 @@ http://190.11.130.46/mnp/cinecanal/output.mpd
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="Cinemax CHI/COL/ECU/PER" tvg-logo="https://i.ibb.co/72RBXLk/cinemax.png" group-title="CINE Y SERIES",CINEMAX HD
 http://38.56.109.19/play/a01j/index.m3u8
 
-#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="Cinemax CHI/COL/ECU/PER" tvg-logo="https://i.ibb.co/72RBXLk/cinemax.png" group-title="CINE Y SERIES",CINEMAX HD
-http://190.11.130.46/mnp/cinemax/output.mpd
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="Cinemax CHI/COL/ECU/PER" tvg-logo="https://i.ibb.co/72RBXLk/cinemax.png" group-title="CINE Y SERIES",CINEMAX HD (2)
+http://8.242.175.221:8000/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-id="1524dtv.co" tvg-name="HBO AR/CO/EC/PE" tvg-logo="https://i.ibb.co/xfmMRRY/6142369c8f67e63df4b248bb-hbopremium.png" group-title="CINE Y SERIES",HBO HD
 http://8.242.175.221:8000/play/a01j/index.m3u8
