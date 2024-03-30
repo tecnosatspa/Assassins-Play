@@ -73,20 +73,20 @@ https://cdn-live.mundogo.cl/espn/espn.mpd
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-name="ESPN Chile" tvg-logo="https://i.ibb.co/k5WgfJ1/espn.png" group-title="DEPORTES",ESPN HD (2)
 http://190.11.130.46/mnp/espn/output.mpd
 
-#EXTINF:-1 tvg-id="431dtv.cl" tvg-name="ESPN 2 Chile" tvg-logo="https://i.ibb.co/LzVBL3t/espn-2.png" group-title="DEPORTES",ESPN 2 HD
+#EXTINF:-1 tvg-id="431dtv.cl" tvg-name="ESPN 2 Chile" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383310_007CE9E18A928D1C.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES",ESPN 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MBX9udpV3rVx2xQd2eaniA", "kid":"SnkFDrcQVyu8PPp1cGwUEQ" },{ "kty":"oct", "k":"PzMAJnCPwv3RovDiPO59BA", "kid":"br92QVgVVlixp2XC2Gg10w" },{ "kty":"oct", "k":"QsOr676t6NPMryh32xYvcw", "kid":"iIYJ/A2FUfO3jMAY/mby/g" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/espn2/espn2.mpd
 
-#EXTINF:-1 tvg-id="431dtv.cl" tvg-name="ESPN 2 Chile" tvg-logo="https://i.ibb.co/LzVBL3t/espn-2.png" group-title="DEPORTES",ESPN 2 HD (2)
+#EXTINF:-1 tvg-id="431dtv.cl" tvg-name="ESPN 2 Chile" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383310_007CE9E18A928D1C.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES",ESPN 2 HD (2)
 http://190.11.130.46/mnp/espn2/output.mpd
 
-#EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 3 Andina" tvg-logo="https://i.ibb.co/P6PNRg0/espn-3.png" group-title="DEPORTES",ESPN 3 HD
+#EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 3 Andina" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383311_78D38321059792D4.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES",ESPN 3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E0piombH8SyZGHBHK9bKqg", "kid":"f3sW+4VIU0WEkgDBeO5txA" },{ "kty":"oct", "k":"FE2UtV7Nnc/t/0niCdb+ow", "kid":"PH56/q6eVriN7szAbtdFcw" },{ "kty":"oct", "k":"PQbApCxcCr3AtSnVb7iNQw", "kid":"UsazpgNeX2KFgw/LL5GhQA" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/espn3/espn3.mpd
 
-#EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 3 Andina" tvg-logo="https://i.ibb.co/P6PNRg0/espn-3.png" group-title="DEPORTES",ESPN 3 HD (2)
+#EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 3 Andina" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383311_78D38321059792D4.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES",ESPN 3 HD (2)
 http://190.11.130.46/mnp/espn3/output.mpd
 
 #EXTINF:-1 tvg-id="1620dtv.cl" tvg-name="ESPN Extra" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea10%2FIMAGES%2F00%2F10%2F11%2F10113696_046392A4A17B42D1.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES",ESPN 4 HD
