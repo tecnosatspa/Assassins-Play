@@ -323,31 +323,31 @@ http://38.41.8.1:8000/play/a023
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f68fd4f95a227b0784fc_discovery.png" group-title="CULTURA Y ENTRETENIMIENTO",DISCOVERY CHANNEL
 http://190.11.130.46/mnp/discovery/output.mpd
 
-#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",DISCOVERY HOME & HEALT
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6924cdade706debff8d_homeandhealth.png" group-title="CULTURA Y ENTRETENIMIENTO",DISCOVERY HOME & HEALT
 http://38.41.8.1:8000/play/a017
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CULTURA Y ENTRETENIMIENTO",HISTORY HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6ef87c631c4151f86e1_history.png" group-title="CULTURA Y ENTRETENIMIENTO",HISTORY HD
 http://190.11.130.46/mnp/history/output.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CULTURA Y ENTRETENIMIENTO",H2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6f043296a22b34ea237_h2.png" group-title="CULTURA Y ENTRETENIMIENTO",H2 HD
 http://190.11.130.46/mnp/h2/output.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/investigation_discovery_latinoamerica-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",DISCOVERY ID HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6b54c6c7c38bc2c1c5f_investigation.png" group-title="CULTURA Y ENTRETENIMIENTO",DISCOVERY ID HD
 http://livex.pop-app.live/s4n/poplive/ch525/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_science-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6d3f8210c81d196647b_d-science.png" group-title="CULTURA Y ENTRETENIMIENTO",DISCOVERY SCIENCE HD
 http://190.11.130.46/mnp/dsc_sci/output.mpd
 
-#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_theater-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",DISCOVERY THEATER
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="" tvg-logo=https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6d5f9d1a5dbc14cfc5e_d-theater.png" group-title="CULTURA Y ENTRETENIMIENTO",DISCOVERY THEATER HD
 http://38.41.8.1:8000/play/a018
 
-#EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",DISCOVERY TURBO
+#EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6949d391879f262fe42_turbo.png" group-title="CULTURA Y ENTRETENIMIENTO",DISCOVERY TURBO HD
 http://190.11.130.46/mnp/dsc_turbo/output.mpd
 
-#EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",DISCOVERY TURBO (2)
+#EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6949d391879f262fe42_turbo.png" group-title="CULTURA Y ENTRETENIMIENTO",DISCOVERY TURBO HD (2)
 http://livex.pop-app.live/s4n/poplive/ch556/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_world-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",DISCOVERY WORLD
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6d241ede080ce187953_d-world1.png" group-title="CULTURA Y ENTRETENIMIENTO",DISCOVERY WORLD HD
 http://201.35.250.148:8001/play/a057
 
 #EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",EL GOURMET
