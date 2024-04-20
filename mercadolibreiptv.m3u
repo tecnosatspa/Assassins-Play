@@ -52,7 +52,7 @@ https://mdstrm.com/live-stream-playlist-v/57d1a22064f5d85712b20dab.m3u8
 http://161.132.194.88:6178/play/a0x8/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports HD" tvg-name="TNT Sports HD" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F56%2F18567794_A2C66547B8F06760.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES",TNT SPORTS PREMIUM HD (2) | ⚽
-http://8.242.175.221:8000/play/a03r/index.m3u8
+http://177.234.247.66:8888/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports 3 HD" tvg-name="TNT Sports 3 HD" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F56%2F18567644_ADF5CAEC23404D54.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES",TNT SPORTS BASICO HD
 http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -127,19 +127,19 @@ https://cdn-live.mundogo.cl/cinecanalhd/cinecanalhd.mpd
 http://161.132.194.88:6178/play/a0wl/index.m3u8
 
 #EXTINF:-1 tvg-id="1524dtv.co" tvg-name="HBO AR/CO/EC/PE" tvg-logo="https://i.ibb.co/xfmMRRY/6142369c8f67e63df4b248bb-hbopremium.png" group-title="CINE Y SERIES",HBO HD
-http://8.242.175.221:8000/play/a01j/index.m3u8
+http://181.115.69.117:8000/play/a010/index.m3u8
 
 #EXTINF:-1 tvg-id="525dtv.cl" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/Rhmnzgk/hbo-2.png" group-title="CINE Y SERIES",HBO 2 HD
-http://8.242.175.221:8000/play/a01p/index.m3u8
+http://179.1.146.21:8000/play/a031/index.m3u8
 
 #EXTINF:-1 tvg-id="hbo-family.mx" tvg-name="MX | HBO Family" tvg-logo="https://i.ibb.co/q7NKc9t/hbo-family.png" group-title="CINE Y SERIES",HBO FAMILY HD
-http://8.242.175.221:8000/play/a02w/index.m3u8
+http://179.1.146.21:8000/play/a070/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/Lk0vJ32/hbo-pop.png" group-title="CINE Y SERIES",HBO POP HD
 http://38.41.8.1:8000/play/a00d
 
 #EXTINF:-1 tvg-id="542dtv.cl" tvg-name="HBO Xtreme" tvg-logo="https://i.ibb.co/LNfZmpK/hbo-extreme.png" group-title="CINE Y SERIES",HBO XTREME HD
-http://8.242.175.221:8000/play/a02x/index.m3u8
+http://179.1.146.21:8000/play/a071/index.m3u8
 
 #EXTINF:-1 tvg-id="de-pelicula.mx" tvg-name="MX | De Película" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula-mediano.png" group-title="CINE Y SERIES",DE PELICULA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -159,13 +159,19 @@ http://161.132.194.88:6178/play/a0wk/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"cDkN+a6yWAa9tnR3jN+fVA", "kid":"JplkkYjlX0GoRiyRseu/pw" },{ "kty":"oct", "k":"mG5rEj9KF0RmbubQaKKPLw", "kid":"ID+Rdx2KUriHsRC90sMJSQ" },{ "kty":"oct", "k":"pATR9JfxWeTrOuUsETf12Q", "kid":"lGSO+ISZXc+1r+H8Eika5A" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/paramount/paramount.mpd
 
-#EXTINF:-1 tvg-id="Space.mx" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6b3a567a9c9259721e3_space.png" group-title="CINE Y SERIES",SPACE HD (2)
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6b3a567a9c9259721e3_space.png" group-title="CINE Y SERIES",SPACE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2u1TmSL54q3RcBApP9o8Ng", "kid":"huZL+YW/WiqLSNseTQ+GDA" },{ "kty":"oct", "k":"WoNKyh0J0S0dVltzuGFsAw", "kid":"EjEoWXhpUrWUeu41+doVrw" },{ "kty":"oct", "k":"YK+CBHd0BiDx5i/MQH333w", "kid":"NkGjl+bnX06HeQ0dZsX3Pg" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/spacehd/spacehd.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6e153054c65152bddd6_sony.png" group-title="CINE Y SERIES",SONY CHANNEL HD
+http://179.1.201.133:54986/play/a06o/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e5a17d1ffff3784898822_sonymovies.png" group-title="CINE Y SERIES",SONY MOVIES HD
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6ec41419dee076dce6e_suc.png" group-title="CINE Y SERIES",STUDIO UNIVERSAL HD
+http://181.115.69.117:8000/play/a0cb/index.m3u8
 
 #EXTINF:-1 tvg-id="202dtv.cl" tvg-name="STAR Channel CHI" tvg-logo="https://i.ibb.co/kBS1sFh/star-channel.png" group-title="CINE Y SERIES",STAR CHANNEL HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -185,7 +191,7 @@ https://cdn-live.mundogo.cl/tnthd/tnthd.mpd
 http://161.132.194.88:6178/play/a0pn/index.m3u8
 
 #EXTINF:-1 tvg-id="CARTOONITO" tvg-name="CARTOONITO" tvg-logo="" group-title="INFANTILES",CARTOONITO HD
-http://161.132.194.88:6178/play/a0w3/index.m3u8
+http://179.1.201.133:54986/play/a05t/index.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/PtKd97J/discovery-kids.png" group-title="INFANTILES",DISCOVERY KIDS HD
 http://38.41.8.1:8000/play/a016
