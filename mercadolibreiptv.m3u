@@ -245,10 +245,10 @@ http://161.132.194.88:6178/play/a02h/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6d241ede080ce187953_d-world1.png" group-title="CULTURA Y ENTRETENIMIENTO",DISCOVERY WORLD HD
 http://161.132.194.88:6178/play/a0sv/index.m3u8
 
-#EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",EL GOURMET HD
+#EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f68bb5e4ea711e0b73e7_elgourmet.png" group-title="CULTURA Y ENTRETENIMIENTO",EL GOURMET HD
 http://161.132.194.88:6178/play/a0sm/index.m3u8
 
-#EXTINF:-1 tvg-id="FoodNetwork.mx" tvg-name="" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/233.png" group-title="CULTURA Y ENTRETENIMIENTO",FOOD NETWORK HD
+#EXTINF:-1 tvg-id="FoodNetwork.mx" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f69af8210c7c02966209_food.png" group-title="CULTURA Y ENTRETENIMIENTO",FOOD NETWORK HD
 http://161.132.194.88:6178/play/a0t6/index.m3u8
 
 #EXTINF:-1 tvg-id="Glitz.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/glitz-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",GLITZ HD
@@ -256,22 +256,22 @@ http://161.132.194.88:6178/play/a0t6/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"cwszW8wsAY1RURHx9vjj1Q", "kid":"8l+HXhoRW6mgZYHx6F4V1g" },{ "kty":"oct", "k":"5p3u3wpCCGWZoVlOQy6LNg", "kid":"WSusN3ikX7S3tpFwp9Wjjg" },{ "kty":"oct", "k":"+IGN2XYE/dwI+uxBNmT2Gg", "kid":"u7OixdZYUxqqv1vcqbUq0g" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/glitz/glitz.mpd
 
-#EXTINF:-1 tvg-id="HOLATV.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",HOLA TV HD
+#EXTINF:-1 tvg-id="HOLATV.mx" tvg-name="" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F40%2F6402338_F2F85E917E131706.png&height=60&resize=RATIO&format=PNG" group-title="CULTURA Y ENTRETENIMIENTO",HOLA TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RXNtzRgSh6G1vO7gIhzHwQ", "kid":"e9kxLeGYVn26dbDqSGxHiA" },{ "kty":"oct", "k":"H29L6rw3UoQogAfJNr5RmQ", "kid":"O0SxWg+EXP+F9q6LQVdf0g" },{ "kty":"oct", "k":"36eZz+Ixq2hAbs5E8/HleA", "kid":"nVTyrVy3USOR8nkBna3hVg" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/holatv/holatv.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_lovenature.jpg" group-title="CULTURA Y ENTRETENIMIENTO",LOVE NATURE HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F10%2F72%2F10720073_2BE1E7E58BC07C71.png&height=60&resize=RATIO&format=PNG" group-title="CULTURA Y ENTRETENIMIENTO",LOVE NATURE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fJyKwtjY4LqThTtWPbmWvw", "kid":"HhfJV9LUWSGxXBHy94C/Gg" },{ "kty":"oct", "k":"ztUIqbiVCUpIwI9Uvt5rPA", "kid":"pEWA0zEXVKac06xa4r959g" },{ "kty":"oct", "k":"7vo4my9NTgik1IBWvFWjSQ", "kid":"1QGEm43jX6mZWW7dB73yoA" } ], "type":"temporary" }
 https://tvup-ccp-live.secure2.footprint.net/lovenature/lovenature.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mas_chic-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",MAS CHIC HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f68c41ede02cb91875fe_maschic.png" group-title="CULTURA Y ENTRETENIMIENTO",MAS CHIC HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NnRZqUlwlsmYnoJw1WwxsQ", "kid":"KdTXggDEWcmkKEn9/NsGIw" },{ "kty":"oct", "k":"uut+03wV//DyQkxvzHIaWA", "kid":"znL93zS+UNynBWblz7+k0Q" },{ "kty":"oct", "k":"1gfxBltff4uj2XWcdDjL1g", "kid":"yuyECKdIVQqX0H5g+Oa4Bg" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/maschic/maschic.mpd
 
-#EXTINF:-1 tvg-id="TLC.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",TLC HD
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f693d4f95adf0c078506_tlc.png" group-title="CULTURA Y ENTRETENIMIENTO",TLC HD
 http://livex.pop-app.live/s4n/poplive/ch527/playlist.m3u8
 
 
