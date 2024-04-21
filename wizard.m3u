@@ -52,7 +52,7 @@ https://mdstrm.com/live-stream-playlist-v/57d1a22064f5d85712b20dab.m3u8
 http://161.132.194.88:6178/play/a0x8/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports HD" tvg-name="TNT Sports HD" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F56%2F18567794_A2C66547B8F06760.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES",TNT SPORTS PREMIUM HD (2) | ⚽
-http://8.242.175.221:8000/play/a03r/index.m3u8
+http://177.234.247.66:8888/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports 3 HD" tvg-name="TNT Sports 3 HD" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F56%2F18567644_ADF5CAEC23404D54.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES",TNT SPORTS BASICO HD
 http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -127,19 +127,19 @@ https://cdn-live.mundogo.cl/cinecanalhd/cinecanalhd.mpd
 http://161.132.194.88:6178/play/a0wl/index.m3u8
 
 #EXTINF:-1 tvg-id="1524dtv.co" tvg-name="HBO AR/CO/EC/PE" tvg-logo="https://i.ibb.co/xfmMRRY/6142369c8f67e63df4b248bb-hbopremium.png" group-title="CINE Y SERIES",HBO HD
-http://8.242.175.221:8000/play/a01j/index.m3u8
+http://181.115.69.117:8000/play/a010/index.m3u8
 
 #EXTINF:-1 tvg-id="525dtv.cl" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/Rhmnzgk/hbo-2.png" group-title="CINE Y SERIES",HBO 2 HD
-http://8.242.175.221:8000/play/a01p/index.m3u8
+http://179.1.146.21:8000/play/a031/index.m3u8
 
 #EXTINF:-1 tvg-id="hbo-family.mx" tvg-name="MX | HBO Family" tvg-logo="https://i.ibb.co/q7NKc9t/hbo-family.png" group-title="CINE Y SERIES",HBO FAMILY HD
-http://8.242.175.221:8000/play/a02w/index.m3u8
+http://179.1.146.21:8000/play/a070/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/Lk0vJ32/hbo-pop.png" group-title="CINE Y SERIES",HBO POP HD
 http://38.41.8.1:8000/play/a00d
 
 #EXTINF:-1 tvg-id="542dtv.cl" tvg-name="HBO Xtreme" tvg-logo="https://i.ibb.co/LNfZmpK/hbo-extreme.png" group-title="CINE Y SERIES",HBO XTREME HD
-http://8.242.175.221:8000/play/a02x/index.m3u8
+http://179.1.146.21:8000/play/a071/index.m3u8
 
 #EXTINF:-1 tvg-id="de-pelicula.mx" tvg-name="MX | De Película" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula-mediano.png" group-title="CINE Y SERIES",DE PELICULA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -159,13 +159,19 @@ http://161.132.194.88:6178/play/a0wk/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"cDkN+a6yWAa9tnR3jN+fVA", "kid":"JplkkYjlX0GoRiyRseu/pw" },{ "kty":"oct", "k":"mG5rEj9KF0RmbubQaKKPLw", "kid":"ID+Rdx2KUriHsRC90sMJSQ" },{ "kty":"oct", "k":"pATR9JfxWeTrOuUsETf12Q", "kid":"lGSO+ISZXc+1r+H8Eika5A" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/paramount/paramount.mpd
 
-#EXTINF:-1 tvg-id="Space.mx" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6b3a567a9c9259721e3_space.png" group-title="CINE Y SERIES",SPACE HD (2)
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6b3a567a9c9259721e3_space.png" group-title="CINE Y SERIES",SPACE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2u1TmSL54q3RcBApP9o8Ng", "kid":"huZL+YW/WiqLSNseTQ+GDA" },{ "kty":"oct", "k":"WoNKyh0J0S0dVltzuGFsAw", "kid":"EjEoWXhpUrWUeu41+doVrw" },{ "kty":"oct", "k":"YK+CBHd0BiDx5i/MQH333w", "kid":"NkGjl+bnX06HeQ0dZsX3Pg" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/spacehd/spacehd.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6e153054c65152bddd6_sony.png" group-title="CINE Y SERIES",SONY CHANNEL HD
+http://179.1.201.133:54986/play/a06o/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e5a17d1ffff3784898822_sonymovies.png" group-title="CINE Y SERIES",SONY MOVIES HD
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6ec41419dee076dce6e_suc.png" group-title="CINE Y SERIES",STUDIO UNIVERSAL HD
+http://181.115.69.117:8000/play/a0cb/index.m3u8
 
 #EXTINF:-1 tvg-id="202dtv.cl" tvg-name="STAR Channel CHI" tvg-logo="https://i.ibb.co/kBS1sFh/star-channel.png" group-title="CINE Y SERIES",STAR CHANNEL HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -184,8 +190,8 @@ https://cdn-live.mundogo.cl/tnthd/tnthd.mpd
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/Y333Xbq/cartoon-network.png" group-title="INFANTILES",CARTOON NETWORK HD
 http://161.132.194.88:6178/play/a0pn/index.m3u8
 
-#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="CARTOONITO" tvg-logo="" group-title="INFANTILES",CARTOONITO HD
-http://161.132.194.88:6178/play/a0w3/index.m3u8
+#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="CARTOONITO" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e565f63c36e257bfbef92_cartoonito.png" group-title="INFANTILES",CARTOONITO HD
+http://177.93.48.30:8552/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/PtKd97J/discovery-kids.png" group-title="INFANTILES",DISCOVERY KIDS HD
 http://38.41.8.1:8000/play/a016
@@ -239,10 +245,10 @@ http://161.132.194.88:6178/play/a02h/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6d241ede080ce187953_d-world1.png" group-title="CULTURA Y ENTRETENIMIENTO",DISCOVERY WORLD HD
 http://161.132.194.88:6178/play/a0sv/index.m3u8
 
-#EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",EL GOURMET HD
+#EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f68bb5e4ea711e0b73e7_elgourmet.png" group-title="CULTURA Y ENTRETENIMIENTO",EL GOURMET HD
 http://161.132.194.88:6178/play/a0sm/index.m3u8
 
-#EXTINF:-1 tvg-id="FoodNetwork.mx" tvg-name="" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/233.png" group-title="CULTURA Y ENTRETENIMIENTO",FOOD NETWORK HD
+#EXTINF:-1 tvg-id="FoodNetwork.mx" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f69af8210c7c02966209_food.png" group-title="CULTURA Y ENTRETENIMIENTO",FOOD NETWORK HD
 http://161.132.194.88:6178/play/a0t6/index.m3u8
 
 #EXTINF:-1 tvg-id="Glitz.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/glitz-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",GLITZ HD
@@ -250,22 +256,22 @@ http://161.132.194.88:6178/play/a0t6/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"cwszW8wsAY1RURHx9vjj1Q", "kid":"8l+HXhoRW6mgZYHx6F4V1g" },{ "kty":"oct", "k":"5p3u3wpCCGWZoVlOQy6LNg", "kid":"WSusN3ikX7S3tpFwp9Wjjg" },{ "kty":"oct", "k":"+IGN2XYE/dwI+uxBNmT2Gg", "kid":"u7OixdZYUxqqv1vcqbUq0g" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/glitz/glitz.mpd
 
-#EXTINF:-1 tvg-id="HOLATV.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",HOLA TV HD
+#EXTINF:-1 tvg-id="HOLATV.mx" tvg-name="" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F40%2F6402338_F2F85E917E131706.png&height=60&resize=RATIO&format=PNG" group-title="CULTURA Y ENTRETENIMIENTO",HOLA TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RXNtzRgSh6G1vO7gIhzHwQ", "kid":"e9kxLeGYVn26dbDqSGxHiA" },{ "kty":"oct", "k":"H29L6rw3UoQogAfJNr5RmQ", "kid":"O0SxWg+EXP+F9q6LQVdf0g" },{ "kty":"oct", "k":"36eZz+Ixq2hAbs5E8/HleA", "kid":"nVTyrVy3USOR8nkBna3hVg" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/holatv/holatv.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_lovenature.jpg" group-title="CULTURA Y ENTRETENIMIENTO",LOVE NATURE HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F10%2F72%2F10720073_2BE1E7E58BC07C71.png&height=60&resize=RATIO&format=PNG" group-title="CULTURA Y ENTRETENIMIENTO",LOVE NATURE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fJyKwtjY4LqThTtWPbmWvw", "kid":"HhfJV9LUWSGxXBHy94C/Gg" },{ "kty":"oct", "k":"ztUIqbiVCUpIwI9Uvt5rPA", "kid":"pEWA0zEXVKac06xa4r959g" },{ "kty":"oct", "k":"7vo4my9NTgik1IBWvFWjSQ", "kid":"1QGEm43jX6mZWW7dB73yoA" } ], "type":"temporary" }
 https://tvup-ccp-live.secure2.footprint.net/lovenature/lovenature.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mas_chic-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",MAS CHIC HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f68c41ede02cb91875fe_maschic.png" group-title="CULTURA Y ENTRETENIMIENTO",MAS CHIC HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NnRZqUlwlsmYnoJw1WwxsQ", "kid":"KdTXggDEWcmkKEn9/NsGIw" },{ "kty":"oct", "k":"uut+03wV//DyQkxvzHIaWA", "kid":"znL93zS+UNynBWblz7+k0Q" },{ "kty":"oct", "k":"1gfxBltff4uj2XWcdDjL1g", "kid":"yuyECKdIVQqX0H5g+Oa4Bg" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/maschic/maschic.mpd
 
-#EXTINF:-1 tvg-id="TLC.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png" group-title="CULTURA Y ENTRETENIMIENTO",TLC HD
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f693d4f95adf0c078506_tlc.png" group-title="CULTURA Y ENTRETENIMIENTO",TLC HD
 http://livex.pop-app.live/s4n/poplive/ch527/playlist.m3u8
 
 
@@ -336,6 +342,16 @@ http://144.217.70.79/VODS-M/1080P/Gods%20Not%20Dead%202014.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/3168/posters/627a37304fe04.jpg" group-title="Drama / Crimen",Diario de un Rebelde
 http://144.217.70.79/VODS-M/1080P/The%20Basketball%20Diaries%201995.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/1503/posters/644d31cf3081a.jpg" group-title="Drama / Crimen",El efecto mariposa (2004)
+http://144.217.70.79/VODS-M/1080P/The%20Butterfly%20Effect%202004.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/movies/7141/posters/7141.jpg" group-title="Drama / Crimen",El efecto mariposa II (2006)
+http://144.217.70.79/VODS-M/1080P/The%20Butterfly%20Effect%202%202006.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/4008/posters/64283aaaec759.jpg" group-title="Drama / Crimen",
+El efecto mariposa 3: Revelaciones (2009)
+http://144.217.70.79/VODS-M/1080P/The%20Butterfly%20Effect%203%20Revelations%202009.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/1095/posters/6421f07f16d51.jpg" group-title="Drama / Aventura",Un puente hacia Terabithia
 http://144.217.70.79/VODS-M/1080P/Bridge%20to%20Terabithia%202007.mkv
