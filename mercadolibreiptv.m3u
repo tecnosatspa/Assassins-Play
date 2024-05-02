@@ -135,14 +135,26 @@ http://190.119.127.236:8000/play/a01o/index.m3u8
 #EXTINF:-1 tvg-id="1524dtv.co" tvg-name="HBO AR/CO/EC/PE" tvg-logo="https://i.ibb.co/xfmMRRY/6142369c8f67e63df4b248bb-hbopremium.png" group-title="CINE Y SERIES",HBO HD
 http://181.115.69.117:8000/play/a010/index.m3u8
 
+#EXTINF:-1 tvg-id="1524dtv.co" tvg-name="HBO AR/CO/EC/PE" tvg-logo="https://i.ibb.co/xfmMRRY/6142369c8f67e63df4b248bb-hbopremium.png" group-title="CINE Y SERIES",HBO HD (2)
+http://190.119.127.236:8000/play/a00z/index.m3u8
+
+#EXTINF:-1 tvg-id="1524dtv.co" tvg-name="HBO AR/CO/EC/PE" tvg-logo="https://i.ibb.co/xfmMRRY/6142369c8f67e63df4b248bb-hbopremium.png" group-title="CINE Y SERIES",HBO HD (3)
+http://38.41.8.1:8000/play/a01u
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",HBO PLUS HD
 http://181.115.69.117:8000/play/a012/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",HBO PLUS HD (2)
+http://38.41.8.1:8000/play/a05i
 
 #EXTINF:-1 tvg-id="525dtv.cl" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/Rhmnzgk/hbo-2.png" group-title="CINE Y SERIES",HBO 2 HD
 http://190.119.127.236:8000/play/a016/index.m3u8
 
-#EXTINF:-1 tvg-id="525dtv.cl" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/Rhmnzgk/hbo-2.png" group-title="CINE Y SERIES",HBO 2 HD
+#EXTINF:-1 tvg-id="525dtv.cl" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/Rhmnzgk/hbo-2.png" group-title="CINE Y SERIES",HBO 2 HD (2)
 http://181.115.69.117:8000/play/a011/index.m3u8
+
+#EXTINF:-1 tvg-id="525dtv.cl" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/Rhmnzgk/hbo-2.png" group-title="CINE Y SERIES",HBO 2 HD (3)
+http://38.41.8.1:8000/play/a021
 
 #EXTINF:-1 tvg-id="hbo-family.mx" tvg-name="MX | HBO Family" tvg-logo="https://i.ibb.co/q7NKc9t/hbo-family.png" group-title="CINE Y SERIES",HBO FAMILY HD
 http://190.119.127.236:8000/play/a00t/index.m3u8
@@ -150,14 +162,23 @@ http://190.119.127.236:8000/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="hbo-family.mx" tvg-name="MX | HBO Family" tvg-logo="https://i.ibb.co/q7NKc9t/hbo-family.png" group-title="CINE Y SERIES",HBO FAMILY HD (2)
 http://181.115.69.117:8000/play/a013/index.m3u8
 
+#EXTINF:-1 tvg-id="hbo-family.mx" tvg-name="MX | HBO Family" tvg-logo="https://i.ibb.co/q7NKc9t/hbo-family.png" group-title="CINE Y SERIES",HBO FAMILY HD (3)
+http://38.41.8.1:8000/play/a031
+
 #EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/Lk0vJ32/hbo-pop.png" group-title="CINE Y SERIES",HBO POP HD
 http://38.41.8.1:8000/play/a00d
+
+#EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/Lk0vJ32/hbo-pop.png" group-title="CINE Y SERIES",HBO POP HD (2)
+http://190.119.127.236:8000/play/a07l/index.m3u8
 
 #EXTINF:-1 tvg-id="542dtv.cl" tvg-name="HBO Xtreme" tvg-logo="https://i.ibb.co/LNfZmpK/hbo-extreme.png" group-title="CINE Y SERIES",HBO XTREME HD
 http://190.119.127.236:8000/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-id="542dtv.cl" tvg-name="HBO Xtreme" tvg-logo="https://i.ibb.co/LNfZmpK/hbo-extreme.png" group-title="CINE Y SERIES",HBO XTREME HD (2)
 http://181.115.69.117:8000/play/a014/index.m3u8
+
+#EXTINF:-1 tvg-id="542dtv.cl" tvg-name="HBO Xtreme" tvg-logo="https://i.ibb.co/LNfZmpK/hbo-extreme.png" group-title="CINE Y SERIES",HBO XTREME HD (3)
+http://38.41.8.1:8000/play/a032
 
 #EXTINF:-1 tvg-id="de-pelicula.mx" tvg-name="MX | De Película" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula-mediano.png" group-title="CINE Y SERIES",DE PELICULA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
