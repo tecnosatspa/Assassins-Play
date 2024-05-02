@@ -97,6 +97,9 @@ https://cdn-live.mundogo.cl/foxsports3/foxsports3.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JBjZmJSbJLznVY2TyjhYIA", "kid":"P5fiZSZWWNKKk8lhQh9pdg" },{ "kty":"oct", "k":"tbrby9+XopAhS175f6z/sQ", "kid":"vAdgdB9mWweSubljnLzeag" },{ "kty":"oct", "k":"ZrlFjgZJjMPjM5eSFzKaRQ", "kid":"mf/BC5gQU1WohzAXKDWd5g" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/foxsports2/foxsports2.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",ECDF HD
+http://190.119.127.236:8000/play/a05h/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",WIN SPORTS HD
 http://190.119.127.236:8000/play/a07m/index.m3u8
 
@@ -210,7 +213,13 @@ http://179.1.201.133:54986/play/a06o/index.m3u8
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6ec41419dee076dce6e_suc.png" group-title="CINE Y SERIES",STUDIO UNIVERSAL HD
+http://190.119.127.236:8000/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6ec41419dee076dce6e_suc.png" group-title="CINE Y SERIES",STUDIO UNIVERSAL HD (2)
 http://181.115.69.117:8000/play/a0cb/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6ec41419dee076dce6e_suc.png" group-title="CINE Y SERIES",STUDIO UNIVERSAL HD (3)
+http://38.41.8.1:8000/play/a01y
 
 #EXTINF:-1 tvg-id="202dtv.cl" tvg-name="STAR Channel CHI" tvg-logo="https://i.ibb.co/kBS1sFh/star-channel.png" group-title="CINE Y SERIES",STAR CHANNEL HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -221,6 +230,12 @@ https://cdn-live.mundogo.cl/starchannel/starchannel.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZaIZqmQXvYPGUBg6SC+t8Q", "kid":"5Hd/mUc1VTSNPPkxu0nqOQ" },{ "kty":"oct", "k":"/hFkQYGELm+amtLeWL/elw", "kid":"zt2r9DVHUwqqib8ULBIy7w" },{ "kty":"oct", "k":"aeAi9LG7bvQVSYH8smOkKg", "kid":"jBMEIcbDX223EcpjrBWAvg" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/tnthd/tnthd.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",UNIVERSAL CHANNEL HD
+http://190.119.127.236:8000/play/a01f/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",UNIVERSAL CHANNEL HD (2)
+http://38.41.8.1:8000/play/a01a
 
 
 ----------INFANTILES----------
