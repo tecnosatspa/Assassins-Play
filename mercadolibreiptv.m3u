@@ -196,6 +196,15 @@ https://cdn-live.mundogo.cl/fx/fx.mpd
 #EXTINF:-1 tvg-id="1503dtv.cl" tvg-name="Golden Plus" tvg-logo="https://i.ibb.co/vqnXz1w/golden-plus.png" group-title="CINE Y SERIES",GOLDEN PLUS HD
 http://190.119.127.236:8000/play/a018/index.m3u8
 
+#EXTINF:-1 tvg-id="1503dtv.cl" tvg-name="Golden Plus" tvg-logo="https://i.ibb.co/vqnXz1w/golden-plus.png" group-title="CINE Y SERIES",GOLDEN PLUS HD (2)
+http://38.41.8.1:8000/play/a028
+
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premier" tvg-logo="" group-title="CINE Y SERIES",GOLDEN PREMIER HD
+http://181.115.69.117:8000/play/a0if/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premier" tvg-logo="" group-title="CINE Y SERIES",GOLDEN PREMIER 2 HD
+http://181.115.69.117:8000/play/a0ig/index.m3u8
+
 #EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e597d941bc3acf1bdcdf9_paramount.png" group-title="CINE Y SERIES",PARAMOUNT CHANNEL HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"cDkN+a6yWAa9tnR3jN+fVA", "kid":"JplkkYjlX0GoRiyRseu/pw" },{ "kty":"oct", "k":"mG5rEj9KF0RmbubQaKKPLw", "kid":"ID+Rdx2KUriHsRC90sMJSQ" },{ "kty":"oct", "k":"pATR9JfxWeTrOuUsETf12Q", "kid":"lGSO+ISZXc+1r+H8Eika5A" } ], "type":"temporary" }
@@ -236,6 +245,16 @@ http://190.119.127.236:8000/play/a01f/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",UNIVERSAL CHANNEL HD (2)
 http://38.41.8.1:8000/play/a01a
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WANER CHANNEL HD
+http://190.119.127.236:8000/play/a029/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WANER CHANNEL HD (3)
+http://38.41.8.1:8000/play/a008
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WANER CHANNEL HD (2)
+http://181.115.69.117:8000/play/a0eq/index.m3u8
+
 
 
 ----------INFANTILES----------
