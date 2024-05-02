@@ -246,13 +246,13 @@ http://190.119.127.236:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",UNIVERSAL CHANNEL HD (2)
 http://38.41.8.1:8000/play/a01a
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WANER CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WARNER CHANNEL HD
 http://190.119.127.236:8000/play/a029/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WANER CHANNEL HD (3)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WARNER CHANNEL HD (3)
 http://38.41.8.1:8000/play/a008
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WANER CHANNEL HD (2)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WARNER CHANNEL HD (2)
 http://181.115.69.117:8000/play/a0eq/index.m3u8
 
 
