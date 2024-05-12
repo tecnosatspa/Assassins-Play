@@ -297,13 +297,13 @@ http://190.121.192.100:8000/play/a05p/index.m3u8
 ----------MUSICA----------
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSICA",MTV 00S HD
-http://161.132.194.88:6178/play/a0sk/index.m3u8
+http://190.119.127.236:8000/play/a075/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSICA",MTV HD
-http://161.132.194.88:6178/play/a0tf/index.m3u8
+http://190.119.127.236:8000/play/a05q/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSICA",MTV LIVE HD
-http://161.132.194.88:6178/play/a0so/index.m3u8
+http://190.119.127.236:8000/play/a06n/index.m3u8
 
 
 ----------CULTURA Y ENTRETENIMIENTO----------
