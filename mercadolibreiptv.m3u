@@ -133,7 +133,7 @@ https://cdn-live.mundogo.cl/cinecanalhd/cinecanalhd.mpd
 http://190.119.127.236:8000/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-id="1524dtv.co" tvg-name="HBO AR/CO/EC/PE" tvg-logo="https://i.ibb.co/xfmMRRY/6142369c8f67e63df4b248bb-hbopremium.png" group-title="CINE Y SERIES",HBO HD
-http://181.115.69.117:8000/play/a010/index.m3u8
+http://45.5.117.182:8000/play/a0e8/index.m3u8
 
 #EXTINF:-1 tvg-id="1524dtv.co" tvg-name="HBO AR/CO/EC/PE" tvg-logo="https://i.ibb.co/xfmMRRY/6142369c8f67e63df4b248bb-hbopremium.png" group-title="CINE Y SERIES",HBO HD (2)
 http://190.119.127.236:8000/play/a00z/index.m3u8
@@ -142,7 +142,7 @@ http://190.119.127.236:8000/play/a00z/index.m3u8
 http://38.41.8.1:8000/play/a01u
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",HBO PLUS HD
-http://181.115.69.117:8000/play/a012/index.m3u8
+http://45.5.151.151:8000/play/a0ji/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",HBO PLUS HD (2)
 http://38.41.8.1:8000/play/a05i
@@ -151,7 +151,7 @@ http://38.41.8.1:8000/play/a05i
 http://190.119.127.236:8000/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-id="525dtv.cl" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/Rhmnzgk/hbo-2.png" group-title="CINE Y SERIES",HBO 2 HD (2)
-http://181.115.69.117:8000/play/a011/index.m3u8
+http://45.5.151.151:8000/play/a0jh/index.m3u8
 
 #EXTINF:-1 tvg-id="525dtv.cl" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/Rhmnzgk/hbo-2.png" group-title="CINE Y SERIES",HBO 2 HD (3)
 http://38.41.8.1:8000/play/a021
@@ -160,7 +160,7 @@ http://38.41.8.1:8000/play/a021
 http://190.119.127.236:8000/play/a00t/index.m3u8
 
 #EXTINF:-1 tvg-id="hbo-family.mx" tvg-name="MX | HBO Family" tvg-logo="https://i.ibb.co/q7NKc9t/hbo-family.png" group-title="CINE Y SERIES",HBO FAMILY HD (2)
-http://181.115.69.117:8000/play/a013/index.m3u8
+http://45.5.151.151:8000/play/a0jj/index.m3u8
 
 #EXTINF:-1 tvg-id="hbo-family.mx" tvg-name="MX | HBO Family" tvg-logo="https://i.ibb.co/q7NKc9t/hbo-family.png" group-title="CINE Y SERIES",HBO FAMILY HD (3)
 http://38.41.8.1:8000/play/a031
@@ -175,7 +175,7 @@ http://190.119.127.236:8000/play/a07l/index.m3u8
 http://190.119.127.236:8000/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-id="542dtv.cl" tvg-name="HBO Xtreme" tvg-logo="https://i.ibb.co/LNfZmpK/hbo-extreme.png" group-title="CINE Y SERIES",HBO XTREME HD (2)
-http://181.115.69.117:8000/play/a014/index.m3u8
+http://45.5.151.151:8000/play/a0jk/index.m3u8
 
 #EXTINF:-1 tvg-id="542dtv.cl" tvg-name="HBO Xtreme" tvg-logo="https://i.ibb.co/LNfZmpK/hbo-extreme.png" group-title="CINE Y SERIES",HBO XTREME HD (3)
 http://38.41.8.1:8000/play/a032
@@ -197,10 +197,10 @@ http://190.119.127.236:8000/play/a018/index.m3u8
 http://38.41.8.1:8000/play/a028
 
 #EXTINF:-1 tvg-id="" tvg-name="Golden Premier" tvg-logo="" group-title="CINE Y SERIES",GOLDEN PREMIER HD
-http://181.115.69.117:8000/play/a0if/index.m3u8
+http://45.5.116.178:8000/play/a00l/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Golden Premier" tvg-logo="" group-title="CINE Y SERIES",GOLDEN PREMIER 2 HD
-http://181.115.69.117:8000/play/a0ig/index.m3u8
+http://45.5.116.178:8000/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e597d941bc3acf1bdcdf9_paramount.png" group-title="CINE Y SERIES",PARAMOUNT CHANNEL HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -222,7 +222,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 http://190.119.127.236:8000/play/a013/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6ec41419dee076dce6e_suc.png" group-title="CINE Y SERIES",STUDIO UNIVERSAL HD (2)
-http://181.115.69.117:8000/play/a0cb/index.m3u8
+http://45.5.151.151:8000/play/a0cl/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6ec41419dee076dce6e_suc.png" group-title="CINE Y SERIES",STUDIO UNIVERSAL HD (3)
 http://38.41.8.1:8000/play/a01y
@@ -241,9 +241,6 @@ https://cdn-live.mundogo.cl/tnthd/tnthd.mpd
 http://190.119.127.236:8000/play/a01k/index.m3u8
 
 #EXTINF:-1 tvg-id="502dtv.cl" tvg-name="TNT Chile" tvg-logo="https://i.ibb.co/WcnmY6M/tnt.png" group-title="CINE Y SERIES",TNT HD (3)
-http://181.115.69.117:8000/play/a062/index.m3u8
-
-#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="TNT Chile" tvg-logo="https://i.ibb.co/WcnmY6M/tnt.png" group-title="CINE Y SERIES",TNT HD (4)
 http://38.41.8.1:8000/play/a00s
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",UNIVERSAL CHANNEL HD
@@ -257,10 +254,6 @@ http://190.119.127.236:8000/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",WARNER CHANNEL HD (3)
 http://38.41.8.1:8000/play/a008
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE Y SERIES",WARNER CHANNEL HD (2)
-http://181.115.69.117:8000/play/a0eq/index.m3u8
-
 
 
 ----------INFANTILES----------
