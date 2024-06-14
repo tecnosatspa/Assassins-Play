@@ -252,12 +252,6 @@ http://190.119.127.236:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="1503dtv.cl" tvg-name="Golden Plus" tvg-logo="https://i.ibb.co/vqnXz1w/golden-plus.png" group-title="CINE Y SERIES",GOLDEN PLUS HD (2)
 http://38.41.8.1:8000/play/a028
 
-#EXTINF:-1 tvg-id="" tvg-name="Golden Premier" tvg-logo="" group-title="CINE Y SERIES",GOLDEN PREMIER HD
-http://45.5.116.178:8000/play/a00l/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Golden Premier" tvg-logo="" group-title="CINE Y SERIES",GOLDEN PREMIER 2 HD
-http://45.5.116.178:8000/play/a00m/index.m3u8
-
 #EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e597d941bc3acf1bdcdf9_paramount.png" group-title="CINE Y SERIES",PARAMOUNT CHANNEL HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"cDkN+a6yWAa9tnR3jN+fVA", "kid":"JplkkYjlX0GoRiyRseu/pw" },{ "kty":"oct", "k":"mG5rEj9KF0RmbubQaKKPLw", "kid":"ID+Rdx2KUriHsRC90sMJSQ" },{ "kty":"oct", "k":"pATR9JfxWeTrOuUsETf12Q", "kid":"lGSO+ISZXc+1r+H8Eika5A" } ], "type":"temporary" }
