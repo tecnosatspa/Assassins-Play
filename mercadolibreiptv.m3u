@@ -27,6 +27,9 @@ http://live1.cl.cdn.lla.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_prof
 https://cdn-live.mundogo.cl/megahd/megahd.mpd
 
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://i.ibb.co/3NmJZNb/tvn.png" group-title="NACIONAL",TVN HD
+http://live1.cl.cdn.lla.vtrplay.com/tvnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://i.ibb.co/3NmJZNb/tvn.png" group-title="NACIONAL",TVN HD (2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d/nU1qFwH1NSCLz7WcAxHw", "kid":"qsQrXWpvW+2/1irF/vKJeA" },{ "kty":"oct", "k":"XiOoAFP7J086ASb6KHrrzw", "kid":"4hyVGmZxWcujnAmpRnUfcw" },{ "kty":"oct", "k":"ZJueey+t0p2zVbbbvAxS6w", "kid":"coh5b86yVlucQZ22OLXcGw" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/tvn/tvn.mpd
@@ -45,9 +48,7 @@ http://live1.cl.cdn.lla.vtrplay.com/laredhdchi/vxfmt=dp/playlist.m3u8?device_pro
 https://cdn-live.mundogo.cl/lared/lared.mpd
 
 #EXTINF:-1 tvg-id="CNN CHILE" tvg-name="CNN CHILE" tvg-logo="https://i.ibb.co/YWf6xcv/cnn-chile.png" group-title="NACIONAL",CNN CHILE HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ugrNV6WhQ2Tb7daD8KZqEQ", "kid":"r++n2KzCUg+UeeHKN9mbxg" },{ "kty":"oct", "k":"++o9Vovfr/foZZgJIH6S8A", "kid":"d4IhDYhoWPKqdRtWQqUMCg" },{ "kty":"oct", "k":"agItMXLLGOIZvPOFZqH2Bw", "kid":"QilU8I11XHuN6GPyHAS8Cw" } ], "type":"temporary" }
-https://cdn-live.mundogo.cl/cnnchile/cnnchile.mpd
+http://live1.cl.cdn.lla.vtrplay.com/cnnchilehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="24 Horas HD" tvg-name="24 Horas HD" tvg-logo="https://i.ibb.co/dMGyMM0/24-horas.png" group-title="NACIONAL",CANAL 24 HORAS HD
 https://mdstrm.com/live-stream-playlist-v/57d1a22064f5d85712b20dab.m3u8
