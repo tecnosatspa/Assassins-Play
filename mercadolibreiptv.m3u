@@ -112,22 +112,11 @@ https://cdn-live.mundogo.cl/foxsports3/foxsports3.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JBjZmJSbJLznVY2TyjhYIA", "kid":"P5fiZSZWWNKKk8lhQh9pdg" },{ "kty":"oct", "k":"tbrby9+XopAhS175f6z/sQ", "kid":"vAdgdB9mWweSubljnLzeag" },{ "kty":"oct", "k":"ZrlFjgZJjMPjM5eSFzKaRQ", "kid":"mf/BC5gQU1WohzAXKDWd5g" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/foxsports2/foxsports2.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",ECDF HD
-http://190.119.127.236:8000/play/a05h/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",WIN SPORTS HD
-http://190.119.127.236:8000/play/a07m/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",WIN SPORTS + HD
-http://190.119.127.236:8000/play/a06e/index.m3u8
-
 #EXTINF:-1 tvg-id="3081dtv.cl" tvg-name="" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F57%2F6577079_6A66E5AB224CD2F5.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES",TYC SPORTS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MQrvhoM8JmlsH2aCk0Uwzg", "kid":"HGcfIC8DX8aCleKFRA4fBg" },{ "kty":"oct", "k":"rzBjcCC9gGUO96x6V/BUBQ", "kid":"MmnMH/3IVtOdbSesquucVw" },{ "kty":"oct", "k":"qunyrZDV0p20MUWGr5tBTw", "kid":"mMCh+w1CX4i/4cKtCYV1rg" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/tycsports/tycsports.mpd
 
-#EXTINF:-1 tvg-id="", tvg-logo="" group-title="DEPORTES",PARAMOUNT+ SPORTS HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 ----------CINE Y SERIES----------
