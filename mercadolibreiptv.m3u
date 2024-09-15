@@ -37,16 +37,16 @@ https://cdn-live.mundogo.cl/tvp/tvp.mpd
 https://cdn-live.mundogo.cl/lared/lared.mpd
 
 #EXTINF:-1 tvg-id="CNN CHILE" tvg-name="CNN CHILE" tvg-logo="https://i.ibb.co/YWf6xcv/cnn-chile.png" group-title="NACIONAL",CNN CHILE HD
-http://138.219.58.234:8112/play/054
+http://201.219.29.246:8000/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-id="24 Horas HD" tvg-name="24 Horas HD" tvg-logo="https://i.ibb.co/dMGyMM0/24-horas.png" group-title="NACIONAL",CANAL 24 HORAS HD
 https://mdstrm.com/live-stream-playlist-v/57d1a22064f5d85712b20dab.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NACIONAL",ZONA LATINA
-http://138.219.58.234:8112/play/133
+http://200.60.124.19:29000/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NACIONAL", VIA X HD
-http://138.219.58.234:8112/play/131
+http://200.60.124.19:29000/play/a01c/index.m3u8
 
 
 ----------DEPORTES----------
