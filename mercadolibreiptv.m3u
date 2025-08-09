@@ -36,17 +36,8 @@ https://cdn-live.mundogo.cl/tvp/tvp.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NfN9nS+I1XeyKcaR0bKb4w", "kid":"01LCA+KgVAeNp/FIMa/Klw" },{ "kty":"oct", "k":"9pedu2NSIid/gDddHTnXFA", "kid":"L3IxyNrvWA2zm4uNGMh1hQ" },{ "kty":"oct", "k":"q6rpZWDa2zZcOqzPRQDUdw", "kid":"pHIuTMasW6OVkGscTaTRmA" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/lared/lared.mpd
 
-#EXTINF:-1 tvg-id="CNN CHILE" tvg-name="CNN CHILE" tvg-logo="https://i.ibb.co/YWf6xcv/cnn-chile.png" group-title="NACIONAL",CNN CHILE HD
-http://179.63.36.2:8000/play/a0qi/index.m3u8
-
 #EXTINF:-1 tvg-id="24 Horas HD" tvg-name="24 Horas HD" tvg-logo="https://i.ibb.co/dMGyMM0/24-horas.png" group-title="NACIONAL",CANAL 24 HORAS HD
 https://mdstrm.com/live-stream-playlist-v/57d1a22064f5d85712b20dab.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NACIONAL",ZONA LATINA
-http://200.60.124.19:29000/play/a01p/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NACIONAL", VIA X HD
-http://200.60.124.19:29000/play/a01c/index.m3u8
 
 
 ----------DEPORTES----------
